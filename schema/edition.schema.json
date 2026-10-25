@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "edition.schema.json",
+  "title": "Edición de El Briefing",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["date", "edition_time", "is_monday_weekend_recap", "summary_30s", "opportunities", "stories"],
+  "properties": {
+    "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "edition_time": { "type": "string", "pattern": "^([01]\\d|2[0-3]):[0-5]\\d$" },
+    "is_monday_weekend_recap": { "type": "boolean" },
+    "sample": { "type": "boolean", "description": "Solo para la edición de muestra: no se notifica." },
+    "summary_30s": {
+      "type": "array", "minItems": 2, "maxItems": 6,
+      "items": { "type": "string", "minLength": 10, "maxLength": 280 }
+    },
+    "opportunities": { "type": "array", "maxItems": 8, "items": { "$ref": "#/$defs/opportunity" } },
+    "stories": { "type": "array", "minItems": 1, "maxItems": 12, "items": { "$ref": "#/$defs/story" } }
+  },
+  "$defs": {
+    "text": { "type": "string", "minLength": 3 },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "url"],
+      "properties": {
+        "name": { "type": "string", "minLength": 2, "maxLength": 60 },
+        "url": { "type": "string", "pattern": "^https://[^\\s]+$" }
+      }
+    },
+    "opportunity": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "kind", "title", "fit", "detail", "action", "sources"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^o\\d+$" },
+        "kind": { "enum": ["Carrera", "Ayuda", "Inversión", "Formación"] },
+        "deadline": { "type": "string", "minLength": 3, "maxLength": 40 },
+        "title": { "type": "string", "minLength": 10, "maxLength": 160 },
+        "fit": { "type": "string", "minLength": 10, "maxLength": 300 },
+        "detail": { "type": "string", "minLength": 10 },
+        "action": { "type": "string", "minLength": 10 },
+        "sources": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/source" } },
+        "note": { "type": "string", "minLength": 3 }
+      }
+    },
+    "view": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["label", "text"],
+      "properties": {
+        "label": { "type": "string", "minLength": 3, "maxLength": 60 },
+        "text": { "type": "string", "minLength": 10 }
+      }
+    },
+    "story": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "section", "label", "title", "dek", "read_minutes", "what", "why", "views", "sources"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^c\\d+$" },
+        "section": { "enum": ["Política", "Finanzas", "Mundo"] },
+        "label": { "type": "string", "minLength": 3, "maxLength": 50 },
+        "title": { "type": "string", "minLength": 10, "maxLength": 160 },
+        "dek": { "type": "string", "minLength": 10, "maxLength": 240 },
+        "read_minutes": { "type": "integer", "minimum": 1, "maximum": 10 },
+        "what": { "type": "array", "minItems": 1, "maxItems": 6, "items": { "$ref": "#/$defs/text" } },
+        "why": { "type": "string", "minLength": 10 },
+        "views": { "type": "array", "minItems": 2, "maxItems": 2, "items": { "$ref": "#/$defs/view" } },
+        "sources": { "type": "array", "minItems": 2, "items": { "$ref": "#/$defs/source" } }
+      }
+    }
+  }
+}

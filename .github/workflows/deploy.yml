@@ -1,0 +1,69 @@
+name: Validar, publicar y avisar
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+
+      # Si falla, no se despliega: la web conserva la edición anterior.
+      - name: Validar ediciones
+        run: node scripts/validate.mjs
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+
+      - name: Desplegar en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Avisar con ntfy si hay edición nueva
+        if: github.event_name == 'push'
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          BEFORE: ${{ github.event.before }}
+          PAGE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: |
+          if [ -z "$NTFY_TOPIC" ]; then echo "Sin secreto NTFY_TOPIC: no se avisa."; exit 0; fi
+          if [ -z "$BEFORE" ] || ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            ADDED=$(git diff-tree --no-commit-id --name-only --diff-filter=A -r "$GITHUB_SHA")
+          else
+            ADDED=$(git diff --name-only --diff-filter=A "$BEFORE" "$GITHUB_SHA")
+          fi
+          FILE=$(printf '%s\n' "$ADDED" | grep -E '^editions/[0-9]{4}-[0-9]{2}-[0-9]{2}\.json$' | sort | tail -n 1 || true)
+          if [ -z "$FILE" ]; then echo "No hay edición nueva: no se avisa."; exit 0; fi
+          if [ "$(node -p "require('./$FILE').sample === true")" = "true" ]; then echo "Edición de muestra: no se avisa."; exit 0; fi
+          DATE=$(node -p "require('./$FILE').date")
+          MSG=$(node -p "require('./$FILE').summary_30s[0]")
+          curl -fsS \
+            -H "Title: El Briefing está listo" \
+            -H "Click: ${PAGE_URL}#/${DATE}" \
+            -H "Tags: newspaper" \
+            --data-binary "$MSG" \
+            "https://ntfy.sh/${NTFY_TOPIC}"

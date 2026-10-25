@@ -1,0 +1,157 @@
+{
+  "date": "2026-10-23",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "sample": true,
+  "summary_30s": [
+    "MUESTRA: el Parlamento ficticio de Ejemplonia aprueba unos presupuestos con una mayoría ajustada.",
+    "MUESTRA: un banco central imaginario mantiene los tipos y deja abierta una bajada en diciembre.",
+    "MUESTRA: una cumbre internacional inventada termina con un acuerdo de mínimos sobre comercio.",
+    "Para ti: MUESTRA — una convocatoria de formación ficticia cierra el plazo la próxima semana."
+  ],
+  "opportunities": [
+    {
+      "id": "o1",
+      "kind": "Formación",
+      "deadline": "Plazo: 30 oct",
+      "title": "MUESTRA: curso gratuito de análisis de datos con certificado oficial",
+      "fit": "Encaja con un perfil que quiere reforzar habilidades digitales sin coste.",
+      "detail": "Contenido ficticio de prueba. Curso en línea de 60 horas, con plazas limitadas por orden de inscripción y certificado al terminar.",
+      "action": "Revisar requisitos en la fuente oficial y preparar la inscripción antes del plazo.",
+      "sources": [{ "name": "SEPE", "url": "https://www.sepe.es/" }],
+      "note": "Edición de muestra: esta convocatoria no existe."
+    },
+    {
+      "id": "o2",
+      "kind": "Inversión",
+      "deadline": "Subasta: 4 nov",
+      "title": "MUESTRA: nueva subasta de Letras del Tesoro a 12 meses",
+      "fit": "Encaja con quien busca dónde aparcar ahorro a corto plazo con bajo riesgo.",
+      "detail": "Contenido ficticio de prueba. Las peticiones no competitivas se pueden presentar hasta dos días hábiles antes de la subasta.",
+      "action": "Consultar el calendario oficial de subastas y el procedimiento de compra directa.",
+      "sources": [{ "name": "Tesoro Público", "url": "https://www.tesoro.es/" }],
+      "note": "Información, no asesoramiento financiero. Edición de muestra."
+    },
+    {
+      "id": "o3",
+      "kind": "Ayuda",
+      "deadline": "Tendencia",
+      "title": "MUESTRA: ayudas europeas para proyectos de eficiencia energética",
+      "fit": "Encaja con quien planea mejoras en vivienda o en una pequeña actividad.",
+      "detail": "Contenido ficticio de prueba. Se espera una nueva línea de financiación en los próximos meses; conviene preparar la documentación con antelación.",
+      "action": "Activar una alerta en el portal de financiación de la UE con las palabras clave del proyecto.",
+      "sources": [{ "name": "Portal de financiación UE", "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/" }],
+      "note": "Edición de muestra: esta ayuda no existe."
+    }
+  ],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "MUESTRA: el Parlamento de Ejemplonia aprueba los presupuestos por un voto",
+      "dek": "La votación cierra semanas de negociación entre el Gobierno y sus socios.",
+      "read_minutes": 1,
+      "what": [
+        "Contenido ficticio: la ley salió adelante con 176 votos a favor.",
+        "Incluye una subida del gasto en vivienda y transporte público.",
+        "La oposición anunció que presentará un recurso."
+      ],
+      "why": "Unos presupuestos aprobados dan estabilidad al Gobierno durante el próximo año.",
+      "views": [
+        { "label": "Quienes apoyan", "text": "Sostienen que las cuentas refuerzan los servicios públicos y la inversión." },
+        { "label": "Quienes critican", "text": "Sostienen que las cuentas elevan el gasto sin un plan claro para reducir la deuda." }
+      ],
+      "sources": [
+        { "name": "EFE", "url": "https://efe.com/" },
+        { "name": "Europa Press", "url": "https://www.europapress.es/" }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Finanzas",
+      "label": "Finanzas · Europa",
+      "title": "MUESTRA: el banco central mantiene los tipos y abre la puerta a bajarlos",
+      "dek": "La institución imaginaria deja el tipo de depósito sin cambios por tercera vez.",
+      "read_minutes": 2,
+      "what": [
+        "Contenido ficticio: el tipo de depósito se mantiene en el 2 %.",
+        "La inflación prevista para el próximo año baja una décima.",
+        "La presidenta no descartó un recorte en diciembre."
+      ],
+      "why": "Los tipos influyen en el precio de las hipotecas y en la rentabilidad del ahorro.",
+      "views": [
+        { "label": "Quienes piden bajar", "text": "Consideran que el crecimiento débil justifica abaratar el crédito cuanto antes." },
+        { "label": "Quienes piden esperar", "text": "Consideran que conviene confirmar la bajada de la inflación antes de actuar." }
+      ],
+      "sources": [
+        { "name": "Reuters", "url": "https://www.reuters.com/" },
+        { "name": "Expansión", "url": "https://www.expansion.com/" }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Mundo",
+      "label": "Mundo · Comercio",
+      "title": "MUESTRA: la cumbre de Ficticia acaba con un acuerdo de mínimos sobre aranceles",
+      "dek": "Los países participantes se comprometen a no subir aranceles durante seis meses.",
+      "read_minutes": 1,
+      "what": [
+        "Contenido ficticio: firmaron 20 de los 24 países presentes.",
+        "El acuerdo no incluye mecanismos de sanción.",
+        "Habrá una nueva reunión en primavera."
+      ],
+      "why": "Una tregua comercial reduce la incertidumbre para empresas exportadoras.",
+      "views": [
+        { "label": "Quienes lo valoran", "text": "Ven un primer paso que evita una escalada de aranceles a corto plazo." },
+        { "label": "Quienes lo ven corto", "text": "Ven un compromiso sin garantías que no resuelve las disputas de fondo." }
+      ],
+      "sources": [
+        { "name": "AP", "url": "https://apnews.com/" },
+        { "name": "BBC", "url": "https://www.bbc.com/news" }
+      ]
+    },
+    {
+      "id": "c4",
+      "section": "Política",
+      "label": "Política · Unión Europea",
+      "title": "MUESTRA: Bruselas propone simplificar los trámites para pequeñas empresas",
+      "dek": "La propuesta imaginaria reduciría los informes obligatorios para las pymes.",
+      "read_minutes": 1,
+      "what": [
+        "Contenido ficticio: se eliminarían tres formularios anuales.",
+        "La medida debe aprobarse en el Parlamento Europeo y el Consejo."
+      ],
+      "why": "Menos trámites pueden reducir costes para negocios pequeños.",
+      "views": [
+        { "label": "Quienes apoyan", "text": "Defienden que aliviar la burocracia ayuda a crear empleo y empresas." },
+        { "label": "Quienes critican", "text": "Defienden que algunos informes protegen a consumidores y trabajadores." }
+      ],
+      "sources": [
+        { "name": "Politico Europe", "url": "https://www.politico.eu/" },
+        { "name": "Euronews", "url": "https://www.euronews.com/" }
+      ]
+    },
+    {
+      "id": "c5",
+      "section": "Finanzas",
+      "label": "Finanzas · Mercados",
+      "title": "MUESTRA: las bolsas europeas cierran la semana con ligeras subidas",
+      "dek": "El índice imaginario de referencia sube un 0,8 % en cinco sesiones.",
+      "read_minutes": 1,
+      "what": [
+        "Contenido ficticio: la banca y la energía lideraron las subidas.",
+        "El euro se mantuvo estable frente al dólar."
+      ],
+      "why": "La evolución del mercado afecta a planes de pensiones y fondos de inversión.",
+      "views": [
+        { "label": "Visión optimista", "text": "Apunta a resultados empresariales mejores de lo esperado en el trimestre." },
+        { "label": "Visión prudente", "text": "Apunta a que la subida es pequeña y depende de las decisiones de tipos." }
+      ],
+      "sources": [
+        { "name": "Cinco Días", "url": "https://cincodias.elpais.com/" },
+        { "name": "elEconomista.es", "url": "https://www.eleconomista.es/" }
+      ]
+    }
+  ]
+}
