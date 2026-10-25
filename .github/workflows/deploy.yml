@@ -52,7 +52,7 @@ jobs:
         run: |
           if [ -z "$NTFY_TOPIC" ]; then echo "Sin secreto NTFY_TOPIC: no se avisa."; exit 0; fi
           if [ -z "$BEFORE" ] || ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
-            ADDED=$(git diff-tree --no-commit-id --name-only --diff-filter=A -r "$GITHUB_SHA")
+            ADDED=$(git diff-tree --root --no-commit-id --name-only --diff-filter=A -r "$GITHUB_SHA")
           else
             ADDED=$(git diff --name-only --diff-filter=A "$BEFORE" "$GITHUB_SHA")
           fi
