@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-10-26",
+      "stories": 5,
+      "opportunities": 1,
+      "headlines": [
+        "España entra en precampaña para las elecciones generales del 29 de noviembre",
+        "Lula da Silva gana la segunda vuelta en Brasil y Flávio Bolsonaro pedirá anular el resultado",
+        "Nuevo fin de semana de protestas en Europa por el coste de la vida y la vivienda"
+      ]
+    },
+    {
       "date": "2026-10-23",
       "stories": 5,
       "opportunities": 3,
