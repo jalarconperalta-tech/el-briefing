@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-27",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "summary_30s": [
+    "PP y Vox pactan listas coordinadas para el Senado en las generales del 29 de noviembre; Sánchez lo critica y Feijóo lo defiende.",
+    "Lula se consolida tras su victoria en Brasil: el PL de Bolsonaro acepta el resultado, pero Flávio mantiene que pedirá anularlo.",
+    "El Ibex cerró el lunes en 19.033 puntos, lastrado por las empresas con negocio en Brasil, con el Brent por encima de 115 dólares y bancos centrales esta semana.",
+    "Para ti: el Tesoro celebra el 3 de noviembre su subasta de Letras a 6 y 12 meses."
+  ],
+  "opportunities": [
+    {
+      "id": "o1",
+      "kind": "Inversión",
+      "deadline": "Subasta: 3 nov",
+      "title": "Subasta de Letras del Tesoro a 6 y 12 meses el 3 de noviembre",
+      "fit": "Encaja con quien ahorra a corto plazo con riesgo bajo y quiere seguir la rentabilidad de la deuda pública.",
+      "detail": "El calendario oficial fija para el 3 de noviembre la subasta de Letras a 6 y 12 meses, con emisión el 6 de noviembre. En la anterior, el 6 de octubre, la Letra a 12 meses se adjudicó a un tipo marginal del 3,026 %, según Finect. Con el BCE decidiendo esta semana, la rentabilidad puede moverse respecto a ese dato.",
+      "action": "Consultar en Tesoro Público el procedimiento de petición no competitiva y comparar el resultado de la subasta con depósitos y cuentas remuneradas.",
+      "sources": [
+        { "name": "Banco de España (calendario de Letras 2026)", "url": "https://www.bde.es/f/webbe/INF/MenuVertical/MercadoDeDeudaPublica/ProximasSubastas/Ficheros/Calendario_Letras_Web_2026.pdf" },
+        { "name": "Tesoro Público", "url": "https://www.tesoro.es/en/deuda-publica/subastas/calendario" },
+        { "name": "Finect", "url": "https://www.finect.com/usuario/eduardogarcia/articulos/la-rentabilidad-de-las-letras-del-tesoro-a-12-meses-se-dispara-al-3026" }
+      ],
+      "note": "Información, no asesoramiento financiero. Fechas por confirmar en el Tesoro."
+    }
+  ],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "PP y Vox pactan listas coordinadas al Senado en 23 circunscripciones",
+      "dek": "Vox no concurrirá en seis provincias y el PP en tres; Sánchez y Feijóo valoran el acuerdo de forma opuesta.",
+      "read_minutes": 2,
+      "what": [
+        "El acuerdo afecta a 23 circunscripciones y busca concentrar el voto de centroderecha frente a la candidatura conjunta de PSOE, Frente Amplio e izquierdas territoriales.",
+        "Vox no se presentará en seis provincias, donde el PP incluirá en su lista a un independiente propuesto por Vox en segundo o tercer puesto.",
+        "El PP no se presentará en Guipúzcoa, Girona y Tarragona; Vox irá en solitario en 14 provincias.",
+        "Según EFE, ambos partidos creen que el pacto les da una holgada mayoría absoluta en el Senado."
+      ],
+      "why": "El Senado puede retrasar o vetar leyes, así que la composición de la Cámara Alta condicionará al próximo Gobierno, sea del signo que sea.",
+      "views": [
+        { "label": "Postura del PSOE", "text": "Sánchez sostiene que PP y Vox comparten \"un mismo proyecto político de involución\" y que las listas únicas muestran que gobiernan juntos." },
+        { "label": "Postura del PP", "text": "Feijóo defiende que hay una mayoría que quiere cambio y Tellado califica el pacto de colaboración inteligente para proteger la mayoría de centroderecha en el Senado." }
+      ],
+      "sources": [
+        { "name": "Infobae (EFE)", "url": "https://www.infobae.com/espana/agencias/2026/10/26/feijoo-asegura-que-la-reaccion-rabiosa-de-sanchez-a-su-pacto-con-vox-confirma-que-van-en-el-camino-adecuado/" },
+        { "name": "Infobae (Temas del día EFE)", "url": "https://www.infobae.com/espana/agencias/2026/10/26/temas-del-dia-de-efe-espana-del-lunes-26-de-octubre-de-2026-2300-horas/" }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Mundo",
+      "label": "Mundo · América Latina",
+      "title": "El PL reconoce la victoria de Lula, pero Flávio Bolsonaro mantiene que pedirá anular las elecciones",
+      "dek": "Novedad respecto a ayer: el partido de Bolsonaro acepta el resultado del TSE y Trump habla de fraude.",
+      "read_minutes": 2,
+      "what": [
+        "El presidente del PL, Valdemar Costa Neto, reconoció el resultado proclamado por el TSE, aunque pidió aclarar los cuestionamientos planteados.",
+        "Flávio Bolsonaro dijo que organizará a la oposición desde el Congreso y que buscará que la Justicia anule la candidatura de Lula por supuestos abusos.",
+        "Lula ganó con un 52 % frente al 48 %, más de cuatro millones de votos de diferencia; el PL logra 121 diputados, 29 senadores y seis gobernadores.",
+        "Trump afirmó que hubo fraude y el vicepresidente Geraldo Alckmin lo rechazó."
+      ],
+      "why": "La disputa sobre la legitimidad del resultado y un Congreso con peso de la derecha marcarán la gobernabilidad de Brasil, mayor economía latinoamericana, desde enero de 2027.",
+      "views": [
+        { "label": "Entorno de Bolsonaro", "text": "Sostiene que el gasto público y los beneficios sociales previos a la votación, y el cambio de última hora en la jornada, afectaron a la equidad de la contienda." },
+        { "label": "Entorno de Lula", "text": "Sostiene que el resultado es claro y proclamado por el tribunal electoral; Alckmin rechaza la acusación de fraude." }
+      ],
+      "sources": [
+        { "name": "El Nacional (RD)", "url": "https://elnacional.com.do/mundo/partido-flavio-bolsonaro-reconoce-reeleccion-lula_584563.html" },
+        { "name": "Subrayado", "url": "https://www.subrayado.com.uy/lula-da-silva-fue-reelecto-presidente-brasil-flavio-bolsonaro-exige-que-se-anule-la-eleccion-n1021765" },
+        { "name": "CNN", "url": "https://edition.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam" }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Finanzas",
+      "label": "Finanzas · Mercados",
+      "title": "El Ibex sube un 0,23 % y cierra en 19.033 puntos, rezagado por Brasil",
+      "dek": "Telefónica cae un 6,41 % y Santander un 3,09 % tras la victoria de Lula; el Brent ronda los 115-117 dólares.",
+      "read_minutes": 2,
+      "what": [
+        "El Ibex cerró el lunes en 19.033,3 puntos tras llegar a perder más de un 1 %, y fue la plaza europea con peor comportamiento.",
+        "Las empresas con negocio en Brasil lideraron las caídas: Telefónica, Santander, Cellnex, Naturgy y Mapfre; subieron Grifols, Indra e IAG.",
+        "El Brent cerró en torno a 117 dólares según la mayoría de las fuentes, con alguna que lo sitúa cerca de 115.",
+        "Esta semana hablan la Fed (miércoles), el BCE y el Banco de Japón, y presentan resultados varios bancos y eléctricas."
+      ],
+      "why": "Brasil pesa en las cuentas de grandes empresas españolas, y un petróleo caro puede alimentar la inflación y condicionar las decisiones de los bancos centrales.",
+      "views": [
+        { "label": "Lectura prudente", "text": "Una analista de Julius Baer apunta a una corrección más brusca de los activos brasileños y a más volatilidad por la incertidumbre fiscal." },
+        { "label": "Lectura de resistencia", "text": "El selectivo se recuperó a lo largo de la sesión, los demás índices europeos cerraron en positivo y la prima de riesgo bajó a 63,6 puntos básicos." }
+      ],
+      "sources": [
+        { "name": "Catalunya Press", "url": "https://www.catalunyapress.es/articulo/economia/2026-10-26/6066622-ibex-35-resiste-encima-19000-puntos-pese-incertidumbre-internacional" },
+        { "name": "Bolsamania", "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-subidas-semana-de-vertigo-mercados--23920094.html" },
+        { "name": "El Español (Invertia)", "url": "https://www.elespanol.com/invertia/mercados/20261026/ibex-bolsa-directo-hoy-cotizaciones-noticias-tiempo-real/1003744434381_10.html" }
+      ]
+    },
+    {
+      "id": "c4",
+      "section": "Mundo",
+      "label": "Mundo · Oriente Medio",
+      "title": "Los ataques hutíes a Arabia Saudí mantienen en tensión el mercado del crudo",
+      "dek": "Drones y misiles apuntan a aeropuertos y a instalaciones petroleras, en un contexto de tráfico reducido por Ormuz.",
+      "read_minutes": 2,
+      "what": [
+        "El 8 de octubre los hutíes afirmaron haber lanzado un misil balístico contra el aeropuerto de Riad; la coalición saudí dijo haberlo interceptado.",
+        "Un ataque previo con drones contra el mismo aeropuerto mató a una persona y dejó ocho heridos, y otro en Abha causó dos muertos.",
+        "Según el ISW, citado por Euronews, buscan elevar el coste económico para Riad atacando instalaciones petroleras y aeropuertos.",
+        "La ruta del Mar Rojo es clave para las exportaciones saudíes mientras el tráfico por Ormuz sigue reducido por la guerra de Irán."
+      ],
+      "why": "Arabia Saudí es un gran exportador de crudo y cualquier daño a su infraestructura o a sus rutas se traslada al precio del petróleo y a la inflación.",
+      "views": [
+        { "label": "Postura de la coalición saudí", "text": "Afirma que intercepta los misiles, responde con bombardeos en Yemen y presenta los ataques como una amenaza a civiles y a la navegación." },
+        { "label": "Postura de los hutíes", "text": "Reivindican los ataques contra emplazamientos sensibles y amenazan con nuevas operaciones contra sedes de Aramco." }
+      ],
+      "sources": [
+        { "name": "Euronews", "url": "https://es.euronews.com/2026/10/08/huties-ataque-misil-aeropuerto-riad-explosiones-arabia-saudi" },
+        { "name": "RTVC", "url": "https://rtvc.es/nuevo-ataque-huties-aeropuerto-riad-11-octubre-2026/" }
+      ]
+    }
+  ]
+}

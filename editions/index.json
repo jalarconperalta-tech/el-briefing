@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-10-27",
+      "stories": 4,
+      "opportunities": 1,
+      "headlines": [
+        "PP y Vox pactan listas coordinadas al Senado en 23 circunscripciones",
+        "El PL reconoce la victoria de Lula, pero Flávio Bolsonaro mantiene que pedirá anular las elecciones",
+        "El Ibex sube un 0,23 % y cierra en 19.033 puntos, rezagado por Brasil"
+      ]
+    },
+    {
       "date": "2026-10-26",
       "stories": 5,
       "opportunities": 1,
