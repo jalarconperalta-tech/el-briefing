@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-10-28",
+      "stories": 4,
+      "opportunities": 1,
+      "headlines": [
+        "La Fed decide hoy sobre los tipos: se espera pausa y el mercado apunta a una subida en diciembre",
+        "Las encuestas del 29-N dejan a PP y Vox por debajo de 200 escaños y al PSOE algo más cerca",
+        "El Ibex sube un 0,67 % y recupera los 19.100 puntos con la moderación del petróleo"
+      ]
+    },
+    {
       "date": "2026-10-27",
       "stories": 4,
       "opportunities": 1,

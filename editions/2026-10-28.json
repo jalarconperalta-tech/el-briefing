@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-28",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "summary_30s": [
+    "La Reserva Federal decide hoy sobre los tipos: el mercado descuenta que los mantiene en 3,75-4 % y apuesta por una subida en diciembre, con la inflación en el 3,7 %.",
+    "Las encuestas para el 29-N sitúan a PP y Vox en torno a 197-200 escaños; el PSOE recorta algo de distancia y ambos bloques cierran pactos para el Senado.",
+    "El Ibex subió un 0,67 % el martes, hasta unos 19.160 puntos, y el Brent cedió por las gestiones diplomáticas entre Irán, Arabia Saudí, Turquía y Pakistán.",
+    "Para ti: el Tesoro subasta Letras a 6 y 12 meses el 3 de noviembre, con el BCE decidiendo mañana."
+  ],
+  "opportunities": [
+    {
+      "id": "o1",
+      "kind": "Inversión",
+      "deadline": "Subasta: 3 nov",
+      "title": "Letras del Tesoro a 6 y 12 meses: subasta el 3 de noviembre, con el BCE decidiendo antes",
+      "fit": "Encaja con quien ahorra a corto plazo con riesgo bajo y sigue la rentabilidad de la deuda pública y los tipos.",
+      "detail": "Según el calendario del Banco de España, la subasta de Letras a 6 y 12 meses es el 3 de noviembre y la de Letras a 3 y 9 meses el 10 de noviembre. Antes se conocerán las decisiones de la Fed (hoy) y del BCE (jueves), que pueden mover la rentabilidad que se adjudique. Es un recordatorio de la edición de ayer, con el calendario reconfirmado hoy.",
+      "action": "Revisar en Tesoro Público el procedimiento de petición no competitiva y comparar el resultado de la subasta con depósitos y cuentas remuneradas.",
+      "sources": [
+        { "name": "Banco de España (calendario de Letras 2026)", "url": "https://www.bde.es/f/webbe/INF/MenuVertical/MercadoDeDeudaPublica/ProximasSubastas/Ficheros/Calendario_Letras_Web_2026.pdf" },
+        { "name": "OCU (subastas de Letras del Tesoro)", "url": "https://www.ocu.org/dinero/deposito-inversion/noticias/subastas-letras-tesoro" }
+      ],
+      "note": "Información, no asesoramiento financiero. Fechas por confirmar en el Tesoro."
+    }
+  ],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Finanzas",
+      "label": "Finanzas · Estados Unidos",
+      "title": "La Fed decide hoy sobre los tipos: se espera pausa y el mercado apunta a una subida en diciembre",
+      "dek": "El rango vigente es 3,75-4 %; la inflación de septiembre subió al 3,7 % y el empleo creció solo en 29.000 puestos.",
+      "read_minutes": 2,
+      "what": [
+        "La Reserva Federal anuncia hoy su decisión; según Euronews, más del 90 % del mercado espera que mantenga el rango de 3,75 % a 4 %, fijado tras la subida de septiembre.",
+        "El mismo medio sitúa en torno al 73 % la probabilidad de otra subida de un cuarto de punto en la reunión del 8 y 9 de diciembre.",
+        "El IPC de septiembre subió al 3,7 % interanual (3,4 % en agosto), impulsado por la energía, mientras el paro llegó al 4,2 %.",
+        "El presidente de la Fed, Kevin Warsh, comparece tras la decisión; los analistas esperan pocas pistas sobre el futuro."
+      ],
+      "why": "Los tipos estadounidenses influyen en el dólar, en los bonos y en las decisiones de otros bancos centrales, incluido el BCE, que se reúne mañana.",
+      "views": [
+        { "label": "Postura de cautela", "text": "El presidente de la Fed de Nueva York, John Williams, ha dicho que no hay necesidad de actuar con urgencia, y otros miembros piden esperar a más datos de empleo." },
+        { "label": "Postura de endurecimiento", "text": "Christopher Waller prevé nuevas subidas si los datos de inflación lo confirman, y los gobernadores Hammack y Logan podrían votar a favor de subir ya." }
+      ],
+      "sources": [
+        { "name": "Euronews", "url": "https://es.euronews.com/2026/10/27/que-esperar-de-la-fed-mientras-warsh-sopesa-la-inflacion-el-petroleo-y-las-legislativas-en" },
+        { "name": "Infobae (agencias)", "url": "https://www.infobae.com/america/agencias/2026/10/26/los-mercados-preven-una-pausa-en-los-tipos-de-la-fed-aunque-descuentan-una-subida-en-diciembre/" },
+        { "name": "Investing.com", "url": "https://es.investing.com/news/economy-news/decision-de-la-fed-octubre-2026-pausa-esperada-alza-de-tasas-en-diciembre-3892868" }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "Las encuestas del 29-N dejan a PP y Vox por debajo de 200 escaños y al PSOE algo más cerca",
+      "dek": "La media de tres demoscópicas da 197 escaños a la derecha y 108 al PSOE; ambos bloques coordinan sus listas al Senado.",
+      "read_minutes": 2,
+      "what": [
+        "Según la media de Sociométrica, Sigma Dos y Ateneo del Dato, el PP lograría 130 escaños y Vox 67, un total de 197, por debajo de 200 por primera vez en meses.",
+        "El PSOE sube hasta 108 de media y el Frente Amplio se queda en 14; la mayoría absoluta está en 176.",
+        "El sondeo de Sociométrica para El Español da 135 escaños al PP, 108 al PSOE y 63 a Vox, y un 99 % de probabilidad de que PP, Vox y UPN sumen la mayoría absoluta.",
+        "En el Senado, PP y Vox han pactado listas coordinadas y PSOE y Frente Amplio concurren bajo la sigla Senado de Progreso."
+      ],
+      "why": "La suma de escaños y la composición del Senado condicionarán qué mayoría podrá formar Gobierno y aprobar leyes tras las elecciones.",
+      "views": [
+        { "label": "Postura del PP", "text": "Feijóo defiende que hay una mayoría social que quiere un cambio y presenta la coordinación con Vox en el Senado como una forma de proteger esa mayoría." },
+        { "label": "Postura del PSOE", "text": "Sánchez sostiene que las listas conjuntas de PP y Vox muestran que gobernarían juntos, y plantea las elecciones como una elección entre dos proyectos distintos." }
+      ],
+      "sources": [
+        { "name": "El Independiente", "url": "https://www.elindependiente.com/espana/2026/10/26/encuestas-29-n-generales-sanchez-recorta-pp-vox-debajo-200-escanos/" },
+        { "name": "El Español", "url": "https://www.elespanol.com/espana/politica/20261025/izquierda-no-remonta-sanchez-gana-escanos-costa-frente-podemos-sondeo-noche/1003744434105_0.html" },
+        { "name": "Infobae (EFE)", "url": "https://www.infobae.com/espana/agencias/2026/10/26/feijoo-asegura-que-la-reaccion-rabiosa-de-sanchez-a-su-pacto-con-vox-confirma-que-van-en-el-camino-adecuado/" }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Finanzas",
+      "label": "Finanzas · Mercados",
+      "title": "El Ibex sube un 0,67 % y recupera los 19.100 puntos con la moderación del petróleo",
+      "dek": "Solaria y Ferrovial lideran las subidas y Repsol cae más de un 3 %; el Brent baja de 115 dólares.",
+      "read_minutes": 2,
+      "what": [
+        "El Ibex 35 cerró el martes en unos 19.160 puntos (19.160,6 según Europa Press), tras recuperar el golpe de Brasil del lunes.",
+        "Según El Español, a media tarde lideraban las subidas Solaria (+9,19 %), Ferrovial (+8,34 %) y ArcelorMittal (+3,41 %), y las bajadas, Repsol (-3,33 %).",
+        "El Brent de enero cotizaba cerca de 109 dólares, un 1,3 % menos, y el WTI rondaba los 100 dólares.",
+        "Esta semana deciden la Fed (miércoles) y el BCE (jueves)."
+      ],
+      "why": "El precio del crudo y los tipos de interés afectan a la inflación, a los resultados de las empresas cotizadas y al coste de las hipotecas.",
+      "views": [
+        { "label": "Lectura optimista", "text": "Los analistas destacan que el selectivo enlaza tres subidas seguidas y que el crudo cede por las gestiones diplomáticas en Oriente Medio." },
+        { "label": "Lectura prudente", "text": "Otros recuerdan que el Brent sigue muy por encima de los 72 dólares previos a la guerra y que las decisiones de bancos centrales pueden volver a mover los mercados." }
+      ],
+      "sources": [
+        { "name": "El Español (Invertia)", "url": "https://www.elespanol.com/invertia/mercados/20261027/ibex-bolsa-directo-hoy-cotizaciones-noticias-tiempo-real/1003744435873_10.html" },
+        { "name": "Portafolio (Investing)", "url": "https://portafolio.co/internacional/petroleo-cae-este-27-de-octubre-brent-de-enero-cotiza-en-us-109-32-y-wti-de-diciembre-ronda-los-us-505208" },
+        { "name": "El Boletín", "url": "https://www.elboletin.com/ibex-35-recupera-19000-puntos-castigo-telfonica-santander-brasil/" }
+      ]
+    },
+    {
+      "id": "c4",
+      "section": "Mundo",
+      "label": "Mundo · Oriente Medio",
+      "title": "Irán, Arabia Saudí, Turquía y Pakistán se reúnen en Teherán para rebajar la tensión en Ormuz",
+      "dek": "Los contactos coinciden con ataques hutíes a Arabia Saudí y un tránsito por el estrecho en torno al 60 % de lo habitual.",
+      "read_minutes": 2,
+      "what": [
+        "Según Portafolio, funcionarios de los cuatro países se reunieron en Teherán y Qatar también mantiene contactos; en la agenda figuran Ormuz, el bloqueo estadounidense a puertos iraníes y los ataques hutíes.",
+        "Irán informó de ataques o daños a siete petroleros en el estrecho.",
+        "Según ANZ Research, el tránsito por Ormuz está en torno al 60 % del nivel habitual.",
+        "Moncloa señala que el almacenamiento de gas en Europa está al 77 %, unos quince puntos por debajo de la media de la época."
+      ],
+      "why": "Ormuz es una vía clave del petróleo y el gas; su situación afecta al precio de la energía y a la inflación en Europa y España.",
+      "views": [
+        { "label": "Lectura de distensión", "text": "Los contactos diplomáticos entre cuatro países de la región y el interés en reducir la escalada bajaron el crudo el martes." },
+        { "label": "Lectura de riesgo", "text": "Persisten los ataques a petroleros y los ataques hutíes a Arabia Saudí, y Teherán sostiene que el paso sigue cerrado pese a que el flujo físico de crudo se mantiene." }
+      ],
+      "sources": [
+        { "name": "Portafolio (Investing)", "url": "https://portafolio.co/internacional/petroleo-cae-este-27-de-octubre-brent-de-enero-cotiza-en-us-109-32-y-wti-de-diciembre-ronda-los-us-505208" },
+        { "name": "Moncloa.com", "url": "https://www.moncloa.com/2026/10/25/estrecho-ormuz-crudo-factura-energetica-3454981/" }
+      ]
+    }
+  ]
+}
