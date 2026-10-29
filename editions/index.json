@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-10-29",
+      "stories": 4,
+      "opportunities": 0,
+      "headlines": [
+        "La Fed mantiene los tipos en el 3,75-4 % con dos votos a favor de subir",
+        "El BCE decide hoy: se espera pausa en el 2,50 % y el foco pasa a diciembre",
+        "El Ibex 35 cae un 1,45 % hasta 18.883 puntos, lastrado por el Santander"
+      ]
+    },
+    {
       "date": "2026-10-28",
       "stories": 4,
       "opportunities": 1,

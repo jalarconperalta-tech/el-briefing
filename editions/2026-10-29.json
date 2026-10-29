@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-29",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "summary_30s": [
+    "La Fed mantuvo los tipos en el 3,75-4 % con dos votos a favor de subir, y el mercado da ya un 87,5 % de probabilidad a una subida en diciembre.",
+    "El BCE decide hoy a las 14:15: se espera pausa con la facilidad de depósito en el 2,50 %, y los analistas apuntan a una posible subida en diciembre.",
+    "El Ibex cedió un 1,45 % hasta 18.883 puntos, con el Santander como principal lastre, mientras el Brent subió a unos 115 dólares.",
+    "Irán dice negociar con mediadores un plan de siete días para reabrir Ormuz, con condiciones que EE. UU. aún no ha respondido públicamente."
+  ],
+  "opportunities": [],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Finanzas",
+      "label": "Finanzas · Estados Unidos",
+      "title": "La Fed mantiene los tipos en el 3,75-4 % con dos votos a favor de subir",
+      "dek": "Es la primera reunión tras la subida de septiembre; el mercado ve ya un 87,5 % de probabilidad de otra subida en diciembre.",
+      "read_minutes": 2,
+      "what": [
+        "La Reserva Federal dejó el rango en el 3,75-4 % por 10 votos contra 2; Lisa Cook y Beth Hammack querían subirlo un cuarto de punto.",
+        "El comunicado dice que la inflación sigue elevada y describe la actividad como en expansión a un ritmo fuerte; ya no menciona el conflicto en Oriente Medio.",
+        "El IPC de septiembre fue del 3,7 % interanual (2,6 % el subyacente), con paro del 4,2 % y solo 29.000 empleos creados.",
+        "Kevin Warsh dijo en rueda de prensa que no prejuzga las próximas reuniones; según CME FedWatch, la probabilidad de subida el 8-9 de diciembre pasó del 73 % al 87,5 %."
+      ],
+      "why": "Los tipos de la Fed influyen en el dólar, en los bonos y en las decisiones de otros bancos centrales, incluido el BCE, que decide hoy.",
+      "views": [
+        { "label": "Postura de pausa", "text": "La mayoría del comité prefiere esperar a más datos antes de volver a subir, y Warsh sostiene que el crecimiento y la productividad no están generando inflación." },
+        { "label": "Postura de endurecimiento", "text": "Cook y Hammack votaron por subir ya, al considerar que la inflación por encima del 3 % exige actuar sin esperar a diciembre." }
+      ],
+      "sources": [
+        { "name": "Euronews", "url": "https://es.euronews.com/2026/10/28/la-fed-mantiene-tipos-antes-de-las-legislativas-de-eeuu-y-2-cargos-piden-otra-subida" },
+        { "name": "Forbes Centroamérica", "url": "https://forbescentroamerica.com/2026/10/28/reserva-federal-mantiene-tipos-de-interes-entre-el-375-y-4" },
+        { "name": "Investing.com", "url": "https://es.investing.com/news/economy-news/en-vivo--rueda-de-prensa-de-kevin-warsh-tras-decision-de-la-fed-pausa-dividida-3895718" }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Finanzas",
+      "label": "Finanzas · Europa",
+      "title": "El BCE decide hoy: se espera pausa en el 2,50 % y el foco pasa a diciembre",
+      "dek": "Los mercados dan un 97,6 % de probabilidad a que no haya cambios; el Euríbor de octubre cerraría en torno al 3,23 %.",
+      "read_minutes": 2,
+      "what": [
+        "El Consejo de Gobierno comunica su decisión a las 14:15; la facilidad de depósito está en el 2,50 % tras la subida de 25 puntos básicos de septiembre.",
+        "La inflación de la eurozona subió al 3,8 % en septiembre (3,2 % en agosto), con la energía un 18,8 % más cara; la subyacente fue del 2,5 %.",
+        "La media provisional del Euríbor de octubre ronda el 3,227 %, frente al 3,247 % de septiembre.",
+        "El mercado descuenta una subida hasta el 2,75 % en diciembre; el tipo medio de las nuevas hipotecas llegó al 3,08 % en agosto, máximo desde enero de 2025."
+      ],
+      "why": "Las decisiones del BCE marcan el Euríbor y, con él, la cuota de las hipotecas variables y el precio de las nuevas ofertas.",
+      "views": [
+        { "label": "Lectura de prudencia", "text": "Natixis y Pimco descartan subir en octubre: ven contenidos los efectos indirectos de la energía y destacan el riesgo de fragmentación en la eurozona." },
+        { "label": "Lectura de endurecimiento", "text": "Otros analistas creen que la inflación energética justifica una última subida en diciembre, y no descartan otra a comienzos de 2027 si el crudo sigue alto." }
+      ],
+      "sources": [
+        { "name": "Infobae", "url": "https://www.infobae.com/espana/2026/10/28/el-bce-congelara-los-tipos-de-interes-en-octubre-pero-la-tregua-para-los-hipotecados-solo-durara-hasta-diciembre/" },
+        { "name": "Moncloa.com", "url": "https://www.moncloa.com/2026/10/27/bce-tipos-interes-hipotecas-308-3456177" },
+        { "name": "Euribor.com.es", "url": "https://www.euribor.com.es/2026/10/26/el-bce-mantiene-el-250-y-el-mercado-ya-apunta-al/" }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Finanzas",
+      "label": "Finanzas · Mercados",
+      "title": "El Ibex 35 cae un 1,45 % hasta 18.883 puntos, lastrado por el Santander",
+      "dek": "Cierra en su nivel más bajo desde junio con el Brent en torno a 115 dólares.",
+      "read_minutes": 1,
+      "what": [
+        "El selectivo cerró el miércoles en 18.883 puntos, tras perder la zona de 18.900.",
+        "Entre las mayores caídas figuraron Santander (-5,59 %), Acciona Energía y Acciona, y Endesa (-2,5 %); subieron Redeia, Grifols y Fluidra.",
+        "El Brent subió cerca de un 1,2 %, hasta unos 115 dólares, y el WTI rondó los 101 dólares."
+      ],
+      "why": "La bolsa refleja a la vez la presión del crudo, los resultados empresariales y la espera de las decisiones de la Fed y el BCE.",
+      "views": [
+        { "label": "Lectura de cautela", "text": "El descenso encadena la presión del petróleo y de los resultados de la banca, y deja al índice en mínimos de cuatro meses." },
+        { "label": "Lectura de calma", "text": "La Fed mantuvo los tipos como se esperaba y el BCE se prevé que haga pausa, lo que limitaría el efecto de los bancos centrales sobre el mercado." }
+      ],
+      "sources": [
+        { "name": "El Español (Invertia)", "url": "https://www.elespanol.com/invertia/mercados/20261028/ibex-bolsa-directo-hoy-cotizaciones-noticias-tiempo-real/1003744437515_10.html" },
+        { "name": "El Nacional (OnEconomia)", "url": "https://www.elnacional.cat/oneconomia/es/mercados/ibex-35-cede-145-arrastrado-por-acciona-energia-santander_1717183_102.html" }
+      ]
+    },
+    {
+      "id": "c4",
+      "section": "Mundo",
+      "label": "Mundo · Oriente Medio",
+      "title": "Irán dice negociar con mediadores un plan de siete días para reabrir Ormuz",
+      "dek": "Teherán pide alto el fuego regional y el fin del bloqueo naval estadounidense; Washington no ha respondido públicamente.",
+      "read_minutes": 2,
+      "what": [
+        "El canciller Abás Araqchi afirmó que Irán mantiene conversaciones con mediadores sobre un plan que podría aplicarse en menos de una semana.",
+        "Entre las condiciones figuran un alto el fuego en toda la región, el desbloqueo de activos congelados, el alivio de sanciones petroleras y el fin del bloqueo naval de EE. UU.",
+        "Según Axios, Catar busca retomar las negociaciones antes de las elecciones legislativas estadounidenses del 3 de noviembre.",
+        "Irán asegura controlar Ormuz y EE. UU. mantiene un contrabloqueo a los puertos iraníes; la vía diplomática está estancada desde junio."
+      ],
+      "why": "Ormuz es una ruta clave del petróleo y el gas; su reapertura o cierre condiciona el precio de la energía y la inflación en Europa.",
+      "views": [
+        { "label": "Postura de Irán", "text": "Presenta el plan como una vía para cerrar la guerra y reabrir el paso, siempre que se cumplan sus condiciones sobre sanciones, activos y bloqueo." },
+        { "label": "Postura de EE. UU. e Israel", "text": "Mantienen el bloqueo naval y amenazan con reanudar los ataques, y no han aceptado públicamente las condiciones iraníes." }
+      ],
+      "sources": [
+        { "name": "Excélsior", "url": "https://www.excelsior.com.mx/internacional/iran-discute-con-mediadores-plan-para-poner-fin-guerra-con-eu-y-reabrir-ormuz" },
+        { "name": "Unitel (agencias)", "url": "https://unitel.bo/noticias/agencias/iran-dice-que-discute-con-mediadores-un-plan-para-poner-fin-a-la-guerra-y-reabrir-ormuz-JG24442830" }
+      ]
+    }
+  ]
+}
