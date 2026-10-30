@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-10-30",
+      "stories": 4,
+      "opportunities": 0,
+      "headlines": [
+        "El BCE mantiene los tipos en el 2,50 % y Lagarde deja abierta una subida en diciembre",
+        "Lagarde anuncia que dejará la presidencia del BCE el 7 de febrero de 2027",
+        "Irán exige que EE. UU. acepte sus siete puntos mientras Washington prepara opciones militares"
+      ]
+    },
+    {
       "date": "2026-10-29",
       "stories": 4,
       "opportunities": 0,

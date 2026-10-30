@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-30",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "summary_30s": [
+    "El BCE mantuvo la facilidad de depósito en el 2,50 % por unanimidad, y Lagarde dejó abierta una subida en diciembre.",
+    "Lagarde dejará la presidencia del BCE el 7 de febrero de 2027, unos ocho meses antes de que termine su mandato.",
+    "El Ibex 35 cedió un 0,14 % hasta 18.857 puntos, con la banca a la baja y Repsol al alza tras anunciar una recompra de acciones.",
+    "En Oriente Medio, Irán exige que EE. UU. acepte sus siete puntos, mientras Washington combina una carta de Vance con preparativos militares para después del 3 de noviembre."
+  ],
+  "opportunities": [],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Finanzas",
+      "label": "Finanzas · Europa",
+      "title": "El BCE mantiene los tipos en el 2,50 % y Lagarde deja abierta una subida en diciembre",
+      "dek": "El Consejo de Gobierno debatió subirlos, pero optó por unanimidad por la pausa; la inflación de la eurozona llegó al 3,8 % en septiembre.",
+      "read_minutes": 2,
+      "what": [
+        "El BCE dejó sin cambios la facilidad de depósito (2,50 %), las operaciones principales de financiación (2,65 %) y la facilidad marginal de crédito (2,90 %).",
+        "La inflación general subió al 3,8 % en septiembre desde el 3,2 % de agosto, por un encarecimiento de la energía cercano al 19 %; la subyacente se situó en torno al 2,3-2,5 %.",
+        "Lagarde dijo que no ve aún efectos de segunda ronda en los salarios, pero que \"la dirección del viaje está clara\", lectura que los medios interpretan como aviso de una subida.",
+        "Las gestoras consultadas esperan una subida de 25 puntos básicos, hasta el 2,75 %, en la reunión del 17 de diciembre; el Euríbor, en torno al 3,2 %, ya la descuenta en parte."
+      ],
+      "why": "Los tipos del BCE determinan el Euríbor y, con él, las cuotas de las hipotecas variables y el precio de las ofertas de hipotecas nuevas.",
+      "views": [
+        { "label": "Lectura de prudencia", "text": "Con salarios moderados y un shock que viene de la energía, la pausa permite esperar a más datos antes de endurecer la política monetaria." },
+        { "label": "Lectura de endurecimiento", "text": "Con la inflación en el 3,8 % y riesgos al alza, mantener los tipos solo retrasa una subida que el mensaje de Lagarde ya da por probable." }
+      ],
+      "sources": [
+        { "name": "EFE vía Yahoo Noticias", "url": "https://es-us.noticias.yahoo.com/bce-mantiene-tipos-inter%C3%A9s-2-134941778.html" },
+        { "name": "Economía Responsable", "url": "https://www.economiaresponsablefinanzas.com/blog/bce-mantiene-tipos-lagarde-salida-octubre-2026/" },
+        { "name": "Rankia", "url": "https://www.rankia.com/blog/mejores-depositos/7530184-reunion-bce-tipos-interes-29-octubre-2026" }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Finanzas",
+      "label": "Finanzas · Europa",
+      "title": "Lagarde anuncia que dejará la presidencia del BCE el 7 de febrero de 2027",
+      "dek": "Se marcha unos ocho meses antes de que concluya su mandato, lo que permite elegir sucesor antes de las presidenciales francesas de abril.",
+      "read_minutes": 2,
+      "what": [
+        "La presidenta anunció su dimisión pocas horas antes de la reunión del Consejo de Gobierno; su mandato terminaba el 31 de octubre de 2027.",
+        "No ha dado un motivo oficial y ha hablado de \"la sensación del trabajo bien hecho\".",
+        "Entre los nombres que se barajan como sucesores figuran Klaas Knot y Pablo Hernández de Cos; además quedarán vacantes otros puestos del Comité Ejecutivo en 2027, entre ellos el de economista jefe.",
+        "Meses atrás se había especulado con una salida anticipada, que el BCE no confirmó entonces."
+      ],
+      "why": "La presidencia del BCE fija el tono de la política monetaria de la eurozona, y su relevo coincide con un ciclo de subidas de tipos.",
+      "views": [
+        { "label": "Lectura de continuidad", "text": "Un analista citado en la prensa considera improbable que cualquier sucesor cambie de forma radical el funcionamiento del banco." },
+        { "label": "Lectura de cambio", "text": "Otras valoraciones apuntan a que el perfil del nuevo presidente podría modificar las expectativas sobre el rumbo de los tipos." }
+      ],
+      "sources": [
+        { "name": "EFE vía Yahoo Noticias", "url": "https://es-us.noticias.yahoo.com/bce-mantiene-tipos-inter%C3%A9s-2-134941778.html" },
+        { "name": "Economía Responsable", "url": "https://www.economiaresponsablefinanzas.com/blog/bce-mantiene-tipos-lagarde-salida-octubre-2026/" },
+        { "name": "Finect", "url": "https://www.finect.com/usuario/davidcarmona/articulos/reunion-bce-octubre-2026-tipos-de-interes" }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Mundo",
+      "label": "Mundo · Oriente Medio",
+      "title": "Irán exige que EE. UU. acepte sus siete puntos mientras Washington prepara opciones militares",
+      "dek": "Vance envió una carta a un alto cargo iraní para reabrir el diálogo; el WSJ habla de preparativos para una campaña corta tras el 3 de noviembre.",
+      "read_minutes": 2,
+      "what": [
+        "Según el Wall Street Journal, el vicepresidente JD Vance escribió a Mohsen Rezaei, del Consejo Supremo de Seguridad Nacional de Irán, para proponer un marco de negociación.",
+        "Trump se desmarcó de la iniciativa y dijo que, si Vance quiere hacerlo, \"por mí está bien\".",
+        "El negociador jefe iraní, Mohamed Baqer Ghalibaf, afirmó que la crisis de Ormuz solo se resuelve si EE. UU. acepta los siete puntos de Teherán y que la estrategia del \"palo y la zanahoria\" no funciona.",
+        "El WSJ añade que el jefe del Centcom informó a Trump de opciones militares y que se pidió a países del Golfo prepararse para una campaña breve e intensa después de las legislativas del 3 de noviembre; la decisión final no está tomada."
+      ],
+      "why": "Ormuz concentra cerca de una quinta parte del petróleo y del gas natural licuado mundiales, de modo que el desenlace afecta al precio de la energía y a la inflación europea.",
+      "views": [
+        { "label": "Postura de Irán", "text": "Sostiene que solo hay solución si Washington acepta sus siete condiciones, ya transmitidas a los mediadores, y rechaza que las ofertas de diálogo vayan acompañadas de amenazas." },
+        { "label": "Postura de EE. UU.", "text": "Mantiene el bloqueo naval y la presión económica, ofrece un canal de diálogo y no descarta una operación militar si no hay avances." }
+      ],
+      "sources": [
+        { "name": "AFP vía Yahoo Noticias", "url": "https://es-us.noticias.yahoo.com/vicepresidente-eeuu-contact%C3%B3-jefe-seguridad-122112051.html" },
+        { "name": "La Tercera", "url": "https://www.latercera.com/mundo/noticia/iran-se-atiene-a-su-plan-para-ormuz-y-advierte-a-eeuu-que-la-estrategia-del-palo-y-la-zanahoria-no-funciona/" }
+      ]
+    },
+    {
+      "id": "c4",
+      "section": "Finanzas",
+      "label": "Finanzas · Mercados",
+      "title": "El Ibex 35 cede un 0,14 % hasta 18.857 puntos con la banca a la baja y Repsol al alza",
+      "dek": "La sesión estuvo marcada por los resultados: BBVA pesó en el índice y Repsol subió tras anunciar una recompra de hasta 950 millones.",
+      "read_minutes": 1,
+      "what": [
+        "El selectivo cerró el jueves en 18.857,6 puntos, 25,9 puntos menos que el miércoles, tras la pausa del BCE.",
+        "BBVA ganó 9.066 millones hasta septiembre (un 13,6 % más), pero su acción cayó con fuerza y arrastró al sector.",
+        "Repsol subió un 3,05 %, hasta 29,41 euros, tras anunciar una recompra de acciones de hasta 950 millones de euros.",
+        "El crudo rondaba los 114 dólares el barril por la situación en Oriente Próximo."
+      ],
+      "why": "La bolsa española refleja a la vez los resultados de la banca, el precio del petróleo y la senda de tipos del BCE.",
+      "views": [
+        { "label": "Lectura de cautela", "text": "El índice se mantiene en la zona más baja de los últimos meses, con el crudo cerca de 114 dólares y la banca bajo presión pese a sus beneficios." },
+        { "label": "Lectura de resistencia", "text": "La caída fue pequeña y el índice conservó los 18.800 puntos, en una jornada con la decisión del BCE ya descontada por el mercado." }
+      ],
+      "sources": [
+        { "name": "El Boletín", "url": "https://www.elboletin.com/el-ibex-35-salva-los-18-800-puntos-pese-al-castigo-a-la-banca-y-la-pausa-del-bce/" },
+        { "name": "DiarioFinanciero", "url": "https://diariofinanciero.com/el-ibex-35-salva-los-18-800-puntos-al-cierre" }
+      ]
+    }
+  ]
+}
