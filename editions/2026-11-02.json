@@ -1,0 +1,173 @@
+{
+  "date": "2026-11-02",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": true,
+  "summary_30s": [
+    "Resumen del fin de semana: Irán dice que negocia con Catar un plan de dos días para reabrir Ormuz, mientras Trump no atacará antes de las elecciones de mitad de mandato del martes.",
+    "El Ibex 35 cerró octubre con una caída cercana al 4 % (18.652,90 puntos), su peor mes desde marzo, y el IPC adelantado de octubre se mantuvo en el 4,9 %.",
+    "A 27 días de las generales del 29-N, los sondeos de finales de octubre dan al PP como primera fuerza y a PP y Vox por encima de los 176 escaños.",
+    "Para ti: mañana, 3 de noviembre, hay subasta de Letras del Tesoro a 6 y 12 meses."
+  ],
+  "opportunities": [
+    {
+      "id": "o1",
+      "kind": "Inversión",
+      "deadline": "Subasta: 3 nov",
+      "title": "Letras del Tesoro a 6 y 12 meses: subasta mañana, 3 de noviembre",
+      "fit": "Encaja con quien ahorra a corto plazo con riesgo bajo y sigue la rentabilidad de la deuda pública.",
+      "detail": "El calendario del Banco de España fija para mañana la subasta de Letras a 6 y 12 meses; la de 3 y 9 meses es el 10 de noviembre. Es un recordatorio de ediciones anteriores: la novedad es que el BCE ya mantuvo los tipos el jueves y el mercado espera una posible subida en diciembre, lo que influye en lo que paguen las Letras. El tipo concreto no se conoce hasta que termine la subasta.",
+      "action": "Consultar mañana el resultado en Tesoro Público y compararlo con depósitos y cuentas remuneradas antes de decidir.",
+      "sources": [
+        { "name": "Banco de España (calendario de Letras 2026)", "url": "https://www.bde.es/f/webbe/INF/MenuVertical/MercadoDeDeudaPublica/ProximasSubastas/Ficheros/Calendario_Letras_Web_2026.pdf" },
+        { "name": "Tesoro Público (calendario de subastas)", "url": "https://www.tesoro.es/en/deuda-publica/subastas/calendario" }
+      ],
+      "note": "Información, no asesoramiento financiero."
+    }
+  ],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Mundo",
+      "label": "Mundo · Oriente Medio",
+      "title": "Irán negocia con Catar un plan de dos días para reabrir Ormuz; Trump no atacará antes del martes",
+      "dek": "Teherán condiciona la reapertura al fin del bloqueo naval y de las sanciones, y Washington mantiene objetivos militares pendientes.",
+      "read_minutes": 2,
+      "what": [
+        "El canciller iraní, Abás Araqchí, dijo que se negocia con mediadores un plan de dos días, frente a los siete de la propuesta presentada en la ONU el 25 de septiembre; aún no hay resultado concreto.",
+        "Catar propuso acortar el plazo de siete a cinco días. Una delegación iraní viajó a Doha sin reunión directa con EE. UU. y Pakistán, Arabia Saudí y Turquía también se reunieron con autoridades iraníes.",
+        "Irán afirma que no reabrirá el estrecho ni retomará las conversaciones sin avances en el levantamiento de sanciones y el fin del bloqueo naval estadounidense.",
+        "Trump sostiene que las negociaciones \"marchan bien\", que no atacará antes de las elecciones de mitad de mandato y que quedan objetivos militares pendientes. Portavoces iraníes advierten de que una nueva guerra podría ser más larga que la anterior.",
+        "Un responsable de seguridad iraní confirmó haber recibido una carta del vicepresidente estadounidense JD Vance para reactivar el diálogo."
+      ],
+      "why": "El estrecho de Ormuz es una vía clave para el petróleo y el gas; su cierre mantiene el Brent por encima de los 100 dólares y presiona la inflación.",
+      "views": [
+        { "label": "Postura de Irán", "text": "Plantea reabrir Ormuz y negociar un acuerdo definitivo a cambio de fin del bloqueo, levantamiento de sanciones petroleras y liberación de activos congelados." },
+        { "label": "Postura de EE. UU.", "text": "Rechazó el plan de siete días, mantiene el bloqueo y las sanciones, dice que no tiene prisa y no descarta nuevas acciones militares tras las elecciones." }
+      ],
+      "sources": [
+        { "name": "Infobae", "url": "https://www.infobae.com/america/mundo/2026/11/01/iran-dijo-que-una-nueva-guerra-con-estados-unidos-podria-durar-mas-que-la-anterior-y-condiciono-la-reapertura-de-ormuz/" },
+        { "name": "EFE vía ABC Color", "url": "https://www.abc.com.py/internacionales/2026/11/01/iran-continua-las-negociaciones-indirectas-con-eeuu-para-reabrir-ormuz-en-dos-dias/" },
+        { "name": "Moncloa.com", "url": "https://www.moncloa.com/2026/11/01/trump-iran-negociaciones-ataques-3n-3459461/" }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Política",
+      "label": "Política · EE. UU.",
+      "title": "EE. UU. vota mañana en las elecciones de mitad de mandato con el control del Congreso en juego",
+      "dek": "Se renuevan los 435 escaños de la Cámara, 35 del Senado y 39 gobernaciones; los republicanos dominan hoy ambas cámaras.",
+      "read_minutes": 2,
+      "what": [
+        "Mañana, 3 de noviembre, se elige la Cámara de Representantes completa, 35 de los 100 escaños del Senado (dos por vacantes) y 39 gobernadores, además de parlamentos de 46 estados.",
+        "El Partido Republicano de Donald Trump tiene mayoría en las dos cámaras, y estas elecciones suelen funcionar como referéndum sobre el presidente.",
+        "Una encuesta de Reuters/Ipsos citada por la prensa daba a los demócratas ventaja en la papeleta genérica y una aprobación de Trump del 32 %; un sondeo de marzo situaba la economía como la primera preocupación entre votantes latinos.",
+        "El resultado determinará si Trump gobierna con un Congreso afín o con uno dividido."
+      ],
+      "why": "El reparto del Congreso condiciona la agenda legislativa de EE. UU., su política exterior (incluida Irán) y las expectativas de los mercados.",
+      "views": [
+        { "label": "Postura republicana", "text": "Busca conservar la mayoría en ambas cámaras para que el presidente mantenga capacidad de aprobar leyes sin bloqueos y continuar su agenda." },
+        { "label": "Postura demócrata", "text": "Busca recuperar al menos una cámara para introducir contrapesos al Gobierno y controlar la actuación del presidente desde el Congreso." }
+      ],
+      "sources": [
+        { "name": "Chequeado", "url": "https://chequeado.com/el-explicador/elecciones-en-estados-unidos-2026-todo-lo-que-tenes-que-saber-sobre-los-comicios-de-medio-termino/" },
+        { "name": "Demócrata", "url": "https://www.democrata.es/politica/midterms-2026-que-son-que-juega-trump-cambiar-rumbo-estados-unidos/" }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Finanzas",
+      "label": "Finanzas · Mercados",
+      "title": "El Ibex 35 cierra octubre con una caída cercana al 4 %, su peor mes desde marzo",
+      "dek": "Cerró el viernes en 18.652,90 puntos (-1,09 %) con la banca a la baja y el petróleo al alza.",
+      "read_minutes": 2,
+      "what": [
+        "El selectivo perdió un 1,77 % en la semana y cerca de un 3,9 % en el mes, el segundo mes seguido en negativo.",
+        "Santander (-3,75 %) y BBVA (-3,70 %) lideraron las caídas el viernes; Repsol subió un 4,49 %.",
+        "En Europa, el Euro Stoxx 50 cayó un 1,22 %. En Wall Street, el Nasdaq retrocedió un 2,66 % arrastrado por Intel.",
+        "El Brent subió hasta 117,60 dólares, el oro bajó un 3,1 % y el bitcoin cedió un 4,7 % tras un ciberataque a Binance.",
+        "Los medios citan como factores las tecnológicas, la subida de la rentabilidad de la deuda y las reuniones del BCE y la Reserva Federal."
+      ],
+      "why": "La evolución de la bolsa, el petróleo y la deuda influye en el ahorro, las pensiones privadas y las condiciones de financiación.",
+      "views": [
+        { "label": "Lectura prudente", "text": "XTB prevé un cierre de año complicado y señala que el mercado se ha vuelto más exigente con la banca tras años de bonanza." },
+        { "label": "Lectura de resistencia", "text": "Los resultados de CaixaBank (+12,9 % de beneficio en nueve meses) y de Unicaja muestran que el sector sigue ganando más que hace un año." }
+      ],
+      "sources": [
+        { "name": "Forbes España", "url": "https://forbes.es/ultima-hora/1060041/el-ibex-35-pierde-casi-un-4-en-octubre-su-peor-cierre-mensual-desde-marzo-hasta-los-18-600-puntos/" },
+        { "name": "Bolsamanía", "url": "https://www.bolsamania.com/noticias/mercados-ultima-hora/el-ibex-35-cierra-con-caidas-del-109-hasta-1865290-puntos--23967876.html" },
+        { "name": "Estrategias de Inversión", "url": "https://www.estrategiasdeinversion.com/actualidad/noticias/bolsa-espana/cierre-del-ibex-35-y-resto-de-bolsas-europeas-n-965481" }
+      ]
+    },
+    {
+      "id": "c4",
+      "section": "Finanzas",
+      "label": "Finanzas · España",
+      "title": "El IPC adelantado de octubre se mantiene en el 4,9 % y la subyacente en el 3,1 %",
+      "dek": "El INE señala que los carburantes frenan la inflación, mientras el gas y los combustibles líquidos la empujan.",
+      "read_minutes": 1,
+      "what": [
+        "El indicador adelantado del INE, publicado el 30 de octubre, sitúa la inflación anual en el 4,9 %, igual que en septiembre; la subyacente permanece en el 3,1 %.",
+        "La variación mensual es del 0,6 %.",
+        "Bajan su influencia los carburantes para vehículos personales, los alimentos y el vestido; la elevan el gas y los combustibles líquidos.",
+        "Es el tercer mes consecutivo por encima del 4 %, según la prensa económica; el PIB creció un 0,6 % en el tercer trimestre."
+      ],
+      "why": "La inflación alta alimenta la expectativa de subida de tipos del BCE en diciembre, con efecto en el Euríbor y en las hipotecas variables.",
+      "views": [
+        { "label": "Lectura de moderación", "text": "El descenso del precio de los carburantes frente al año anterior limita la inflación y evita un repunte mayor." },
+        { "label": "Lectura de persistencia", "text": "Tres meses por encima del 4 % y una subyacente del 3,1 % indican que la presión no se debe solo a la energía." }
+      ],
+      "sources": [
+        { "name": "INE (indicador adelantado del IPC, octubre)", "url": "https://www.ine.es/dyngs/Prensa/adIPC1026.htm" },
+        { "name": "Forbes España", "url": "https://forbes.es/ultima-hora/1060041/el-ibex-35-pierde-casi-un-4-en-octubre-su-peor-cierre-mensual-desde-marzo-hasta-los-18-600-puntos/" }
+      ]
+    },
+    {
+      "id": "c5",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "A 27 días del 29-N, los sondeos mantienen al PP primero y a PP y Vox sobre la mayoría absoluta",
+      "dek": "El PSOE recupera terreno en dos de tres encuestas de octubre, mientras el CIS es la excepción y lo sitúa en cabeza.",
+      "read_minutes": 2,
+      "what": [
+        "NC Report da al PP 141-143 escaños, SocioMétrica 135 y Sigma Dos 125-131; el PSOE oscilaría entre 100 y 109 y Vox entre 63 y 69.",
+        "En las tres, PP y Vox superan los 176 escaños de mayoría absoluta; el PP pierde apoyo en todas y el PSOE sube en dos.",
+        "Una encuesta de Sondaxe publicada el 1 de noviembre da al PP el 29,2 %, al PSOE el 26,9 % y a Vox el 19,2 %.",
+        "El barómetro del CIS del 14 de octubre es la excepción: PSOE 34,0 % y PP 22,2 %.",
+        "La izquierda a la izquierda del PSOE aparece fragmentada: el Frente Amplio obtendría entre 6 y 12 escaños."
+      ],
+      "why": "El resultado del 29 de noviembre decidirá qué mayoría gobernará, con consecuencias en presupuestos, fiscalidad y vivienda.",
+      "views": [
+        { "label": "Postura del PSOE", "text": "Sánchez pide el voto progresista para seguir avanzando, presenta la alternativa como una involución y propone blindar las pensiones en la Constitución." },
+        { "label": "Postura del PP", "text": "Feijóo rechaza tanto el \"cordón sanitario\" como el \"cordón umbilical\" con Vox y centra su campaña en ser alternativa de Gobierno." }
+      ],
+      "sources": [
+        { "name": "Infobae", "url": "https://www.infobae.com/espana/2026/10/27/asi-estan-las-encuestas-para-el-29-de-noviembre-pp-y-vox-mantienen-la-mayoria-absoluta-el-psoe-gana-terreno-y-la-izquierda-fragmentada-no-logra-remontar/" },
+        { "name": "El Debate", "url": "https://www.eldebate.com/espana/20261025/dicen-ultimas-encuestas-sobre-elecciones-generales-29-noviembre-cns_472138.html" },
+        { "name": "Artículo 14", "url": "https://www.articulo14.es/politica/las-encuestas-del-12-o-del-primera-fuerza-de-sanchez-al-subir-en-votos-de-feijoo-20261013.html" }
+      ]
+    },
+    {
+      "id": "c6",
+      "section": "Finanzas",
+      "label": "Finanzas · Mundo",
+      "title": "Binance cifra en 6.300 millones de dólares el impacto de un ciberataque",
+      "dek": "La plataforma suspendió retiros y asegura haber bloqueado parte de los fondos; el bitcoin cayó entre un 3 % y un 4 %.",
+      "read_minutes": 1,
+      "what": [
+        "Binance informó el 30 de octubre de un incidente de seguridad con un impacto estimado en 6.300 millones de dólares y suspendió temporalmente los retiros.",
+        "La empresa dice haber bloqueado unos 3.000 millones; Tether y Circle anunciaron congelaciones de alrededor de 2.400 millones.",
+        "La firma TRM Labs atribuye el ataque a una unidad norcoreana; Binance no ha señalado públicamente a responsables ni ha hallado, por ahora, filtración de claves privadas.",
+        "Sería el mayor robo de criptomonedas conocido, por encima de los 1.500 millones de Bybit."
+      ],
+      "why": "Afecta a la confianza en las plataformas cripto y a la volatilidad de un activo que mueve también a otros mercados.",
+      "views": [
+        { "label": "Lectura del sector", "text": "Binance promete un informe técnico y destaca los fondos congelados con ayuda de emisores de stablecoins como señal de capacidad de respuesta." },
+        { "label": "Lectura de riesgo", "text": "El tamaño del ataque y la suspensión de retiros muestran los riesgos de custodia en plataformas centralizadas." }
+      ],
+      "sources": [
+        { "name": "Euronews", "url": "https://es.euronews.com/2026/10/30/binance-sufre-un-gran-hackeo-y-se-congelan-miles-de-millones-en-criptos" },
+        { "name": "Telemundo", "url": "https://www.telemundo.com/noticias/noticias-telemundo/economia/binance-cifra-en-6300-millones-el-impacto-de-un-ciberataque-y-bloquea-rcna606605" }
+      ]
+    }
+  ]
+}

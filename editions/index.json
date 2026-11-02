@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-11-02",
+      "stories": 6,
+      "opportunities": 1,
+      "headlines": [
+        "Irán negocia con Catar un plan de dos días para reabrir Ormuz; Trump no atacará antes del martes",
+        "EE. UU. vota mañana en las elecciones de mitad de mandato con el control del Congreso en juego",
+        "El Ibex 35 cierra octubre con una caída cercana al 4 %, su peor mes desde marzo"
+      ]
+    },
+    {
       "date": "2026-10-30",
       "stories": 4,
       "opportunities": 0,
