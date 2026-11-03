@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-03",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "summary_30s": [
+    "EE. UU. vota hoy en las elecciones de mitad de mandato, con más de 54 millones de votos anticipados y la guerra con Irán entre las preocupaciones de los votantes.",
+    "El vicepresidente Vance dijo el lunes que hay avances en las conversaciones con Irán, mientras Teherán mantiene sus condiciones para reabrir Ormuz.",
+    "Las cifras del ciberataque a Binance siguen sin cuadrar entre medios: entre 5.570 y 6.300 millones de dólares, según la fuente.",
+    "Para ti: hoy se celebra la subasta de Letras del Tesoro a 6 y 12 meses."
+  ],
+  "opportunities": [
+    {
+      "id": "o1",
+      "kind": "Inversión",
+      "deadline": "Subasta: 3 nov",
+      "title": "Letras del Tesoro a 6 y 12 meses: subasta hoy, 3 de noviembre",
+      "fit": "Encaja con quien ahorra a corto plazo con riesgo bajo y quiere comparar la deuda pública con depósitos y cuentas remuneradas.",
+      "detail": "El calendario del Tesoro confirma la subasta de Letras a 6 y 12 meses para hoy. La siguiente, de 3 y 9 meses, es el 10 de noviembre, y la próxima de 6 y 12 meses, el 1 de diciembre. El tipo de adjudicación no se conoce hasta que termine la puja; el resultado se publica después en el BOE.",
+      "action": "Consultar esta tarde el resultado en la web del Tesoro y compararlo con la rentabilidad de depósitos y cuentas remuneradas antes de decidir.",
+      "sources": [
+        { "name": "Tesoro Público (calendario de subastas)", "url": "https://www.tesoro.es/en/deuda-publica/subastas/calendario" }
+      ],
+      "note": "Información, no asesoramiento financiero."
+    }
+  ],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Política",
+      "label": "Política · EE. UU.",
+      "title": "EE. UU. celebra hoy las elecciones de mitad de mandato con récord de voto anticipado",
+      "dek": "Se renuevan los 435 escaños de la Cámara y 35 del Senado; la guerra con Irán y el coste de la vida pesan en la campaña.",
+      "read_minutes": 2,
+      "what": [
+        "Hoy, 3 de noviembre, se vota la Cámara de Representantes completa, 35 de los 100 escaños del Senado y gobernaciones en varios estados.",
+        "Según el Laboratorio Electoral de la Universidad de Florida citado por Ámbito, más de 54,8 millones de personas votaron antes de la jornada, frente a unos 45,9 millones en 2022.",
+        "Una encuesta de The New York Times y Siena apunta a que los republicanos podrían perder escaños de Senado en varios estados; el mercado de predicciones Polymarket daba, según Ámbito, un 95 % a que los demócratas recuperen la Cámara y un 73 % a que logren el Senado.",
+        "Entre las preocupaciones de los votantes se citan el coste de la vida, la inflación, los aranceles y la guerra con Irán."
+      ],
+      "why": "El reparto del Congreso condiciona la agenda legislativa de Trump, su política exterior y las expectativas de los mercados.",
+      "views": [
+        { "label": "Postura republicana", "text": "Busca conservar la mayoría en ambas cámaras para que el presidente mantenga su agenda legislativa sin bloqueos del Congreso." },
+        { "label": "Postura demócrata", "text": "Busca recuperar al menos una cámara para introducir contrapesos al Gobierno y fiscalizar la actuación del presidente desde el Congreso." }
+      ],
+      "sources": [
+        { "name": "Ámbito", "url": "https://www.ambito.com/mundo/elecciones-estados-unidos-2026-medio-termino-donald-trump-congreso-partido-democrata-republicano-2-noviembre" },
+        { "name": "Telemundo", "url": "https://www.telemundo.com/noticias/noticias-telemundo/elecciones-estados-unidos-2026/live-blog/trump-congreso-senado-camara-representantes-contiendas-que-saber-rcna605713" },
+        { "name": "CNN en Español", "url": "https://cnnespanol.cnn.com/2026/11/02/eeuu/live-news/elecciones-intermedias-vivo-trax" }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Mundo",
+      "label": "Mundo · Oriente Medio",
+      "title": "Vance habla de avances en las conversaciones con Irán, que mantiene sus condiciones para reabrir Ormuz",
+      "dek": "Washington se muestra optimista a la víspera de las urnas; Teherán insiste en que el estrecho sigue cerrado mientras no se cumplan sus exigencias.",
+      "read_minutes": 2,
+      "what": [
+        "Según CNN en Español, el vicepresidente JD Vance afirmó el lunes que EE. UU. ha logrado avances en las conversaciones recientes con Irán y que él y Trump están \"bastante optimistas\" sobre un posible acuerdo.",
+        "En sus últimos mítines, Trump insistió en que Irán no puede tener un arma nuclear.",
+        "Catar, que ejerce de mediador junto con Pakistán, pidió a Irán a finales de octubre un gesto de buena voluntad y la reapertura del estrecho.",
+        "Medios recogen que Irán dice haber discutido ideas con los mediadores cataríes, pero que las condiciones para Ormuz deben cumplirse antes de reabrirlo.",
+        "CNN señala que, aunque el Congreso cambie de manos, Trump seguiría controlando la conducción de la guerra."
+      ],
+      "why": "Ormuz es una vía clave para el petróleo y el gas; su evolución condiciona el precio de la energía, la inflación y los tipos de interés.",
+      "views": [
+        { "label": "Postura de EE. UU.", "text": "Sostiene que hay progreso en las negociaciones, exige que Irán no obtenga armas nucleares y presenta un acuerdo como posible a corto plazo." },
+        { "label": "Postura de Irán", "text": "Afirma estudiar las ideas de los mediadores, pero condiciona la reapertura de Ormuz al cumplimiento de sus exigencias previas." }
+      ],
+      "sources": [
+        { "name": "CNN en Español", "url": "https://cnnespanol.cnn.com/2026/11/02/mundo/video/elecciones-trump-iran" },
+        { "name": "Euronews", "url": "https://es.euronews.com/2026/10/27/qatar-pide-a-iran-que-muestre-buena-voluntad-cese-sus-amenazas-y-reabra-el-estrecho-de-orm" },
+        { "name": "Investing Live", "url": "https://investinglive.com/es/materias-primas/araqchi-iran-discutio-ideas-con-mediadores-qataries-las-condiciones-de-hormuz-deben-cumplirse/" }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Finanzas",
+      "label": "Finanzas · Cripto",
+      "title": "Binance: las cifras del ciberataque siguen sin coincidir entre medios",
+      "dek": "Las estimaciones de fondos sustraídos van de 2.000 a 6.300 millones de dólares; Tether y Circle han congelado parte de los activos.",
+      "read_minutes": 1,
+      "what": [
+        "Seguimiento de la edición del 2 de noviembre: la novedad es la disparidad de cifras. Un recuento on-chain recogido por la prensa sitúa la salida sospechosa en 5.570 millones de dólares en tres cadenas; otros medios hablan de 6.300 millones y otros de más de 2.000 millones.",
+        "Circle comunicó haber congelado más de 800 millones en USDC y Tether unos 971 millones en USDT, en coordinación con las autoridades.",
+        "Según el propio exchange, el total verificado de fondos congelados asciende a 2.540 millones de dólares.",
+        "Binance prometió un informe completo cuando concluya la investigación; el origen del ataque no está confirmado oficialmente."
+      ],
+      "why": "Afecta a la confianza en las plataformas centralizadas de criptoactivos y a la volatilidad de un mercado que interesa a inversores de todo el mundo.",
+      "views": [
+        { "label": "Lectura del sector", "text": "Destaca la rapidez de los emisores de stablecoins al congelar fondos y la promesa de Binance de publicar un informe técnico." },
+        { "label": "Lectura de riesgo", "text": "Señala que la discrepancia de cifras y la suspensión de retiros muestran los riesgos de custodia en plataformas centralizadas." }
+      ],
+      "sources": [
+        { "name": "Bloomberg Línea", "url": "https://www.bloomberglinea.com/mercados/binance-investiga-un-posible-hackeo-mientras-tether-y-circle-congelan-us2300-millones-y-el-bitcoin-cae/" },
+        { "name": "Forbes Argentina", "url": "https://www.forbesargentina.com/money/binance-investiga-hackeo-historico-asegura-fondos-estan-salvo-tether-circle-congelan-us-2360-millones-n101381" },
+        { "name": "CriptoNoticias", "url": "https://www.criptonoticias.com/seguridad-bitcoin/gigantes-ecosistema-se-unen-contener-hackeo-binance/" }
+      ]
+    }
+  ]
+}
