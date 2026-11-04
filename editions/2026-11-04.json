@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-04",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "summary_30s": [
+    "Las proyecciones de NBC y CBS dan a los demócratas la mayoría de la Cámara de Representantes de EE. UU. tras las elecciones de mitad de mandato; el control del Senado sigue sin decidirse.",
+    "EE. UU. atacó de forma limitada la isla iraní de Qeshm, en Ormuz, mientras Trump habla de un posible acuerdo y Teherán dice que están lejos de cerrarlo.",
+    "El Consejo de Ministros aprobó 30 millones de euros en ayudas y anticipos para los afectados por el accidente ferroviario de Urda.",
+    "Para ti: la subasta de Letras de ayer subió al 2,845 % a 6 meses y al 3,068 % a 12 meses."
+  ],
+  "opportunities": [
+    {
+      "id": "o1",
+      "kind": "Inversión",
+      "deadline": "Subasta: 10 nov",
+      "title": "Letras del Tesoro: el 12 meses sube al 3,068 % y la próxima subasta es el 10 de noviembre",
+      "fit": "Encaja con quien ahorra a corto plazo con riesgo bajo y compara deuda pública con depósitos y cuentas remuneradas.",
+      "detail": "En la subasta del 3 de noviembre el Tesoro colocó 6.423,5 millones de euros: el tipo marginal fue del 2,845 % a 6 meses (2,798 % en la anterior) y del 3,068 % a 12 meses (3,026 %), con una demanda de unos 11.071 millones. La próxima subasta, de Letras a 3 y 9 meses, es el 10 de noviembre, según el calendario citado en la edición del 3 de noviembre.",
+      "action": "Comparar el 3,068 % marginal a 12 meses con lo que ofrecen hoy depósitos y cuentas remuneradas, y revisar el resultado de la subasta del 10 de noviembre antes de decidir.",
+      "sources": [
+        { "name": "Finect", "url": "https://www.finect.com/usuario/eduardogarcia/articulos/la-rentabilidad-de-las-letras-del-tesoro-a-12-meses-x-al-x" },
+        { "name": "Renta 4", "url": "https://www.r4.com/articulos-y-analisis/ideas/actualidad-letras-del-tesoro-12-meses" }
+      ],
+      "note": "Información, no asesoramiento financiero."
+    }
+  ],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Política",
+      "label": "Política · EE. UU.",
+      "title": "Los demócratas recuperan la Cámara de Representantes, según las proyecciones; el Senado sigue abierto",
+      "dek": "NBC y CBS estiman unos 244-248 escaños demócratas de 435; AP aún no había proyectado el control de la Cámara.",
+      "read_minutes": 2,
+      "what": [
+        "Las cadenas NBC News y CBS News proyectan que los demócratas tendrán la mayoría de la Cámara desde enero; hacen falta 218 escaños y las estimaciones van de unos 244 a 248.",
+        "En el Senado, donde los republicanos partían con 53 de 100 escaños, el control seguía sin decidirse al cierre de las crónicas; quedaban pendientes estados como Texas, Ohio, Kansas, Maine, Iowa, Michigan y Alaska.",
+        "En las gobernaciones, la demócrata Keisha Lance Bottoms ganó en Georgia y el republicano Byron Donalds en Florida, según proyecciones de AP.",
+        "Trump escribió en Truth Social que, de haber estado en la papeleta, habría ganado con amplitud. El demócrata Hakeem Jeffries, que sería presidente de la Cámara, citó entre sus prioridades Medicaid, los aranceles y la guerra con Irán."
+      ],
+      "why": "El reparto del Congreso condiciona la agenda legislativa, las investigaciones sobre el Gobierno, la política arancelaria y la guerra con Irán.",
+      "views": [
+        { "label": "Postura demócrata", "text": "Con la mayoría de la Cámara prevé presidir comités con capacidad de citar testigos, fiscalizar al Ejecutivo y centrar su agenda en sanidad, aranceles y la guerra." },
+        { "label": "Postura republicana", "text": "El presidente sostiene que el resultado no le afecta al no estar en la papeleta y conserva el veto y el control de medidas como los aranceles por vía ejecutiva." }
+      ],
+      "sources": [
+        { "name": "El Tiempo", "url": "https://www.eltiempo.com/mundo/eeuu-y-canada/democratas-le-arrebatan-a-los-republicanos-el-control-de-la-camara-de-representantes-asi-estan-las-proyecciones-tras-elecciones-de-mitad-de-mandato-3598279" },
+        { "name": "Mexican Times", "url": "https://www.mexicantimes.com.mx/midterms-2026-democratas-recuperan-camara-proyecciones/" },
+        { "name": "La República", "url": "https://larepublica.pe/mundo/2026/11/02/elecciones-en-estados-unidos-2026-en-vivo-sigue-el-minuto-a-minuto-de-la-jornada-electoral-que-complicaria-a-donald-trump-48588" }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Mundo",
+      "label": "Mundo · Oriente Medio",
+      "title": "EE. UU. realiza ataques limitados en la isla iraní de Qeshm mientras Trump habla de un posible acuerdo",
+      "dek": "Washington los califica de defensivos; Irán advierte de un \"nuevo campo de batalla\" y un alto cargo dice a Reuters que hay distancia para pactar.",
+      "read_minutes": 2,
+      "what": [
+        "Según el Wall Street Journal, que cita a funcionarios estadounidenses, EE. UU. atacó el martes la isla de Qeshm, en el estrecho de Ormuz; la agencia iraní IRNA informó de cinco explosiones y no hubo víctimas conocidas.",
+        "Fuentes citadas por AP los describen como respuesta a disparos de misiles tierra-aire contra fuerzas estadounidenses. Washington no los ha confirmado oficialmente.",
+        "Trump dijo que podría llegar a un acuerdo con Teherán y respondió \"No\" a si atacaría Irán después de las elecciones.",
+        "Irán condiciona reabrir Ormuz a que acabe el bloqueo naval, se alivien las sanciones al petróleo y haya un alto el fuego que incluya Líbano. El Brent subió hacia 106,6 dólares según Reuters."
+      ],
+      "why": "Ormuz es una vía clave del petróleo y el gas; su evolución afecta al precio de la energía, la inflación y los tipos de interés.",
+      "views": [
+        { "label": "Postura de EE. UU.", "text": "Presenta los ataques como limitados y defensivos frente a amenazas a sus fuerzas y a la navegación, y dice que un acuerdo es posible." },
+        { "label": "Postura de Irán", "text": "Habla de una respuesta firme y racional, advierte de un nuevo campo de batalla si hay otro error de cálculo y vincula la reapertura a sus condiciones." }
+      ],
+      "sources": [
+        { "name": "Infobae", "url": "https://www.infobae.com/america/mundo/2026/11/03/estados-unidos-lanzo-ataques-limitados-y-defensivos-contra-la-isla-irani-de-qeshm-en-el-estrecho-de-ormuz/" },
+        { "name": "El Mostrador", "url": "https://www.elmostrador.cl/noticias/mundo/2026/11/03/ee-uu-ataca-isla-irani-en-el-estrecho-de-ormuz-mientras-trump-plantea-posible-acuerdo-con-teheran/" }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "El Gobierno aprueba 30 millones en ayudas y anticipos para los afectados por el accidente de Urda",
+      "dek": "El real decreto-ley reparte 15 millones en ayudas directas y 15 en anticipos de indemnizaciones; el accidente dejó 69 muertos.",
+      "read_minutes": 1,
+      "what": [
+        "El Consejo de Ministros del 3 de noviembre aprobó un real decreto-ley para que las víctimas y sus familias cobren sin esperar a los procesos administrativos y judiciales.",
+        "Por fallecimiento, la ayuda directa es de algo más de 72.000 euros y otra cifra igual como anticipo del seguro; por lesiones, entre unos 2.400 y más de 84.000 euros según la gravedad.",
+        "Las ayudas están exentas de tributación, se crearán oficinas de atención en las delegaciones del Gobierno y las bajas médicas del siniestro se tratarán como accidente de trabajo.",
+        "El accidente ocurrió el 28 de octubre en Urda (Toledo); ya están identificadas las 69 víctimas."
+      ],
+      "why": "Fija cuánto y con qué rapidez recibirán apoyo los afectados, mientras se investigan las causas del accidente.",
+      "views": [
+        { "label": "Postura del Gobierno", "text": "Defiende que las ayudas deben llegar de inmediato y sin esperar a que terminen los procedimientos judiciales y administrativos." },
+        { "label": "Postura de la oposición", "text": "No se ha localizado en las fuentes consultadas una valoración concreta de la oposición sobre este decreto; el debate político gira en torno a las responsabilidades del accidente." }
+      ],
+      "sources": [
+        { "name": "La Moncloa", "url": "https://www.lamoncloa.gob.es/consejodeministros/resumenes/paginas/2026/031126-rueda-prensa-ministros.aspx" },
+        { "name": "Newtral", "url": "https://www.newtral.es/ayudas-accidente-ferroviario-urda-consejo-ministros/20261103/" },
+        { "name": "Euronews", "url": "https://es.euronews.com/2026/11/03/euronews-hoy-las-noticias-del-3-de-noviembre-el-gobierno-aprueba-las-ayudas-para-los-afect" }
+      ]
+    }
+  ]
+}
