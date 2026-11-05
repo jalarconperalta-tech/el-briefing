@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-05",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "summary_30s": [
+    "Los demócratas ganan la Cámara y el Senado de EE. UU. en las elecciones de mitad de mandato; solo Alaska y Misisipi seguían sin resolverse. Trump anuncia que vetará lo que considere inaceptable.",
+    "El Ibex 35 sube un 3 % y firma su mejor sesión desde abril; el Brent cae más de un 8 %, hasta unos 95 dólares, en un día marcado por el resultado electoral y las expectativas sobre Irán.",
+    "En España, el paro registrado sube en 43.128 personas en octubre mientras la afiliación marca un récord de 22,6 millones.",
+    "Para ti: el Tesoro subasta el 10 de noviembre Letras a 3 y 9 meses, y el ICEX prepara una nueva edición de sus becas de internacionalización."
+  ],
+  "opportunities": [
+    {
+      "id": "o1",
+      "kind": "Inversión",
+      "deadline": "Subasta: 10 nov",
+      "title": "Tesoro: subasta de Letras a 3 y 9 meses el 10 de noviembre, tras el 3,068 % del 12 meses",
+      "fit": "Encaja con quien ahorra a corto plazo con riesgo bajo y compara deuda pública con depósitos y cuentas remuneradas.",
+      "detail": "El calendario oficial del Tesoro fija para el 10 de noviembre la subasta de Letras a 3 meses (vencimiento 5 de febrero de 2027) y a 9 meses (6 de agosto de 2027). Hoy, 5 de noviembre, hay además subasta de Bonos y Obligaciones del Estado, y la siguiente de Letras a 6 y 12 meses figura para diciembre.",
+      "action": "Consultar el resultado de la subasta del 10 de noviembre en la web del Tesoro y compararlo con depósitos y cuentas remuneradas antes de decidir.",
+      "sources": [
+        { "name": "Tesoro Público", "url": "https://www.tesoro.es/deuda-publica/subastas/calendario" }
+      ],
+      "note": "Información, no asesoramiento financiero."
+    },
+    {
+      "id": "o2",
+      "kind": "Formación",
+      "deadline": "Plazo: por publicar",
+      "title": "El Gobierno autoriza al ICEX la 52.ª edición de las becas de internacionalización empresarial",
+      "fit": "Útil para un perfil joven de finanzas y derecho que quiere una primera experiencia profesional en el exterior.",
+      "detail": "El Consejo de Ministros del 3 de noviembre autorizó a ICEX a convocar la 52.ª edición de su programa de becas, con un gasto máximo comprometido de 18 millones de euros. La referencia oficial no recoge aún el plazo de solicitud ni los requisitos, que se fijarán en la convocatoria.",
+      "action": "Vigilar la web de becas del ICEX y el BOE para conocer el plazo y las condiciones cuando se publique la convocatoria.",
+      "sources": [
+        { "name": "La Moncloa", "url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20261103-referencia-rueda-de-prensa-ministros.aspx" }
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Política",
+      "label": "Política · EE. UU.",
+      "title": "Los demócratas ganan la Cámara y el Senado de EE. UU. en las elecciones de mitad de mandato",
+      "dek": "NBC proyecta al menos 258 escaños demócratas en la Cámara y siete cambios de bando en el Senado; Alaska y Misisipi siguen abiertos.",
+      "read_minutes": 2,
+      "what": [
+        "Novedad respecto a la edición de ayer: el Senado, que entonces seguía sin decidirse, también pasa a manos demócratas. NBC cita vuelcos en Iowa, Kansas, Ohio, Maine, Carolina del Norte, Carolina del Sur y Texas; CNBC proyecta al menos 54 escaños demócratas.",
+        "En la Cámara, NBC proyecta al menos 258 escaños de 435 y CNBC al menos 250; Hakeem Jeffries ha lanzado su candidatura a presidir la Cámara.",
+        "Quedan sin resolver el Senado por Alaska y Misisipi (diferencia de decenas de votos, sin recuento automático) y algunos distritos de la Cámara. Los demócratas también arrebatan cinco gobernaciones a los republicanos.",
+        "Trump dijo que contaba con hacerlo mejor, reconoció que la guerra con Irán pesó en el resultado y avisó de que vetará lo que considere inaceptable; también descartó retirar los aranceles."
+      ],
+      "why": "El control de ambas cámaras da a los demócratas capacidad de investigación y de bloqueo, y abre una disputa por el techo de deuda, los aranceles y la política hacia Irán.",
+      "views": [
+        { "label": "Postura demócrata", "text": "Prevé usar la mayoría para investigar al Ejecutivo con capacidad de citar testigos y para frenar iniciativas de la Casa Blanca, y presenta el resultado como un rechazo a la guerra." },
+        { "label": "Postura republicana", "text": "Defiende que el presidente conserva el veto y amplios márgenes en aranceles y política exterior, y el líder en el Senado, John Thune, promete trabajar con Trump para frenar al ala más a la izquierda demócrata." }
+      ],
+      "sources": [
+        { "name": "NBC News", "url": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763" },
+        { "name": "CNBC", "url": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html" }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Finanzas",
+      "label": "Finanzas · Mercados",
+      "title": "El Ibex 35 sube un 3 % y el Brent cae más de un 8 % tras el resultado electoral en EE. UU.",
+      "dek": "El selectivo español cierra en 19.370,9 puntos, su mejor sesión desde abril; el Dow de Wall Street sube cerca de un 3 %.",
+      "read_minutes": 2,
+      "what": [
+        "Los mayores avances del Ibex fueron BBVA (+5,3 %), Inditex (+5,24 %), Santander (+4,87 %) y CaixaBank (+4,66 %); Indra (-5,82 %) y ACS (-5,09 %) lideraron las caídas.",
+        "Las demás bolsas europeas también cerraron al alza: DAX +2,22 %, CAC 40 +1,96 % y FTSE 100 +1,79 %. El Dow Jones ganó unos 1.500 puntos, su mejor día desde abril de 2025, según CNBC.",
+        "El Brent bajó un 8,21 %, hasta 94,7 dólares, y el WTI un 7 %. La rentabilidad del bono español a 10 años descendió al 3,845 % desde el 3,930 % del martes.",
+        "Algunos analistas atribuyen parte de la caída del crudo también a las expectativas sobre el conflicto con Irán, y no solo a las elecciones."
+      ],
+      "why": "El precio de la energía y los tipos de la deuda influyen en la inflación, en las decisiones del BCE y en el coste de las hipotecas variables.",
+      "views": [
+        { "label": "Lectura de mercado optimista", "text": "Considera que un Congreso dividido reduce el riesgo de nuevas medidas arancelarias y que el abaratamiento del crudo alivia a empresas y hogares." },
+        { "label": "Lectura prudente", "text": "Recuerda que Trump mantiene el veto y su margen en aranceles y política exterior, y que la disputa por el techo de deuda puede añadir volatilidad a un mercado de bonos frágil." }
+      ],
+      "sources": [
+        { "name": "Capital.es", "url": "https://capital.es/economia/mercados-e-inversion/el-ibex-35-se-dispara-un-3-tras-la-victoria-democrata-en-las-legislativas-de-eeuu/232472" },
+        { "name": "CNBC", "url": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html" }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Mundo",
+      "label": "Mundo · Oriente Medio",
+      "title": "Irán interpreta el resultado electoral como un rechazo a la guerra y dice que sigue lejos de un acuerdo",
+      "dek": "Washington habla de avances en la negociación mientras Teherán mantiene sus condiciones y denuncia petroleros dañados por minas en Ormuz.",
+      "read_minutes": 2,
+      "what": [
+        "El negociador iraní Mohamed Baqer Qalibaf afirmó que los estadounidenses dijeron \"no a la guerra\"; el líder supremo, Mojtaba Jamenei, habló de aceleración del declive de EE. UU.",
+        "Un alto cargo iraní declaró que las partes siguen lejos de un pacto pese a la mediación de Catar; antes, Trump y Vance habían hablado de avances.",
+        "La Guardia Revolucionaria asegura que cuatro petroleros quedaron destruidos tras chocar con minas y que derribó otro dron MQ-9; no hay confirmación independiente en las fuentes consultadas.",
+        "Estados Unidos atacó la isla iraní de Qeshm en vísperas de las elecciones; un funcionario estadounidense lo describió como una respuesta defensiva a misiles tierra-aire."
+      ],
+      "why": "Ormuz concentra una parte relevante del petróleo mundial y la marcha de las negociaciones mueve el precio de la energía, la inflación y los tipos de interés.",
+      "views": [
+        { "label": "Postura de EE. UU.", "text": "Presenta sus ataques como defensivos y limitados, asegura que Irán quiere un acuerdo cuanto antes y el vicepresidente se muestra optimista sobre una solución negociada." },
+        { "label": "Postura de Irán", "text": "Sostiene que atacar al país no traerá la victoria, confirma negociaciones indirectas muy intensas con mediación de Catar y Pakistán y sitúa el acuerdo todavía lejos." }
+      ],
+      "sources": [
+        { "name": "El Destape", "url": "https://www.eldestapeweb.com/internacionales/guerra-iran-estados-unidos-israel-yemen-vivo-ultimas-noticias-hoy-miercoles-4-noviembre-conflicto-medio-oriente-202611464326" },
+        { "name": "Euronews", "url": "https://www.euronews.com/2026/11/03/us-strikes-irans-qeshm-island-ahead-of-midterm-elections" }
+      ]
+    },
+    {
+      "id": "c4",
+      "section": "Finanzas",
+      "label": "Finanzas · España",
+      "title": "El paro sube en 43.128 personas en octubre y la afiliación marca un récord de 22,6 millones",
+      "dek": "Es la mayor subida de un mes de octubre desde 2020; el paro registrado queda en 2.422.633 personas y la afiliación suma 186.612 cotizantes.",
+      "read_minutes": 2,
+      "what": [
+        "El paro registrado aumentó un 1,81 % en el mes, el cuarto mes seguido de alza, aunque hay 21.133 desempleados menos que hace un año.",
+        "La afiliación media subió en 186.612 personas, hasta 22.624.165, el mayor aumento en un octubre de la serie histórica.",
+        "El 64 % de los nuevos parados eran extranjeros (27.744). Varios medios lo vinculan a la regularización extraordinaria de inmigrantes, que lleva a inscribirse como demandantes de empleo a personas antes fuera del registro.",
+        "Por sectores, el paro subió sobre todo en servicios (+26.853) por el final de la temporada turística; la hostelería perdió casi 45.000 empleos y la educación ganó unos 171.000. Corregido de estacionalidad, el paro subió en 9.405 personas."
+      ],
+      "why": "Las cifras miden la salud del mercado laboral en plena campaña electoral y condicionan las previsiones de crecimiento y de cotizaciones.",
+      "views": [
+        { "label": "Lectura de la cifra bruta", "text": "Destaca que es el mayor aumento del paro en un octubre desde 2020 y el cuarto mes consecutivo al alza, con la hostelería perdiendo empleo." },
+        { "label": "Lectura del contexto", "text": "Subraya el récord de afiliación, el efecto de la regularización, que el Ministerio de Trabajo ya describió como distorsionador, y que el dato desestacionalizado es mucho menor." }
+      ],
+      "sources": [
+        { "name": "El Español", "url": "https://www.elespanol.com/invertia/economia/empleo/20261104/regularizacion-dispara-paro-personas-octubre-pese-record-afiliados/1003744445273_0.html" },
+        { "name": "El Salto", "url": "https://www.elsaltodiario.com/desempleo/afiliacion-bate-nuevo-record-octubre-impulsado-regularizacion-paro-sube-43-128-personas" }
+      ]
+    }
+  ]
+}
