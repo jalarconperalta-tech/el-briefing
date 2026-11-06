@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-06",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "summary_30s": [
+    "El Ibex 35 sube un 0,59 % hasta los 19.486 puntos, mientras las tecnológicas de Wall Street caen con fuerza por dudas sobre la inteligencia artificial y los centros de datos.",
+    "Irán califica de poco convincente la respuesta de EE. UU. sobre Ormuz, y Catar y Pakistán siguen buscando un acuerdo provisional sin que ninguna parte lo haya aceptado.",
+    "En España, el Congreso votará el 12 de noviembre los decretos de vivienda que cayeron en octubre, justo antes de que arranque la campaña de las generales del 29 de noviembre.",
+    "Para ti: la línea de avales ICO para la primera vivienda de jóvenes sigue vigente hasta 2027, según el BOE."
+  ],
+  "opportunities": [
+    {
+      "id": "o1",
+      "kind": "Ayuda",
+      "deadline": "Vigente hasta 2027",
+      "title": "Aval ICO para la primera vivienda de jóvenes: el BOE publicó en julio la prórroga de la línea hasta 2027",
+      "fit": "Encaja con quien prevé comprar una primera vivienda con hipoteca y quiere reducir la entrada exigida por el banco.",
+      "detail": "El BOE del 2 de julio de 2026 publicó la adenda firmada el 27 de mayo entre la Secretaría de Estado de Vivienda y el ICO que prorroga la línea de avales. Según una guía periodística, está dirigida a menores de 36 años y a familias con hijos a cargo, y desde el 19 de junio el límite de ingresos depende de la provincia de compra. Conviene confirmar los requisitos vigentes en la web del ICO, porque no los he podido contrastar en la fuente oficial.",
+      "action": "Revisar los requisitos y la lista de entidades adheridas en la web del ICO y pedir una simulación con el aval a dos o tres bancos.",
+      "sources": [
+        { "name": "BOE", "url": "https://www.boe.es/boe/dias/2026/07/02/pdfs/BOE-A-2026-14404.pdf" },
+        { "name": "Diario de Avisos", "url": "https://diariodeavisos.elespanol.com/2026/07/boe-prorroga-avales-ico-comprar-primera-vivienda-2027/" }
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Finanzas",
+      "label": "Finanzas · Mercados",
+      "title": "El Ibex 35 sube un 0,59 % mientras el Nasdaq se hunde por las dudas sobre la inteligencia artificial",
+      "dek": "El selectivo español cierra en 19.486 puntos, tras ganar casi un 1,8 % durante la sesión; Wall Street cae con fuerza a media tarde.",
+      "read_minutes": 2,
+      "what": [
+        "Rovi (+8,31 %), BBVA (+2,05 %), Bankinter (+1,78 %), Inditex (+1,69 %) y Repsol (+1,55 %) lideraron las subidas del Ibex; Indra (-3,94 %) y Merlin (-3,67 %) encabezaron las caídas.",
+        "A las 18:00, según Capital.es, el Nasdaq 100 cedía cerca de un 5 %, el S&P 500 un 3 % y el Dow Jones un 2,4 %, con presión vendedora sobre tecnológicas y semiconductores.",
+        "Los medios citan como motivos el temor a que el cambio de mayoría en Washington frene la expansión de los centros de datos y las dudas sobre el negocio de la inteligencia artificial.",
+        "El Brent subió un 2,3 %, hasta 96,78 dólares, tras caer hasta un 8 % el miércoles. El bono español a 10 años rindió un 3,824 % y la prima de riesgo frente a Alemania fue de 56,9 puntos básicos."
+      ],
+      "why": "El comportamiento de la renta variable, del crudo y de la deuda influye en las expectativas de inflación y de tipos, y por tanto en el coste de las hipotecas variables y en la rentabilidad del ahorro.",
+      "views": [
+        { "label": "Lectura de la caída tecnológica", "text": "Atribuye el castigo a la incertidumbre sobre el gasto en centros de datos y a la valoración de las compañías de inteligencia artificial, y lo ve como un ajuste tras un fuerte ascenso." },
+        { "label": "Lectura de la resistencia europea", "text": "Destaca que el Ibex mantiene ganancias gracias a la banca y a los resultados trimestrales, y que la sesión del miércoles ya había descontado buena parte del cambio político en EE. UU." }
+      ],
+      "sources": [
+        { "name": "Capital.es", "url": "https://capital.es/economia/mercados-e-inversion/el-ibex-35-sube-un-06-pese-al-desplome-de-las-tecnologicas-estadounidenses/232798/" },
+        { "name": "Bolsamanía", "url": "https://www.bolsamania.com/noticias/cronica-ibex/jueves-5-noviembre-subidas-elecciones-eeuu-boe-tipos--24035214.html" }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Mundo",
+      "label": "Mundo · Oriente Medio",
+      "title": "Irán rechaza la respuesta de EE. UU. sobre Ormuz mientras Catar impulsa un acuerdo provisional",
+      "dek": "Teherán exige que se atiendan sus siete condiciones; los mediadores proponen frenar los ataques a barcos a cambio de levantar el bloqueo de puertos iraníes.",
+      "read_minutes": 2,
+      "what": [
+        "El responsable de seguridad iraní Mohsen Rezaei calificó la respuesta estadounidense de \"not convincing\" y condicionó la reapertura del estrecho a que se atiendan sus condiciones.",
+        "La propuesta de Catar y Pakistán sería un pacto acotado: Irán dejaría de atacar el transporte marítimo y EE. UU. levantaría el bloqueo naval de los puertos iraníes. Ninguna parte lo ha aceptado públicamente.",
+        "El canciller iraní, Abás Araqchí, sostiene que no hay negociación directa, solo mediación. Trump dijo que no tiene prisa por decidir nuevos ataques; la moratoria anunciada el 8 de octubre expiró el 3 de noviembre.",
+        "El 3 de noviembre un petrolero fue alcanzado por dos proyectiles frente a Omán y un marino murió en otro buque, según CBS News."
+      ],
+      "why": "Ormuz concentra una parte relevante del comercio mundial de petróleo, de modo que el desenlace condiciona el precio de la energía, la inflación y las decisiones de los bancos centrales.",
+      "views": [
+        { "label": "Postura de EE. UU.", "text": "Sostiene que Irán quiere un acuerdo cuanto antes, habla de avances en la negociación y mantiene abierta la opción de reanudar operaciones militares si no hay respuesta." },
+        { "label": "Postura de Irán", "text": "Afirma que la pelota está en el campo de Washington, pide levantar el bloqueo y liberar activos antes de reabrir el estrecho y se reserva el derecho a la legítima defensa." }
+      ],
+      "sources": [
+        { "name": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/" },
+        { "name": "House of Saud", "url": "https://houseofsaud.com/iran-rejects-us-hormuz-reply-qatar-interim-deal-nov5/" }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "El Congreso votará el 12 de noviembre los decretos de vivienda, víspera de la campaña del 29-N",
+      "dek": "Armengol convoca la Diputación Permanente para convalidar los textos que el Pleno rechazó en octubre y que el Gobierno ha aprobado de nuevo con retoques técnicos.",
+      "read_minutes": 2,
+      "what": [
+        "Un decreto recoge protección frente a desahucios, regulación del alquiler de temporada y medidas contra la compra especulativa; el otro, prórrogas automáticas de contratos e indemnizaciones a propietarios que no renueven.",
+        "La votación será el jueves 12 de noviembre a las 9:00 en la Diputación Permanente. La campaña de las elecciones generales del 29 de noviembre arranca esa misma madrugada.",
+        "En octubre el Pleno tumbó ambos textos con los votos de PP, Vox y Junts. Según Moncloa.com, el primero ya no depende de Junts, pero el PNV rechaza el segundo.",
+        "En paralelo, PP y Junts cruzan mensajes en la precampaña a cuenta del uso de las lenguas cooficiales en el Congreso."
+      ],
+      "why": "El resultado marca la última votación relevante antes de las elecciones y afecta a inquilinos y propietarios de contratos de alquiler.",
+      "views": [
+        { "label": "Postura del Gobierno", "text": "Defiende que los decretos protegen a los inquilinos frente a desahucios y subidas, y que los retoques técnicos permiten su convalidación." },
+        { "label": "Postura del PP", "text": "Mantiene el voto en contra porque considera que el problema es de oferta y que un tope al alquiler sin suelo disponible reduce las viviendas en el mercado." }
+      ],
+      "sources": [
+        { "name": "Moncloa.com", "url": "https://www.moncloa.com/2026/11/05/armengol-decretos-vivienda-congreso-3462434/" },
+        { "name": "The Objective", "url": "https://theobjective.com/espana/politica/2026-11-05/junts-alvarez-de-toledo/" }
+      ]
+    }
+  ]
+}

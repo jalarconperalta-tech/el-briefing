@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-11-06",
+      "stories": 3,
+      "opportunities": 1,
+      "headlines": [
+        "El Ibex 35 sube un 0,59 % mientras el Nasdaq se hunde por las dudas sobre la inteligencia artificial",
+        "Irán rechaza la respuesta de EE. UU. sobre Ormuz mientras Catar impulsa un acuerdo provisional",
+        "El Congreso votará el 12 de noviembre los decretos de vivienda, víspera de la campaña del 29-N"
+      ]
+    },
+    {
       "date": "2026-11-05",
       "stories": 4,
       "opportunities": 2,
