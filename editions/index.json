@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-11-09",
+      "stories": 4,
+      "opportunities": 1,
+      "headlines": [
+        "Huelga general por la vivienda el miércoles y votación de los decretos el jueves en la Diputación Permanente",
+        "Trump ve difícil retomar la ofensiva contra Irán si hay un acuerdo sobre el programa nuclear y Ormuz",
+        "El Nasdaq rebota el viernes tras su peor sesión en 19 meses y entra en corrección"
+      ]
+    },
+    {
       "date": "2026-11-06",
       "stories": 3,
       "opportunities": 1,

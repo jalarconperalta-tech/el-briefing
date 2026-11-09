@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-09",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": true,
+  "summary_30s": [
+    "Resumen del fin de semana: Trump dijo a CNN que ve difícil reanudar la ofensiva contra Irán si Teherán acepta un acuerdo sobre su programa nuclear y Ormuz, mientras la negociación sigue estancada.",
+    "En Wall Street, el Nasdaq rebotó un 1,09 % el viernes tras su peor día en 19 meses, y el Brent cerró la semana con una caída de en torno al 13-17 % según la fuente.",
+    "En España, la huelga general por la vivienda es el miércoles 11 y la Diputación Permanente vota el jueves 12 los dos decretos de vivienda; el Euríbor de octubre quedó en el 3,239 %.",
+    "Para ti: el BOE recoge la línea ICO «Tu Casa», con préstamos de hasta 50.000 euros sin intereses, pendiente de desarrollo y de la votación del jueves."
+  ],
+  "opportunities": [
+    {
+      "id": "o1",
+      "kind": "Ayuda",
+      "deadline": "Pendiente: votación 12 nov",
+      "title": "Línea ICO «Tu Casa»: préstamos de hasta 50.000 € sin intereses como complemento de la hipoteca de la primera vivienda",
+      "fit": "Encaja con quien prevé comprar una primera vivienda con hipoteca y busca cubrir parte de la entrada.",
+      "detail": "El artículo 19 del Real Decreto-ley 29/2026 (BOE del 7 de octubre) crea un mecanismo gestionado por el ICO, dotado con 10.000 millones según el Gobierno. Cubriría el menor importe entre el 20 % del valor de la vivienda y 50.000 euros, sin intereses ni comisiones, con plazo de hasta diez años. No fija límite de edad. Las viviendas quedarían sujetas a un precio máximo de transmisión. Un acuerdo del Consejo de Ministros debe concretar beneficiarios, límites e importe inicial, y no he podido confirmar que ya exista; además, la Diputación Permanente vota el jueves 12 los decretos de vivienda.",
+      "action": "Seguir la votación del 12 de noviembre y el acuerdo del Consejo de Ministros; cuando haya requisitos, consultarlos en la web del ICO antes de pedir una hipoteca.",
+      "sources": [
+        { "name": "BOE (RDL 29/2026)", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-20823" },
+        { "name": "La Moncloa", "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/vivienda-agenda-urbana/paginas/2026/decreto-vivienda-medidas.aspx" }
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "Huelga general por la vivienda el miércoles y votación de los decretos el jueves en la Diputación Permanente",
+      "dek": "Las Cortes están disueltas y el voto del PNV decidiría la convalidación del decreto general; el de indemnizaciones a inquilinos no tendría mayoría.",
+      "read_minutes": 2,
+      "what": [
+        "CCOO y UGT convocan una huelga general de 24 horas el 11 de noviembre por la vivienda, la primera conjunta desde 2012, a 18 días de las elecciones del 29 de noviembre.",
+        "La Diputación Permanente votará el jueves 12 los dos decretos que el Gobierno aprobó de nuevo con cambios menores tras caer los anteriores en el Congreso.",
+        "Según Capital, el decreto general (que incluye la línea ICO «Tu Casa», un fondo social de 400 millones y límites a compras especulativas) saldría adelante por 35 votos a 34 gracias al PNV.",
+        "El segundo, que prorroga contratos de alquiler y obliga a compensar al inquilino si el propietario no renueva, no alcanzaría mayoría. La campaña oficial iría del 13 al 27 de noviembre."
+      ],
+      "why": "Es la última votación relevante antes de las generales y determina qué medidas de vivienda entran en vigor definitivamente.",
+      "views": [
+        { "label": "Postura del Gobierno y los sindicatos", "text": "Sostienen que los decretos protegen a inquilinos y compradores frente a los precios y los desahucios, y que la huelga responde al bloqueo de estas medidas por parte de la oposición." },
+        { "label": "Postura de PP y Vox", "text": "Consideran que llevar los decretos a la Diputación Permanente tras la disolución es una maniobra improcedente y sostienen que la vivienda se resuelve ampliando la oferta, no con estas medidas." }
+      ],
+      "sources": [
+        { "name": "Capital.es", "url": "https://capital.es/actualidad/el-congreso-votara-los-decretos-de-vivienda-el-12-de-noviembre-tras-la-huelga-general/233435" },
+        { "name": "elDiario.es", "url": "https://www.eldiario.es/politica/gobierno-preve-llevar-diputacion-permanente-decretos-vivienda-dia-despues-huelga-general_1_13616839.html" }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Mundo",
+      "label": "Mundo · Oriente Medio",
+      "title": "Trump ve difícil retomar la ofensiva contra Irán si hay un acuerdo sobre el programa nuclear y Ormuz",
+      "dek": "En una entrevista con CNN el domingo, condicionó la tregua a un pacto «sólido»; Teherán dice que las conversaciones están en pausa tras las elecciones de EE. UU.",
+      "read_minutes": 2,
+      "what": [
+        "Según la información publicada, Trump dijo a CNN el 8 de noviembre que le parece muy difícil tener que reanudar la ofensiva a gran escala, aunque no lo descartó.",
+        "Vincula la tregua a que Irán acepte un acuerdo que avance en dos asuntos: su programa nuclear y la reapertura del estrecho de Ormuz, donde persisten los ataques a barcos.",
+        "El canciller iraní, Abás Araqchí, atribuye la pausa de las conversaciones al impacto de las elecciones estadounidenses y afirma que no hay nuevos viajes de mediadores.",
+        "El 2 de noviembre, Irán ya decía que los contactos continuaban pero sin avances tangibles."
+      ],
+      "why": "Ormuz es una vía clave para el petróleo y el gas; el rumbo de la negociación afecta al precio de la energía, a la inflación y a los tipos.",
+      "views": [
+        { "label": "Postura de EE. UU.", "text": "Plantea que la ofensiva puede evitarse si Irán firma un acuerdo verificable sobre su programa nuclear y garantiza la navegación por Ormuz." },
+        { "label": "Postura de Irán", "text": "Afirma que mantiene el contacto con los mediadores, pero que el avance depende de la respuesta de Washington y de que se atiendan sus condiciones." }
+      ],
+      "sources": [
+        { "name": "El Informador", "url": "https://www.informador.mx/internacional/trump-descarta-reanudar-ataques-contra-iran-pero-pone-una-condicion-para-evitar-otra-guerra-20261108-0090.html" },
+        { "name": "GV Wire", "url": "https://gvwire.com/2026/11/02/iran-says-contacts-over-ending-war-continue-after-talks-finish-with-no-breakthrough/" }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Finanzas",
+      "label": "Finanzas · Mercados",
+      "title": "El Nasdaq rebota el viernes tras su peor sesión en 19 meses y entra en corrección",
+      "dek": "El selectivo tecnológico sube un 1,09 % tras caer un 5,5 % el jueves; en la semana, el S&P 500 cede un 2,7 % y el Brent baja con fuerza.",
+      "read_minutes": 2,
+      "what": [
+        "El jueves 5, tras la victoria demócrata en las elecciones de mitad de mandato, el Nasdaq Composite se hundió un 5,5 %, su mayor caída diaria en 19 meses.",
+        "El viernes 6 el Nasdaq subió un 1,09 % (24.579 puntos) y el S&P 500 un 0,31 %; el Dow Jones bajó un 0,46 %. En la semana, el S&P 500 pierde un 2,7 % y el Nasdaq un 3,4 %.",
+        "Los analistas citan el temor a más regulación de la inteligencia artificial y dudas sobre la inversión en centros de datos. El empleo de octubre en EE. UU. superó lo previsto (165.000 puestos) y el mercado descuenta una subida de la Fed en diciembre.",
+        "El Brent cerró la semana en torno a 98 dólares, con descensos semanales de entre el 13 % y el 17 % según la fuente."
+      ],
+      "why": "Las caídas tecnológicas y los movimientos del crudo y de los tipos influyen en las carteras de renta variable y en las expectativas de inflación.",
+      "views": [
+        { "label": "Lectura de ajuste", "text": "Interpreta la caída como una corrección tras un fuerte ascenso y valoraciones elevadas en inteligencia artificial y semiconductores." },
+        { "label": "Lectura política", "text": "Atribuye el castigo a que el nuevo reparto de poder en Washington pueda traer más regulación y menos impulso a la inversión en centros de datos." }
+      ],
+      "sources": [
+        { "name": "Bolsamanía", "url": "https://www.bolsamania.com/noticias/mercados/wall-street-viernes-06-noviembre-2026-signo-mixto-nasdaq-rebota-desplomarse--24070064.html" },
+        { "name": "El CEO", "url": "https://elceo.com/mercados/bmv-ipc-wall-street-hoy-6-de-noviembre-de-2026-cierre/" }
+      ]
+    },
+    {
+      "id": "c4",
+      "section": "Finanzas",
+      "label": "Finanzas · España",
+      "title": "El Euríbor cerró octubre en el 3,239 %, pero las revisiones hipotecarias de noviembre siguen al alza",
+      "dek": "Es la primera bajada mensual desde junio, aunque la comparación con octubre de 2025 (2,187 %) encarece las cuotas.",
+      "read_minutes": 1,
+      "what": [
+        "La media mensual del Euríbor a 12 meses fue del 3,239 %, frente al 3,247 % de septiembre, según los datos del Banco de España recogidos por Hipotecas.me.",
+        "Para una hipoteca de 150.000 euros a 25 años y diferencial de 0,79 %, la cuota de una revisión anual pasaría de unos 710 a unos 794 euros al mes.",
+        "El índice diario subió a final de mes (3,304 % el 2 de noviembre), por lo que la media de noviembre podría ser mayor.",
+        "El BCE mantuvo los tipos el 29 de octubre."
+      ],
+      "why": "El Euríbor determina las cuotas de las hipotecas variables y refleja las expectativas sobre los tipos del BCE.",
+      "views": [
+        { "label": "Lectura de estabilización", "text": "Señala que la leve bajada mensual y la pausa del BCE indican que el índice podría estar cerca de un techo." },
+        { "label": "Lectura de cautela", "text": "Advierte de que la inflación elevada y el repunte diario de final de octubre pueden empujar el índice al alza en las próximas revisiones." }
+      ],
+      "sources": [
+        { "name": "Hipotecas.me", "url": "https://www.hipotecas.me/noticias/euribor-octubre-2026-se-frena-revision-hipoteca-noviembre" },
+        { "name": "Finect", "url": "https://www.finect.com/usuario/davidcarmona/articulos/euribor-de-octubre-confirmado-asi-cambia-tu-cuota-si-tu-hipoteca-se-revisa-cada-ano-o-cada-seis-meses" }
+      ]
+    }
+  ]
+}
