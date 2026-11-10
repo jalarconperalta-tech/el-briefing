@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-11-10",
+      "stories": 4,
+      "opportunities": 1,
+      "headlines": [
+        "Rusia, Ucrania y EE. UU. se reúnen hoy en Abu Dhabi con el territorio y las garantías de seguridad sobre la mesa",
+        "Rebote bursátil: el S&P 500 sube un 2,3 %, el Ibex 35 un 1,9 % y el Brent cae cerca de un 5 %",
+        "Trump ve «muy improbable» reanudar los ataques a Irán mientras avance la negociación, pero no los descarta"
+      ]
+    },
+    {
       "date": "2026-11-09",
       "stories": 4,
       "opportunities": 1,

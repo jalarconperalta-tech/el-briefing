@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-10",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "summary_30s": [
+    "Rusia, Ucrania y EE. UU. se reúnen hoy en Abu Dhabi en una nueva ronda de conversaciones, con el territorio del Donbás y las garantías de seguridad como principales escollos.",
+    "Las bolsas rebotaron el lunes: el S&P 500 subió un 2,3 %, el Ibex 35 un 1,9 % y el Brent cayó cerca de un 5 %, tras la semana de ventas ligada a la inteligencia artificial.",
+    "El Eurogrupo confirmó a Pablo Hernández de Cos y Klaas Knot como únicos candidatos a presidir el BCE; la decisión política podría llegar en la cumbre del 26-27 de noviembre.",
+    "Para ti: el Tesoro celebra hoy subasta de Letras a 3 y 9 meses, con emisión el 13 de noviembre."
+  ],
+  "opportunities": [
+    {
+      "id": "o1",
+      "kind": "Inversión",
+      "deadline": "Subasta: 10 nov",
+      "title": "Subasta de Letras del Tesoro a 3 y 9 meses con emisión el 13 de noviembre",
+      "fit": "Encaja con quien busca colocar ahorro a corto plazo con riesgo bajo y quiere seguir la rentabilidad que paga el Tesoro.",
+      "detail": "El Banco de España publica el anuncio de la emisión de Letras a 3 y 9 meses de noviembre: emisión el viernes 13 de noviembre de 2026 y amortización el 5 de febrero de 2027 (84 días) y el 6 de agosto de 2027 (266 días). Pueden suscribir personas físicas y jurídicas residentes en España mediante una cuenta directa en el Banco de España o a través de una entidad. Las peticiones por la vía de pago con cheque o efectivo ya cerraron; el resultado, con el tipo marginal, se publica tras la subasta.",
+      "action": "Consultar hoy el resultado de la subasta en la web del Tesoro y comparar el tipo con depósitos y cuentas remuneradas antes de decidir.",
+      "note": "Información, no asesoramiento financiero.",
+      "sources": [
+        { "name": "Banco de España (anuncio Letras 3 y 9 meses)", "url": "https://www.bde.es/f/webbe/INF/MenuHorizontal/entidades-profesionales/operativa_gestiones/subastas/ficheros/LETRAS3y9meses202611.pdf" }
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Mundo",
+      "label": "Mundo · Ucrania",
+      "title": "Rusia, Ucrania y EE. UU. se reúnen hoy en Abu Dhabi con el territorio y las garantías de seguridad sobre la mesa",
+      "dek": "Es la tercera ronda del año en esa ciudad; Kiev denuncia que Moscú ha intensificado los ataques a infraestructuras antes de la cita.",
+      "read_minutes": 2,
+      "what": [
+        "Delegaciones de Rusia y Ucrania se reúnen este martes en Abu Dhabi con mediación estadounidense: los enviados Steve Witkoff y Jared Kushner, Rustem Umerov por Kiev y Vladimir Medinsky por Moscú.",
+        "Ucrania quiere que Rusia retroceda a la frontera previa a la guerra; Putin reclama todo el Donbás. Un funcionario estadounidense dice que ambas partes han mostrado cierta flexibilidad sobre un posible intercambio de territorios, que se cerraría al final.",
+        "Las garantías de seguridad, con un compromiso de defensa inspirado en el artículo 5 de la OTAN, son otro eje. Francia, Alemania y la Comisión Europea enviarán funcionarios, aunque Moscú rechaza que participen en la negociación.",
+        "Zelenski acusa a Rusia de aumentar los ataques a energía y puentes para presionar a Kiev, y afirma que sus avances en el frente refuerzan su posición."
+      ],
+      "why": "Un acuerdo o su fracaso condiciona la seguridad europea, el precio de la energía y el uso de los recursos públicos para defensa.",
+      "views": [
+        { "label": "Postura de Ucrania", "text": "Sostiene que debe haber garantías de seguridad, una tregua energética y la vuelta de los menores deportados, y que no cederá territorio sin un marco que proteja al país." },
+        { "label": "Postura de Rusia", "text": "Mantiene que la negociación debe ser trilateral con EE. UU., que se centrará en las garantías de seguridad y que sus exigencias territoriales sobre el Donbás siguen en pie." }
+      ],
+      "sources": [
+        { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes" },
+        { "name": "CBS News", "url": "https://www.cbsnews.com/news/zelenskyy-russia-attacks-us-talks/" }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Finanzas",
+      "label": "Finanzas · Mercados",
+      "title": "Rebote bursátil: el S&P 500 sube un 2,3 %, el Ibex 35 un 1,9 % y el Brent cae cerca de un 5 %",
+      "dek": "Wall Street registra su mejor sesión desde abril y recupera parte de las pérdidas de la semana anterior; Nvidia es la excepción.",
+      "read_minutes": 2,
+      "what": [
+        "El lunes 9, el S&P 500 ganó un 2,3 % (7.549,94 puntos), el Nasdaq un 2,7 % (25.253,14) y el Dow Jones un 2,2 % (52.389,75), según los datos recogidos por AP.",
+        "El Ibex 35 subió cerca de un 2 % hasta unos 19.750 puntos, con la banca y la energía al frente; Repsol fue la única caída del selectivo. Milán, Fráncfort, París y Londres también cerraron al alza.",
+        "El Brent bajó en torno a un 4,4 %-5,8 % según la fuente, hasta unos 94 dólares. La rentabilidad del bono español a 10 años se mantuvo en el 3,825 %.",
+        "Nvidia cayó cerca de un 4 % tras conocerse que su consejo investiga a su consejero delegado por una información sobre espionaje en China."
+      ],
+      "why": "El movimiento del crudo y de la tecnología afecta a las carteras, a las expectativas de inflación y, a través de ellas, a los tipos de interés.",
+      "views": [
+        { "label": "Lectura de alivio", "text": "Atribuye la subida a la caída del petróleo, al menor temor geopolítico y a la prórroga china de un arancel, que reducen la presión sobre los márgenes y los precios." },
+        { "label": "Lectura de cautela", "text": "Señala que el rebote solo recupera una parte de lo perdido la semana anterior y que la investigación en Nvidia y la tensión en Oriente Medio mantienen la incertidumbre." }
+      ],
+      "sources": [
+        { "name": "AP (vía KRMG)", "url": "https://krmg.com/2026/11/09/how-major-us-stock-indexes-fared-monday-11-9-2026/" },
+        { "name": "Capital.es", "url": "https://capital.es/economia/mercados-e-inversion/el-ibex-35-sube-un-199-hasta-los-19-754-puntos-impulsado-por-la-banca-y-la-energia/233746/" },
+        { "name": "Diario de Santiago", "url": "https://www.diariodesantiago.es/economia/el-ibex-35-sube-un-193-y-recupera-los-19-700-puntos/" }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Mundo",
+      "label": "Mundo · Oriente Medio",
+      "title": "Trump ve «muy improbable» reanudar los ataques a Irán mientras avance la negociación, pero no los descarta",
+      "dek": "Washington mantiene el bloqueo naval y crea un grupo para cortar rutas terrestres; Rubio dice que un acuerdo no parece cercano.",
+      "read_minutes": 2,
+      "what": [
+        "En una entrevista con CNN el domingo, Trump dijo que nuevos ataques son muy improbables si progresan las conversaciones sobre el programa nuclear y la reapertura de Ormuz, aunque advirtió de que podría atacar puentes y centrales eléctricas.",
+        "EE. UU. mantiene desde hace meses el bloqueo naval a puertos iraníes y anunció la «Task Force Iron Gate» para frenar flujos de armas, tecnología de doble uso e ingresos ilícitos por tierra y por el Caspio.",
+        "El secretario de Estado, Marco Rubio, afirmó que una resolución no parece próxima. Según Fox News, Trump recibía el lunes al primer ministro de Catar, principal mediador.",
+        "Teherán condiciona las conversaciones y la reapertura de Ormuz a siete requisitos previos, y los buques de petróleo y gas siguen sufriendo ataques en el estrecho."
+      ],
+      "why": "Ormuz es una vía clave para el crudo y el gas; el rumbo de la negociación influye en los precios de la energía, la inflación y los tipos.",
+      "views": [
+        { "label": "Postura de EE. UU.", "text": "Exige la reapertura total de Ormuz y un compromiso de no desarrollar armas nucleares, y mantiene la presión militar y económica mientras dure la negociación." },
+        { "label": "Postura de Irán", "text": "Sostiene que no negociará sobre su programa ni reabrirá el estrecho mientras no se cumplan sus siete condiciones previas." }
+      ],
+      "sources": [
+        { "name": "CNBC", "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html" },
+        { "name": "CNN", "url": "https://www.cnn.com/2026/11/08/politics/trump-interview-on-iran" },
+        { "name": "Fox News", "url": "https://www.foxnews.com/world/trump-meets-key-iran-war-mediator-uae-reveals-major-oil-export-surge-despite-conflict" }
+      ]
+    },
+    {
+      "id": "c4",
+      "section": "Política",
+      "label": "Política · Europa",
+      "title": "El Eurogrupo confirma a Hernández de Cos y Knot como candidatos a presidir el BCE",
+      "dek": "Su presidente los considera «excelentes» y pide una decisión rápida; los líderes podrían acordar el relevo de Lagarde en la cumbre del 26-27 de noviembre.",
+      "read_minutes": 2,
+      "what": [
+        "Terminado el plazo, solo hay dos aspirantes oficiales: el español Pablo Hernández de Cos (Banco de Pagos Internacionales, exgobernador del Banco de España) y el neerlandés Klaas Knot (expresidente del banco central de su país).",
+        "Lagarde anunció que dejará el cargo antes del 7 de febrero de 2027. Hace falta el apoyo de al menos 16 de los 21 países de la eurozona que sumen el 65 % de la población, y después opinan el Parlamento Europeo y el Consejo de Gobierno del BCE.",
+        "El ministro Carlos Cuerpo dice que la candidatura española ha tenido muy buena acogida y que no descarta un pacto este mismo mes.",
+        "La prensa apunta a que se negociarán a la vez tres puestos de la dirección, por la salida de Isabel Schnabel y el fin del mandato de Philip Lane."
+      ],
+      "why": "Quien presida el BCE influirá en la política de tipos y, por tanto, en el Euríbor y en el coste de las hipotecas y la financiación.",
+      "views": [
+        { "label": "Argumento de la candidatura española", "text": "Defiende que Hernández de Cos reúne experiencia como supervisor y gobernador, y que su perfil cuenta con respaldo del Gobierno y de la oposición españolas." },
+        { "label": "Argumento de la candidatura neerlandesa", "text": "Defiende que Knot aporta catorce años al frente de un banco central y el apoyo de varios socios, entre ellos, según la prensa, Francia." }
+      ],
+      "sources": [
+        { "name": "Infobae (Europa Press)", "url": "https://www.infobae.com/america/agencias/2026/11/08/el-eurogrupo-examina-este-lunes-las-candidaturas-de-hernandez-de-cos-y-knot-para-presidir-el-bce/" },
+        { "name": "Euronews", "url": "https://es.euronews.com/2026/11/03/la-eurozona-inicia-la-carrera-para-suceder-a-lagarde-al-frente-del-bce" }
+      ]
+    }
+  ]
+}
