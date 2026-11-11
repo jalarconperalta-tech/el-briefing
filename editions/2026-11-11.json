@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-11",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "summary_30s": [
+    "Hoy hay huelga general de 24 horas convocada por CCOO, UGT y otras organizaciones bajo el lema de vivienda y salarios; es la primera respaldada por ambos sindicatos mayoritarios desde 2012.",
+    "Rusia y Ucrania cierran hoy en Abu Dabi la ronda de contactos mediada por EE. UU. con una agenda de seguridad posbélica y desescalada; las posiciones siguen muy alejadas.",
+    "El Euríbor cerró octubre en una media del 3,239 % y el mercado descuenta con un 80 % de probabilidad una nueva subida de tipos del BCE el 17 de diciembre."
+  ],
+  "opportunities": [],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "Huelga general por la vivienda y los salarios: primera con CCOO y UGT juntos desde 2012",
+      "dek": "El paro de 24 horas llega dos días antes de arrancar la campaña de las generales del 29 de noviembre; los decretos de vivienda se votan mañana en la Diputación Permanente.",
+      "read_minutes": 2,
+      "what": [
+        "CCOO y UGT, junto con otras organizaciones sindicales y de inquilinos, convocan para hoy un paro de 24 horas. Es la primera huelga general estatal que ambos sindicatos respaldan a la vez desde noviembre de 2012.",
+        "Piden subidas salariales que permitan afrontar alquiler o hipoteca, límites a los precios del alquiler en zonas tensionadas, más vivienda pública y restricciones a los alquileres turísticos y de temporada.",
+        "Los servicios mínimos los fija cada administración. En Cataluña, por ejemplo, el transporte público mantendrá el 25 % del servicio en horas punta y las urgencias sanitarias, el 100 %.",
+        "La campaña electoral empieza el viernes 13. El Gobierno pretendía llevar a la Diputación Permanente, un día después de la huelga, los dos decretos de vivienda que el Congreso rechazó a principios de octubre."
+      ],
+      "why": "Mezcla conflicto laboral, política de vivienda y calendario electoral, y puede condicionar el debate sobre alquiler, acceso a la compra y salarios en la campaña.",
+      "views": [
+        { "label": "Postura de los convocantes", "text": "Sostienen que la vivienda absorbe una parte creciente del sueldo y que la respuesta debe incluir salarios más altos, topes al alquiler y más vivienda pública. Niegan que la fecha responda al calendario electoral." },
+        { "label": "Postura de CEOE, Cepyme y CSIF", "text": "CEOE y Cepyme sostienen que las demandas sobre vivienda deben dirigirse sobre todo a las administraciones públicas. CSIF no secunda el paro porque lo atribuye a indicaciones políticas." }
+      ],
+      "sources": [
+        { "name": "Euronews", "url": "https://es.euronews.com/2026/10/07/huelga-general-vivienda-espana-11-noviembre-ccoo-ugt" },
+        { "name": "ARA (servicios mínimos en Cataluña)", "url": "https://es.ara.cat/sociedad/movilidad/seran-servicios-minimos-durante-huelga-11-n_1_5901577.html" },
+        { "name": "Público", "url": "https://www.publico.es/politica/huelga-general-vivienda-sera-11-noviembre.html" }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Mundo",
+      "label": "Mundo · Ucrania",
+      "title": "Segunda jornada de las conversaciones Rusia-Ucrania-EE. UU. en Abu Dabi, sin resultados conocidos",
+      "dek": "Es la primera ronda trilateral desde febrero; Washington busca un avance antes del invierno mientras Moscú intensifica los ataques a infraestructuras.",
+      "read_minutes": 2,
+      "what": [
+        "Las delegaciones se reúnen el 10 y 11 de noviembre con mediación de EE. UU. (Witkoff y Kushner). Rusia envía a Vladímir Medinski, varios viceministros y al jefe de inteligencia militar; Ucrania, a Rustem Umerov, con el jefe de gabinete de Zelenski entre los miembros.",
+        "Según Witkoff, la agenda incluye acuerdos de seguridad posbélicos, desescalada, medidas humanitarias y el fin de la guerra. Las partes siguen muy alejadas en los términos de paz.",
+        "Rusia ha intensificado sus ataques con misiles y drones contra infraestructuras energéticas y de transporte, y Ucrania retomó a finales de octubre los ataques a refinerías rusas.",
+        "A la hora de cerrar esta edición no constan resultados de la primera jornada en las fuentes consultadas."
+      ],
+      "why": "Un acuerdo o su fracaso condiciona la seguridad europea, el precio de la energía y el gasto público en defensa.",
+      "views": [
+        { "label": "Postura del Kremlin", "text": "Plantea que se discuta un mecanismo de seguridad para Rusia y Ucrania una vez termine el conflicto y que la negociación aborde tanto cuestiones políticas como militares." },
+        { "label": "Postura de los responsables europeos", "text": "Insisten en que Rusia debe detener la guerra antes de hablar de un marco de seguridad europeo más amplio, y reclaman garantías de seguridad para Ucrania." }
+      ],
+      "sources": [
+        { "name": "Khaleej Times (Reuters)", "url": "https://www.khaleejtimes.com/world/us-mediate-russia-ukraine-talks-abu-dhabi-november-witkoff" },
+        { "name": "The News Tribune (Bloomberg)", "url": "https://www.newstribune.com/news/2026/nov/08/russia-upgrades-its-delegation-for-us-led-ukraine/" }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Finanzas",
+      "label": "Finanzas · Europa",
+      "title": "El Euríbor cierra octubre en el 3,239 % y el mercado ve probable otra subida del BCE en diciembre",
+      "dek": "La media mensual queda a una milésima del máximo del año; el BCE mantuvo tipos el 29 de octubre con el depósito en el 2,50 %.",
+      "read_minutes": 2,
+      "what": [
+        "La media del Euríbor a 12 meses en octubre fue del 3,239 %, solo 0,008 puntos por debajo del máximo del año (3,247 % en septiembre). El cierre diario del último día de octubre fue del 3,306 %.",
+        "El BCE subió tipos 25 puntos básicos en junio y en septiembre, y los mantuvo en julio y el 29 de octubre. La facilidad de depósito está en el 2,50 %.",
+        "Según CaixaBank Research, el mercado asigna un 80 % de probabilidad a una subida al 2,75 % en la reunión del 17 de diciembre.",
+        "Las revisiones de hipotecas variables siguen encareciéndose: un comparador cifra en 1.206 euros al año el sobrecoste frente a hace un año."
+      ],
+      "why": "El Euríbor marca la cuota de las hipotecas variables y el coste de la financiación para familias y empresas.",
+      "views": [
+        { "label": "Lectura de presión alcista", "text": "Subraya que el mercado descuenta otra subida del BCE y que las revisiones de hipotecas variables siguen siendo más caras que hace un año." },
+        { "label": "Lectura de moderación", "text": "Señala que el índice se frenó en octubre y que el Panel de Funcas prevé una media del 2,92 % en el cuarto trimestre y del 2,70 % a finales de 2027." }
+      ],
+      "sources": [
+        { "name": "Rankia", "url": "https://www.rankia.com/blog/mejores-hipotecas/7540804-euribor-hoy-6-noviembre-2026" },
+        { "name": "Kelisto", "url": "https://www.kelisto.es/hipotecas/actualidad/euribor-octubre-2026" },
+        { "name": "Hipotecas.me", "url": "https://www.hipotecas.me/noticias/euribor-octubre-2026-se-frena-revision-hipoteca-noviembre" }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-11-11",
+      "stories": 3,
+      "opportunities": 0,
+      "headlines": [
+        "Huelga general por la vivienda y los salarios: primera con CCOO y UGT juntos desde 2012",
+        "Segunda jornada de las conversaciones Rusia-Ucrania-EE. UU. en Abu Dabi, sin resultados conocidos",
+        "El Euríbor cierra octubre en el 3,239 % y el mercado ve probable otra subida del BCE en diciembre"
+      ]
+    },
+    {
       "date": "2026-11-10",
       "stories": 4,
       "opportunities": 1,
