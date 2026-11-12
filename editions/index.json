@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-11-12",
+      "stories": 3,
+      "opportunities": 0,
+      "headlines": [
+        "Balance de la huelga general del 11N: éxito para los sindicatos, fracaso para la patronal y disturbios en varias ciudades",
+        "Abu Dabi cierra con un gran canje de prisioneros acordado pero sin avances hacia la paz",
+        "Wall Street cae tras un IPC más alto de lo esperado y el mercado descuenta una subida de la Fed en diciembre"
+      ]
+    },
+    {
       "date": "2026-11-11",
       "stories": 3,
       "opportunities": 0,

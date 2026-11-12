@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-12",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "summary_30s": [
+    "La huelga general de ayer deja lecturas opuestas: los sindicatos hablan de éxito, la patronal de un seguimiento inferior al 5 %, y hubo más de 50 detenidos y cientos de incidencias.",
+    "Las conversaciones Rusia-Ucrania-EE. UU. en Abu Dabi terminan con un gran canje de prisioneros acordado, pero sin avances hacia la paz; los enviados de EE. UU. viajan hoy a Moscú.",
+    "Wall Street cae tras un IPC estadounidense algo mayor de lo esperado, y el mercado da casi por segura una subida de la Fed en diciembre."
+  ],
+  "opportunities": [],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "Balance de la huelga general del 11N: éxito para los sindicatos, fracaso para la patronal y disturbios en varias ciudades",
+      "dek": "Las cifras de seguimiento difieren mucho según quién las da; Interior contabilizó más de 900 incidencias y medio centenar de detenidos hasta media tarde.",
+      "read_minutes": 2,
+      "what": [
+        "CCOO y UGT calificaron la jornada de éxito y dijeron que superó sus expectativas, con un seguimiento más alto en industria, logística, Cataluña, Madrid y parte del Mediterráneo. Reconocieron que fue desigual según sector y territorio. Entre los datos sindicales parciales figuran un 68,7 % en comercio y un 63,8 % en hostelería.",
+        "CEOE habló de un seguimiento medio por debajo del 5 % y de una caída de la demanda eléctrica del 4,7 % respecto a lo previsto. Varios gobiernos autonómicos dieron cifras bajas en sus propias administraciones: 3,9 % entre docentes andaluces o 5,42 % en sanidad en Madrid.",
+        "Según el balance de Interior, hasta las 17:00 hubo 919 incidencias y al menos 52 detenidos sin contar Cataluña ni el País Vasco; en Barcelona se registraron destrozos y detenciones tras la manifestación, y en Madrid hubo cargas policiales. Se cancelaron más de 300 vuelos y UGT denunció un artefacto explosivo en su sede de Vigo.",
+        "Las cifras son parciales, de distintas horas y fuentes, y no son directamente comparables."
+      ],
+      "why": "Es el último gran pulso social antes de las elecciones del 29 de noviembre y llega con la vivienda y los salarios como ejes del debate.",
+      "views": [
+        { "label": "Postura de sindicatos y partes del Gobierno", "text": "Sostienen que el paro fue masivo en los sectores más sindicalizados y que las movilizaciones de la tarde reflejan malestar por la vivienda y los salarios. Critican el exceso policial en algunas ciudades." },
+        { "label": "Postura de PP, Vox y CEOE", "text": "Sostienen que el seguimiento fue muy bajo y que la convocatoria tenía fines políticos y electorales. CEOE afirma que exigirá responsabilidades por la convocatoria." }
+      ],
+      "sources": [
+        { "name": "Press Digital", "url": "https://www.pressdigital.es/articulo/economia/2026-11-11/6087781-alvarez-ugt-sordo-cco-califican-exito-huelga-general-supera-expectativas" },
+        { "name": "The Objective (directo)", "url": "https://theobjective.com/sociedad/2026-11-11/ultima-hora-huelga-general-11-n/directo/" }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Mundo",
+      "label": "Mundo · Ucrania",
+      "title": "Abu Dabi cierra con un gran canje de prisioneros acordado pero sin avances hacia la paz",
+      "dek": "Tras dos días de contactos con mediación de EE. UU., Witkoff y Kushner viajan hoy a Moscú para informar a Putin y después se reunirán con Zelenski.",
+      "read_minutes": 2,
+      "what": [
+        "Rusia y Ucrania acordaron, en principio, un intercambio importante de prisioneros; Kushner lo confirmó y el negociador ruso Medinski dijo que los detalles se darán a conocer pronto. Aún no hay fechas ni cifras.",
+        "No hubo avances sobre alto el fuego ni territorio. El eje fue la seguridad posbélica de Ucrania y de Europa, y Medinski admitió entendimiento en algunos puntos y no en otros.",
+        "Kushner señaló que la desconfianza entre ambas partes es el principal obstáculo. Los europeos mantuvieron consultas aparte en Abu Dabi sin sentarse en la mesa trilateral.",
+        "Según las informaciones, los enviados de EE. UU. viajan hoy a Moscú y luego a Irlanda para ver a Zelenski."
+      ],
+      "why": "Un canje de esta escala es el gesto humanitario más amplio en meses, mientras el desacuerdo territorial sigue condicionando la seguridad europea y el precio de la energía.",
+      "views": [
+        { "label": "Postura de Rusia", "text": "Defiende que la seguridad de Europa se discuta en conjunto, reclama partes del territorio ucraniano y no reconoce a los europeos como interlocutores por su apoyo militar a Kiev." },
+        { "label": "Postura de Ucrania", "text": "Rechaza ceder el territorio que controla como condición de paz, sostiene que las cuestiones territoriales solo pueden tratarse en una reunión directa con Putin y pide que Europa tenga sitio en la mesa." }
+      ],
+      "sources": [
+        { "name": "The Moscow Times", "url": "https://www.themoscowtimes.com/2026/11/11/abu-dhabi-talks-end-with-prisoner-exchange-but-no-peace-breakthrough-a94227" },
+        { "name": "CBC News", "url": "https://www.cbc.ca/news/world/us-russia-ukraine-abu-dhabi-peace-talks-9.7417687" },
+        { "name": "NPR", "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks" }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Finanzas",
+      "label": "Finanzas · EE. UU.",
+      "title": "Wall Street cae tras un IPC más alto de lo esperado y el mercado descuenta una subida de la Fed en diciembre",
+      "dek": "El S&P 500 baja un 0,38 % y el Nasdaq un 0,74 % un día después de la mayor subida desde abril; los futuros apuntan hoy a un rebote.",
+      "read_minutes": 2,
+      "what": [
+        "Los precios al consumidor de EE. UU. subieron un 0,4 % mensual en octubre, una décima más de lo previsto, y la subyacente un 0,3 %. Es el tercer mes seguido con un alza de al menos el 0,4 %.",
+        "El S&P 500 cerró en 7.520,93 puntos, el Dow Jones en 52.231,89 y el Nasdaq en 25.065,88. El rendimiento del bono a dos años subió casi 19 puntos básicos, hasta el 4,736 %.",
+        "Según FedWatch, el mercado ve prácticamente segura una subida de al menos 25 puntos básicos en la reunión del 9 de diciembre, y más de un 10 % de probabilidad de medio punto. La Fed subió tipos en septiembre y los mantuvo en octubre.",
+        "Nvidia acumula un descenso cercano al 9,6 % en dos sesiones por la investigación abierta por su consejo sobre su director ejecutivo; antes de la apertura de hoy, los futuros del S&P 500 subían cerca de un 0,7 %."
+      ],
+      "why": "Los tipos y la inflación en EE. UU. influyen en las bolsas globales, en el dólar y en las expectativas de tipos del BCE y, con ellas, del Euríbor.",
+      "views": [
+        { "label": "Lectura de más endurecimiento", "text": "Destaca que la inflación sigue por encima de lo previsto, que varios miembros de la Fed se muestran restrictivos y que el mercado de bonos ya descuenta tipos más altos." },
+        { "label": "Lectura de resistencia del mercado", "text": "Señala que la caída fue moderada tras el fuerte rebote del lunes, que el sector de chips tuvo ganadores como AMD y que los futuros anticipan una apertura al alza." }
+      ],
+      "sources": [
+        { "name": "Infobae", "url": "https://www.infobae.com/estados-unidos/2026/11/10/wall-street-cerro-en-rojo-tras-el-dato-de-inflacion-en-estados-unidos-que-reforzo-las-expectativas-de-una-suba-de-tasas/" },
+        { "name": "El Tiempo Latino", "url": "https://eltiempolatino.com/2026/11/11/mercados/wall-street-cae-por-inflacion-mas-alta-y-nvidia-futuros-suben-hoy/" },
+        { "name": "Estrategias de Inversión", "url": "https://www.estrategiasdeinversion.com/actualidad/noticias/bolsa-eeuu/dow-jones-sp-500-y-nasdaq-caen-al-cierre-tras-n-968487" }
+      ]
+    }
+  ]
+}
