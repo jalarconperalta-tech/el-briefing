@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-13",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "summary_30s": [
+    "Arranca la campaña del 29-N con mítines de PSOE, PP y Vox; las encuestas privadas dan mayoría a PP y Vox, mientras el CIS ofrece otro escenario y el PSOE habla de un voto aún abierto.",
+    "Los enviados de EE. UU. se reunieron con Putin en Moscú y después con Zelenski cerca de Dublín; hay avance hacia un gran canje de prisioneros, pero territorio y garantías de seguridad siguen sin acuerdo.",
+    "Wall Street cierra en rojo tras la renuncia de Jensen Huang a la dirección de Nvidia, que cae un 4,3 % mientras otros fabricantes de chips suben; el petróleo sube con Brent cerca de 96 dólares."
+  ],
+  "opportunities": [],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "Arranca la campaña del 29-N con mítines de los principales partidos y lecturas opuestas de las encuestas",
+      "dek": "Sánchez abre en Sevilla, Feijóo en Badalona y Abascal ya hizo un acto en Huesca; los sondeos privados y el CIS no coinciden.",
+      "read_minutes": 2,
+      "what": [
+        "El PSOE celebró un acto en Sevilla con unos 4.000 asistentes; Pedro Sánchez pidió una movilización amplia para remontar en los sondeos y defendió a los sindicatos tras la huelga general. Begoña Gómez intervino por primera vez en un mitin del partido.",
+        "El PP abrió en Badalona junto a Xavier García Albiol con el lema «España va a cambiar». Albiol propuso una ley contra la ocupación en sustitución de la ley de vivienda. Vox hizo un acto en Huesca; Abascal calificó la huelga de fracaso y centró su discurso en la prioridad nacional y la desregulación.",
+        "Según el promedio de encuestas privadas que recoge El Debate a partir de Electocracia, el PSOE tendría unos 109 escaños y PP y Vox sumarían 195, por encima de la mayoría absoluta de 176. El CIS preelectoral, en cambio, deja a ambos partidos por debajo de esa cifra.",
+        "Frente Amplio, con Ada Colau, apunta a unos 13 escaños en las encuestas; Podemos, con Irene Montero, rechaza el llamamiento al voto útil del PSOE."
+      ],
+      "why": "Las diferencias entre encuestas privadas y CIS hacen que el resultado sea incierto y que el voto en provincias medianas pueda decidir si hay mayoría absoluta de la derecha.",
+      "views": [
+        { "label": "Postura del PSOE y su entorno", "text": "Sostiene que la participación y la movilización pueden cambiar el escenario, que sus seguimientos internos le dan opciones de ganar y que PP y Vox podrían no llegar a 176 escaños. Defiende su balance económico." },
+        { "label": "Postura de PP y Vox", "text": "Sostienen que el país necesita un cambio de gobierno, apoyan sus mensajes en los sondeos privados que les dan mayoría y piden no fiarse de las encuestas. Plantean derogar la ley de vivienda actual." }
+      ],
+      "sources": [
+        { "name": "elDiario.es", "url": "https://www.eldiario.es/politica/cuenta-29n-izquierda-apela-epica-remontar-derecha-sube-tono-antisanchista_1_13660189.html" },
+        { "name": "El Debate", "url": "https://www.eldebate.com/espana/20261113/asi-inician-partidos-campana-encuestas-golpean-sanchez-mientras-pp-vox-suman-195-escanos_480228.html" }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Mundo",
+      "label": "Mundo · Ucrania",
+      "title": "Witkoff y Kushner se reúnen con Putin y con Zelenski: avanza el canje de prisioneros, no el acuerdo de paz",
+      "dek": "Putin confirmó avances hacia un intercambio, el mayor de la guerra según Zelenski, pero territorio y garantías de seguridad siguen abiertos.",
+      "read_minutes": 2,
+      "what": [
+        "Los enviados de EE. UU. se reunieron con Putin en el Kremlin, en la décima reunión de Witkoff con el presidente ruso. Según las informaciones, Putin confirmó que hay progreso hacia un acuerdo sobre el canje, sin dar detalles.",
+        "Después viajaron a Irlanda, donde se vieron con Zelenski en el aeródromo de Baldonnel, cerca de Dublín. Zelenski describió el intercambio como el mayor desde el inicio de la invasión a gran escala.",
+        "Las conversaciones previas en Abu Dabi terminaron sin avances sobre alto el fuego ni territorio. No hay fecha ni cifras confirmadas del canje; se han barajado entre 1.000 y 1.500 personas por bando.",
+        "Kushner dijo que EE. UU. intentará que los países europeos entren en las conversaciones, algo que Moscú ha rechazado hasta ahora."
+      ],
+      "why": "Un canje de esta escala sería el gesto humanitario más amplio en meses, pero el desacuerdo sobre territorio y seguridad condiciona el futuro de Ucrania, la seguridad europea y el precio de la energía.",
+      "views": [
+        { "label": "Postura de Rusia", "text": "Defiende que las cuestiones de seguridad se traten entre Moscú y Washington, mantiene sus reclamaciones territoriales y se resiste a que los europeos participen en la mesa." },
+        { "label": "Postura de Ucrania y de sus aliados europeos", "text": "Rechaza ceder territorio como condición de paz, pide garantías de seguridad y reclama que Europa tenga un lugar en las negociaciones." }
+      ],
+      "sources": [
+        { "name": "NBC News", "url": "https://www.nbcnews.com/world/middle-east/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-rcna608714" },
+        { "name": "The Washington Times", "url": "https://www.washingtontimes.com/news/2026/nov/12/us-envoys-meet-putin-prisoner-swap-european-inclusion-ukraine-talks/" },
+        { "name": "CNN", "url": "https://www.cnn.com/2026/11/11/politics/trump-envoys-russia-trip-peace-talks-intl" }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Finanzas",
+      "label": "Finanzas · EE. UU.",
+      "title": "Wall Street cierra a la baja por la salida de Jensen Huang de Nvidia y la subida del petróleo",
+      "dek": "Nvidia cae un 4,3 % y toca mínimos de 52 semanas; AMD y Broadcom suben más de un 5 %. S&P 500 baja un 0,35 % y el Nasdaq un 0,39 %.",
+      "read_minutes": 2,
+      "what": [
+        "Jensen Huang renunció como consejero delegado y miembro del consejo de Nvidia tras unas revelaciones sobre su vida privada; Colette Kress asume como CEO interina. La acción llegó a caer más de un 10 % al inicio y cerró con un descenso del 4,34 %, con un volumen muy superior al habitual. Nvidia presenta resultados el 17 de noviembre.",
+        "Cierres: S&P 500 en 7.592,40 puntos, Nasdaq en 25.366,09 y Dow Jones en 52.297,09. Otros fabricantes de chips subieron: AMD cerca de un 5,9 % y Broadcom un 5,5 %.",
+        "El crudo WTI subió un 2,55 %, hasta 88,74 dólares, y el Brent un 3,3 %, hasta 95,82, después de que Trump escribiera que EE. UU. no necesita un acuerdo con Irán.",
+        "En tipos, el bono estadounidense a 10 años rindió cerca del 4,99 %. Beth Hammack, de la Fed de Cleveland, apoyó subidas graduales, y Waller no descartó medio punto en diciembre si la inflación sorprende al alza."
+      ],
+      "why": "Nvidia pesa mucho en los índices tecnológicos y en las carteras globales, y el petróleo y los tipos largos influyen en la inflación y en las expectativas de tipos del BCE y del Euríbor.",
+      "views": [
+        { "label": "Lectura de riesgo para el sector", "text": "Señala que el valor perdió cerca de 450.000 millones de dólares de capitalización desde que estalló el asunto, que acumula en torno a un 20 % de caída en noviembre y que la incertidumbre de mando llega antes de sus resultados." },
+        { "label": "Lectura de efecto limitado", "text": "Destaca que la caída de los índices fue moderada, que parte del capital pasó a otros fabricantes de chips y que Alphabet, Amazon y Microsoft cerraron al alza." }
+      ],
+      "sources": [
+        { "name": "CNBC", "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html" },
+        { "name": "La Nación", "url": "https://www.lanacion.com.ar/estados-unidos/wall-street-cierra-a-la-baja-arrastrada-por-el-impacto-de-nvidia-nid12112026/" }
+      ]
+    }
+  ]
+}

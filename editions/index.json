@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-11-13",
+      "stories": 3,
+      "opportunities": 0,
+      "headlines": [
+        "Arranca la campaña del 29-N con mítines de los principales partidos y lecturas opuestas de las encuestas",
+        "Witkoff y Kushner se reúnen con Putin y con Zelenski: avanza el canje de prisioneros, no el acuerdo de paz",
+        "Wall Street cierra a la baja por la salida de Jensen Huang de Nvidia y la subida del petróleo"
+      ]
+    },
+    {
       "date": "2026-11-12",
       "stories": 3,
       "opportunities": 0,
