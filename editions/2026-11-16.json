@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-16",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": true,
+  "summary_30s": [
+    "Resumen del fin de semana: la campaña del 29-N sigue con actos de Sánchez, Feijóo, Abascal y Colau, y los últimos sondeos publicados dan a PP y Vox en torno a 199 escaños, frente a los 176 de la mayoría absoluta.",
+    "Canarias registró el sábado la mayor llegada de cayucos en un solo día en 32 años de ruta, con 14 embarcaciones y casi 1.500 personas, según EFE.",
+    "En el Euríbor, la media de octubre (3,239 %) es la que se aplica a las revisiones actuales; el mercado da alta probabilidad a una subida de 0,25 puntos del BCE el 17 de diciembre."
+  ],
+  "opportunities": [],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "Segunda semana de campaña del 29-N: los sondeos dan a PP y Vox en torno a 199 escaños y los partidos presentan sus programas",
+      "dek": "Sánchez presenta el programa del PSOE en Alcorcón, Feijóo acude a Santander y Abascal a Cornellá; Ada Colau hace campaña en Zaragoza.",
+      "read_minutes": 2,
+      "what": [
+        "Según el resumen de EFE para el domingo, Pedro Sánchez presenta el programa del PSOE, que incluye un impuesto a los fondos buitre, blindar el aborto y rechazar un gasto en defensa del 5 % del PIB. También propone destinar el 1 % del PIB a vivienda social y un permiso retribuido de cuatro semanas para el cuidado de hijos.",
+        "Feijóo condenó la agresión a su cabeza de lista en Guipúzcoa y pidió a Sánchez que traslade a Bildu que no «violente la campaña». Se menciona además que una posible sentencia del caso Kitchen podría conocerse en la recta final.",
+        "Los últimos sondeos publicados son del 9 de noviembre: tracking de Sigma Dos para El Mundo y barómetro de GAD3 para ABC coinciden en que PP y Vox sumarían 199 escaños (50,4 % del voto) y el PSOE rondaría los 105. Otras encuestas, como la de 40dB para SER y El País, situaban al PSOE a unos dos puntos del PP.",
+        "La campaña se cierra el viernes 27 de noviembre; las elecciones son el domingo 29."
+      ],
+      "why": "Las diferencias entre institutos, de dos a más de cinco puntos entre PP y PSOE, hacen que el reparto final dependa de la participación y de cuántos escaños sumen los partidos pequeños.",
+      "views": [
+        { "label": "Postura del PSOE", "text": "Defiende un programa centrado en vivienda social, conciliación y derechos, y sostiene que el escenario sigue abierto si hay movilización. Rechaza elevar el gasto en defensa al 5 % del PIB." },
+        { "label": "Postura del PP", "text": "Defiende un cambio de Gobierno, se apoya en los sondeos que le dan mayoría junto a Vox y denuncia presiones sobre sus candidatos durante la campaña. Pide al PSOE que se desmarque de Bildu." }
+      ],
+      "sources": [
+        { "name": "EFE (vía Infobae)", "url": "https://www.infobae.com/espana/agencias/2026/11/15/temas-del-dia-de-efe-espana-del-domingo-15-de-noviembre-de-2026-1330h/" },
+        { "name": "Que.es", "url": "https://www.que.es/2026/11/09/encuestas-29n-pp-vox-199-escanos/" }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "Récord diario de llegadas de cayucos a Canarias: 14 embarcaciones con casi 1.500 personas en un solo sábado",
+      "dek": "El Hierro concentra la presión migratoria; el ministro Ángel Víctor Torres visitó la isla este domingo.",
+      "read_minutes": 2,
+      "what": [
+        "Según EFE, el sábado llegaron 14 cayucos con 1.488 personas, la cifra más alta en un solo día en los 32 años de la Ruta Canaria.",
+        "El Hierro recibe la mayor parte de las embarcaciones. Otra información, publicada antes del fin de semana, hablaba de unas 2.300 personas en cinco días en la isla y de la declaración de emergencia social por parte del Cabildo.",
+        "El ministro Ángel Víctor Torres visitó la isla este domingo. La inmigración también es un tema de campaña para el 29-N."
+      ],
+      "why": "La capacidad de acogida de la isla y la coordinación entre administraciones son una cuestión de política nacional en plena campaña electoral.",
+      "views": [
+        { "label": "Quienes piden más reparto y recursos", "text": "Reclaman que el Estado refuerce la financiación y distribuya la acogida de menores y adultos entre más comunidades, para aliviar a las islas." },
+        { "label": "Quienes piden más control de entradas", "text": "Reclaman reforzar el control de fronteras y los acuerdos con países de origen y tránsito para reducir las salidas y las llegadas." }
+      ],
+      "sources": [
+        { "name": "EFE (vía Infobae)", "url": "https://www.infobae.com/espana/agencias/2026/11/15/temas-del-dia-de-efe-espana-del-domingo-15-de-noviembre-de-2026-1330h/" },
+        { "name": "Artículo 14", "url": "https://www.articulo14.es/sociedad/la-oleada-de-cayucos-colapsa-el-hierro-20261108.html" }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Finanzas",
+      "label": "Finanzas · Zona euro",
+      "title": "Euríbor: la media de octubre (3,239 %) rige las revisiones y el mercado ve probable una subida del BCE el 17 de diciembre",
+      "dek": "El tipo de depósito está en el 2,50 %; CaixaBank Research cifra en un 80 % la probabilidad de que suba al 2,75 %.",
+      "read_minutes": 2,
+      "what": [
+        "La media del Euríbor a 12 meses de octubre fue del 3,239 %, el dato que aplican los bancos a las revisiones del periodo actual. El dato diario de cierre de octubre fue del 3,306 %.",
+        "En la primera quincena de noviembre el índice diario se ha movido en torno al 3,2-3,3 %, con una breve racha de bajadas cortada el 10 de noviembre.",
+        "Los tipos oficiales del BCE son: depósito 2,50 %, operaciones principales 2,65 % y facilidad marginal 2,90 %. La próxima reunión es el 17 de diciembre.",
+        "Según el análisis que recoge Rankia, el mercado asigna un 80 % de probabilidad a una subida de 0,25 puntos."
+      ],
+      "why": "Una subida de tipos encarece las cuotas de las hipotecas variables y las nuevas, y condiciona la rentabilidad de depósitos y Letras.",
+      "views": [
+        { "label": "Lectura favorable a subir tipos", "text": "Sostiene que subir tipos ayuda a contener la inflación y a anclar expectativas de precios, aunque encarezca el crédito." },
+        { "label": "Lectura favorable a esperar", "text": "Sostiene que una subida adicional frena el crédito y la actividad cuando el crecimiento es débil, y que conviene esperar a más datos." }
+      ],
+      "sources": [
+        { "name": "Rankia (11 nov)", "url": "https://www.rankia.com/blog/mejores-hipotecas/7546779-euribor-hoy-11-noviembre-2026" },
+        { "name": "Rankia (10 nov)", "url": "https://www.rankia.com/blog/mejores-hipotecas/7544841-euribor-hoy-10-noviembre-2026" }
+      ]
+    }
+  ]
+}

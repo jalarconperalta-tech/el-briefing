@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-11-16",
+      "stories": 3,
+      "opportunities": 0,
+      "headlines": [
+        "Segunda semana de campaña del 29-N: los sondeos dan a PP y Vox en torno a 199 escaños y los partidos presentan sus programas",
+        "Récord diario de llegadas de cayucos a Canarias: 14 embarcaciones con casi 1.500 personas en un solo sábado",
+        "Euríbor: la media de octubre (3,239 %) rige las revisiones y el mercado ve probable una subida del BCE el 17 de diciembre"
+      ]
+    },
+    {
       "date": "2026-11-13",
       "stories": 3,
       "opportunities": 0,
