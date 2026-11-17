@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-11-17",
+      "stories": 4,
+      "opportunities": 1,
+      "headlines": [
+        "Huelga ferroviaria de 24 horas en Renfe, Adif, Iryo y Ouigo para exigir más seguridad tras el accidente de Urda",
+        "29-N: el CIS da la victoria al PSOE, el resto de sondeos apunta a mayoría de PP y Vox, y el jueves llega el cara a cara Sánchez-Feijóo",
+        "Países Bajos: los tres partidos del Gobierno de Jetten dicen haber superado la crisis por el plan fiscal de 2027"
+      ]
+    },
+    {
       "date": "2026-11-16",
       "stories": 3,
       "opportunities": 0,

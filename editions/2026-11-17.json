@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-17",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "summary_30s": [
+    "Huelga ferroviaria de 24 horas hoy en Renfe, Adif y operadoras privadas para reclamar más seguridad tras tres accidentes este año; el Ministerio de Transportes fijó servicios mínimos del 50 % al 75 % en Cercanías.",
+    "A doce días del 29-N, el CIS da la primera plaza al PSOE mientras otros sondeos dan mayoría a PP y Vox; el jueves 19 se celebra el cara a cara Sánchez-Feijóo.",
+    "En Países Bajos, los tres partidos del Gobierno de Jetten anunciaron que han superado la crisis abierta por el plan fiscal de 2027.",
+    "Para ti: el aval ICO para la primera vivienda de jóvenes sigue abierto hasta el 31 de diciembre de 2027, con límites de renta y patrimonio ampliados este año."
+  ],
+  "opportunities": [
+    {
+      "id": "o1",
+      "kind": "Ayuda",
+      "deadline": "Plazo: 31 dic 2027",
+      "title": "Línea de avales ICO para la primera vivienda de jóvenes: abierta hasta finales de 2027 con límites ampliados",
+      "fit": "Encaja con un perfil joven que prevé comprar su primera vivienda habitual con hipoteca en los próximos años.",
+      "detail": "Según el ICO, pueden acogerse menores de 36 años en la firma (o familias con menores a cargo, sin límite de edad) con patrimonio neto de hasta 150.000 euros por adquirente. Para préstamos firmados desde el 19 de junio de 2026, el tope de renta es un múltiplo del IPREM que depende de la provincia. El aval cubre hasta el 20 % del préstamo (hasta el 25 % si la vivienda tiene calificación energética D o superior), durante los primeros 10 años, y es gratuito. El préstamo debe formalizarse antes del 31 de diciembre de 2027 y la concesión depende de cada entidad adherida.",
+      "action": "Comprobar en la página del ICO el límite de renta de la provincia de la vivienda y el precio máximo de la comunidad, y pedir a un banco adherido una simulación con el aval antes de hacer una oferta.",
+      "sources": [
+        { "name": "ICO · Línea de avales para primera vivienda", "url": "https://www.ico.es/en/linea-avales-hipoteca-primera-vivienda" },
+        { "name": "ICO · Ampliación de la línea de avales", "url": "https://www.ico.es/en/el-gobierno-amplia-el-alcance-de-la-linea-de-avales-para-la-adquisicion-de-primera-vivienda-de-jovenes-y-familias-con-menores-a-cargo" }
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "Huelga ferroviaria de 24 horas en Renfe, Adif, Iryo y Ouigo para exigir más seguridad tras el accidente de Urda",
+      "dek": "El Ministerio de Transportes fija mínimos del 75 % en Cercanías en hora punta y del 72 % en Alta Velocidad; los sindicatos no la desconvocaron tras las reuniones de la semana pasada.",
+      "read_minutes": 2,
+      "what": [
+        "La convocan los comités generales de Renfe y Adif, el sindicato de maquinistas Semaf, CCOO, UGT, CGT y otros sindicatos ferroviarios. Reclaman más seguridad tras tres accidentes este año (Adamuz, Gélida y Urda, en Toledo), según El Español.",
+        "Piden auditorías de la infraestructura, del material y de las condiciones laborales, y un plan de empleo a diez años para dimensionar las plantillas. Advierten de que la doble verificación en el control de tráfico no debe sumar carga a las plantillas actuales.",
+        "Transportes fijó para Renfe mínimos del 75 % en Cercanías en hora punta y del 50 % el resto del día, el 65 % en Media Distancia, el 72 % en Alta Velocidad y Larga Distancia y el 26 % en mercancías. Rodalies tiene el 66 % en hora punta; Iryo mantiene el 70 % y Ouigo circula con 17 de sus 27 trenes.",
+        "Según El Español, en la huelga del 10 de noviembre no se cumplieron los mínimos en Cercanías Madrid."
+      ],
+      "why": "Afecta a los desplazamientos diarios y a las mercancías de toda España, y el pulso entre sindicatos y Administración sobre seguridad ferroviaria se produce en plena campaña electoral.",
+      "views": [
+        { "label": "Postura de los sindicatos", "text": "Sostienen que las medidas entregadas por el Ministerio son insuficientes y que hacen falta auditorías integrales y más plantilla antes de añadir nuevos controles." },
+        { "label": "Postura del Ministerio y las empresas", "text": "Señalan que han mantenido reuniones de urgencia con los sindicatos, que han entregado seis documentos con medidas de seguridad y que la doble verificación ya figura en el plan y en las recomendaciones de la agencia de seguridad." }
+      ],
+      "sources": [
+        { "name": "El Español", "url": "https://www.elespanol.com/invertia/observatorios/movilidad/20261116/cuerpo-nueva-cupula-adif-renfe-enfrentan-gran-huelga-ferroviaria-amenaza-colapsar-red/1003744459586_0.html" },
+        { "name": "elDiario.es", "url": "https://www.eldiario.es/economia/son-servicios-minimos-huelga-ferroviaria-martes-17-noviembre_1_13666598.html" },
+        { "name": "Renfe", "url": "https://grupo.renfe.com/es/es/sala-de-prensa/noticias/2026/11/establecidos-los-servicios-minimos-para-la-huelga-del-17-de-noviembre" }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "29-N: el CIS da la victoria al PSOE, el resto de sondeos apunta a mayoría de PP y Vox, y el jueves llega el cara a cara Sánchez-Feijóo",
+      "dek": "El debate del día 19, moderado por María Casado, tendrá cinco bloques; el del 26 con Abascal y Colau sigue sin cerrarse.",
+      "read_minutes": 2,
+      "what": [
+        "El CIS estima un 33,3 % para el PSOE (134-143 escaños), un 25,5 % para el PP (98-106) y un 18,4 % para Vox (57-65), según Moncloa.com.",
+        "Otros sondeos recogidos por Vozpópuli apuntan en sentido contrario: GAD3 para ABC da 136 escaños al PP, 103 al PSOE y 63 a Vox; 40dB estima que PP y Vox sumarían 190 con UPN, e IMOP para El Confidencial les atribuye el 52,1 % del voto.",
+        "Según EFE, el cara a cara del jueves 19 lo organiza la Academia de Televisión con cinco bloques: vivienda, economía y fiscalidad, política social, corrupción y regeneración, y migración y política exterior. Hay también un debate sobre vivienda en la SER el miércoles 18 y uno de portavoces en RTVE el lunes 23.",
+        "Un debate a cuatro con Sánchez, Feijóo, Abascal y Colau está previsto el 26, sin cerrar, y Podemos ha reclamado participar."
+      ],
+      "why": "La distancia entre institutos, de una victoria socialista a una mayoría de la derecha, hace que los debates y la participación pesen en el resultado del 29 de noviembre.",
+      "views": [
+        { "label": "Lectura del PSOE", "text": "Apuesta por el voto útil y sostiene que cada escaño cuenta, especialmente donde la fragmentación de la izquierda puede restarle representación." },
+        { "label": "Lectura del PP", "text": "Sostiene que debe gobernar la lista más votada y se apoya en los sondeos que le dan mayoría junto a Vox." }
+      ],
+      "sources": [
+        { "name": "Moncloa.com", "url": "https://www.moncloa.com/2026/11/16/29n-frente-23j-pactos-psoe-3469267" },
+        { "name": "Vozpópuli", "url": "https://www.vozpopuli.com/espana/encuestas-de-las-elecciones-generales-del-29-n-resultado-de-psoe-pp-vox-y-frente-amplio-y-ganador-segun-los-ultimos-sondeos.html" },
+        { "name": "EFE (vía Infobae)", "url": "https://www.infobae.com/espana/agencias/2026/11/13/un-cara-a-cara-entre-sanchez-y-feijoo-y-otros-cuatro-debates-marcaran-la-campana-del-29n/" }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Mundo",
+      "label": "Mundo · Europa",
+      "title": "Países Bajos: los tres partidos del Gobierno de Jetten dicen haber superado la crisis por el plan fiscal de 2027",
+      "dek": "El VVD votó en contra del plan del propio Ejecutivo después de que D66 y CDA pactaran enmiendas con la oposición; el texto pasa ahora al Senado.",
+      "read_minutes": 2,
+      "what": [
+        "El jueves 12, el plan fiscal de 2027 salió adelante en la Cámara Baja por 76 votos contra 74, con una enmienda de PRO y Volt apoyada por D66 y CDA, según DutchNews.",
+        "La enmienda crea un llamado impuesto a los millonarios que recauda unos 1.000 millones de euros, frente a los 1.500 de la propuesta original. Divide la tributación de ahorros e inversiones en dos tramos (35,5 % y 38,5 %) y endurece las reglas sobre donaciones.",
+        "Tras un fin de semana de negociaciones, los tres partidos anunciaron el lunes que han restablecido la confianza; los detalles se presentarán al Consejo de Ministros este martes, según NL Times.",
+        "El plan pasa al Senado, donde la coalición minoritaria no tiene mayoría."
+      ],
+      "why": "El Gobierno neerlandés gobierna en minoría desde febrero, y una ruptura habría abierto la posibilidad de elecciones anticipadas en un país con peso en las decisiones de la UE.",
+      "views": [
+        { "label": "Postura del VVD", "text": "Considera que el acuerdo con los partidos de centroizquierda incumple el pacto de coalición y prefería buscar apoyos en JA21, BBB y SGP para aprobar el plan." },
+        { "label": "Postura de D66 y CDA", "text": "Sostienen que los partidos pueden votar de forma distinta y que pactar con PRO y Volt era una vía más viable para sacar adelante el plan fiscal." }
+      ],
+      "sources": [
+        { "name": "NL Times (16 nov)", "url": "https://nltimes.nl/2026/11/16/apparent-deal-dutch-pm-jettens-cabinet-minority-coalition-will-remain-power" },
+        { "name": "DutchNews", "url": "https://www.dutchnews.nl/2026/11/coalition-in-crisis-as-tax-plan-passes-without-vvd-support/" },
+        { "name": "NL Times (11 nov)", "url": "https://nltimes.nl/2026/11/11/dutch-cabinet-crisis-vvd-leave-coalition-tax-deal-left-center" }
+      ]
+    },
+    {
+      "id": "c4",
+      "section": "Finanzas",
+      "label": "Finanzas · España",
+      "title": "Letras del Tesoro: el 3 meses sube al 2,665 % y el 9 meses baja al 2,946 % en la subasta del 10 de noviembre",
+      "dek": "El Tesoro adjudicó 1.602 millones de euros; la próxima subasta de Letras a 3 y 9 meses es el 9 de diciembre.",
+      "read_minutes": 1,
+      "what": [
+        "El Tesoro adjudicó 654,66 millones a 3 meses con un tipo marginal del 2,665 % (2,645 % en la anterior) y 947,52 millones a 9 meses al 2,946 % (2,968 % antes).",
+        "La demanda fue de 5.055 millones, según Raisin; la cobertura fue de 2,97 veces a 3 meses y 3,28 veces a 9 meses.",
+        "Las Letras a 6 y 12 meses se subastan la primera semana de diciembre, y las de 3 y 9 meses el 9 de diciembre."
+      ],
+      "why": "Estos tipos son la referencia para quien compara Letras con depósitos o cuentas remuneradas, y se mueven con las expectativas sobre el BCE, que se reúne el 16 y 17 de diciembre.",
+      "views": [
+        { "label": "Lectura favorable a las Letras", "text": "Destaca que ofrecen un tipo conocido desde la compra, respaldo del Estado y posibilidad de venta antes del vencimiento." },
+        { "label": "Lectura favorable a depósitos y cuentas", "text": "Destaca que permiten comparar ofertas bancarias con garantía de depósitos y, en algunos casos, mayor flexibilidad de acceso al dinero." }
+      ],
+      "sources": [
+        { "name": "Raisin", "url": "https://www.raisin.com/es-es/noticias/rentabilidad-letras-3-9-meses-noviembre-2026/" },
+        { "name": "Demócrata", "url": "https://www.democrata.es/economia/el-tesoro-emite-1-602-2-millones-en-letras-y-lleva-el-interes-a-3-anos-a-maximos-de-dos-anos/" }
+      ]
+    }
+  ]
+}
