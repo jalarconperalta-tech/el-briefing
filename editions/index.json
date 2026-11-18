@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-11-18",
+      "stories": 5,
+      "opportunities": 0,
+      "headlines": [
+        "El Gobierno aprueba subir el salario mínimo un 5,3 % en 2027 y el sueldo de los empleados públicos un 4,5 %, en plena campaña",
+        "Ucrania y Rusia se golpean los puentes mientras Bruselas prepara el 22.º paquete de sanciones",
+        "Huelga ferroviaria: Renfe cifra en más de 666.000 los viajeros afectados y en el 12,08 % el seguimiento"
+      ]
+    },
+    {
       "date": "2026-11-17",
       "stories": 4,
       "opportunities": 1,

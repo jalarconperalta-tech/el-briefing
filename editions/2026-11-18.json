@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-18",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "summary_30s": [
+    "El Consejo de Ministros aprobó ayer subir el salario mínimo un 5,3 % en 2027, hasta 1.286 euros al mes, y un 4,5 % el sueldo de los empleados públicos; la patronal criticó el momento, a doce días del 29-N.",
+    "Rusia y Ucrania se atacaron mutuamente sus puentes y la Comisión Europea abrió consultas sobre un 22.º paquete de sanciones contra Moscú.",
+    "Renfe cifra en más de 666.000 los viajeros afectados por la huelga ferroviaria de ayer, con un seguimiento total del 12,08 % según la compañía.",
+    "La deuda pública española volvió en septiembre a superar el 100 % del PIB, hasta el 100,3 %."
+  ],
+  "opportunities": [],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "El Gobierno aprueba subir el salario mínimo un 5,3 % en 2027 y el sueldo de los empleados públicos un 4,5 %, en plena campaña",
+      "dek": "El SMI llegará a 1.286 euros brutos en catorce pagas desde el 1 de enero; la patronal critica que se apruebe con el Parlamento disuelto y sin consultar a los agentes sociales.",
+      "read_minutes": 2,
+      "what": [
+        "El Consejo de Ministros del martes 17 fijó el SMI de 2027 en 1.286 euros brutos al mes en catorce pagas, 65 euros más al mes según la vicepresidenta Yolanda Díaz. Beneficia a unos 2,7 millones de trabajadores y entra en vigor el 1 de enero.",
+        "El comité de expertos del Ministerio de Trabajo había propuesto un 4,9 % y los sindicatos reclamaban un 7 %. Díaz ha señalado que la cantidad estará exenta de IRPF, y el Gobierno aprobó también un real decreto-ley que rebaja el IRPF para rentas de hasta 23.172 euros anuales.",
+        "Para los más de tres millones de empleados públicos, la subida es del 4,5 %, más un 0,5 % adicional en el primer trimestre, con efecto retroactivo desde enero, si se confirma que la inflación de este año supera el 1,5 %.",
+        "El presidente de la CEOE, Antonio Garamendi, criticó que la medida se apruebe fuera de plazo, con las Cortes disueltas, en campaña y sin consulta a los agentes sociales."
+      ],
+      "why": "Afecta a millones de nóminas y a los costes de las empresas, y se decide a doce días de unas elecciones generales, lo que alimenta el debate sobre el momento elegido.",
+      "views": [
+        { "label": "Postura del Gobierno", "text": "Sostiene que la subida mejora el poder adquisitivo de quienes menos cobran, con especial efecto en mujeres y jóvenes, y que se queda por encima de la propuesta de los expertos." },
+        { "label": "Postura de la patronal", "text": "Sostiene que una decisión de este calado debía tomarse en plazo, con el Parlamento en funciones plenas y consultando a los agentes sociales, y no durante la campaña electoral." }
+      ],
+      "sources": [
+        { "name": "Euronews", "url": "https://es.euronews.com/2026/11/17/el-gobierno-de-pedro-sanchez-aprueba-sendas-subidas-salariales" },
+        { "name": "Demócrata", "url": "https://www.democrata.es/economia/diaz-ratifica-una-subida-del-smi-del-5-3-desde-2027-y-recalca-que-sera-integra-y-exenta-de-irpf/" }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Mundo",
+      "label": "Mundo · Europa",
+      "title": "Ucrania y Rusia se golpean los puentes mientras Bruselas prepara el 22.º paquete de sanciones",
+      "dek": "Ataques rusos dañaron dos puentes de Kiev y Ucrania volvió a golpear el puente de Crimea; la Comisión inició consultas sobre nuevas sanciones y un préstamo de 45.000 millones para Ucrania.",
+      "read_minutes": 2,
+      "what": [
+        "Según el alcalde de Kiev, Vitali Klitschko, los ataques de la noche del lunes alcanzaron los puentes Norte y Sur y dañaron infraestructuras críticas; varios distritos se quedaron sin calefacción y agua. El gobernador de Crimea designado por Moscú dijo que Ucrania atacó por segundo día seguido el puente que une la península con Rusia, y el alcalde de Moscú afirmó que se derribaron 20 drones.",
+        "Zelenski aseguró que Rusia recibe decenas de misiles al mes de Corea del Norte. Negociadores de Ucrania, EE. UU. y varios países europeos celebraron una primera reunión sobre futuras negociaciones; Kushner habló de progresos, sin acuerdos concretos publicados.",
+        "La Comisión Europea empezó el martes las consultas con los Estados miembros sobre un 22.º paquete de sanciones, centrado en el sector bancario, los canales de criptomonedas y la flota en la sombra de petroleros, con una oficina nueva para vigilar su aplicación. La propuesta formal llegaría antes de que acabe noviembre y se pretende cerrar la negociación en diciembre.",
+        "Por separado, la Comisión presentará este miércoles una propuesta de préstamo de 45.000 millones de euros para cubrir el déficit financiero de Ucrania en 2027."
+      ],
+      "why": "La guerra sigue ampliándose a infraestructuras civiles mientras se abre un canal de negociación, y las decisiones de la UE sobre sanciones y financiación condicionan el apoyo a Kiev el año próximo.",
+      "views": [
+        { "label": "Postura de Ucrania y de la UE", "text": "Sostienen que hay que mantener la presión con sanciones y apoyo financiero y militar, y que la negociación avanza con garantías de seguridad para Kiev." },
+        { "label": "Postura de Rusia", "text": "Presenta sus ataques como respuesta a los de Ucrania y rechaza por ahora las negociaciones en formato multilateral con participación europea." }
+      ],
+      "sources": [
+        { "name": "Euronews · Ataques a puentes y negociaciones", "url": "https://es.euronews.com/2026/11/17/rusia-ataca-dos-puentes-kiev-ucrania-negociaciones-paz" },
+        { "name": "Euronews · 22.º paquete de sanciones", "url": "https://es.euronews.com/2026/11/17/la-ue-prepara-nuevas-sanciones-contra-rusia-por-sus-exigencias-de-seguridad-y-los-bombarde" }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "Huelga ferroviaria: Renfe cifra en más de 666.000 los viajeros afectados y en el 12,08 % el seguimiento",
+      "dek": "La compañía canceló el 22,27 % de las circulaciones de servicio público; en Cercanías Madrid llegó a suprimir el 97,6 % de los trenes de servicios mínimos a media mañana.",
+      "read_minutes": 2,
+      "what": [
+        "Según los datos de Renfe recogidos por Euronews, el seguimiento fue del 16,75 % del personal hasta las 18:00 y del 25,94 % en el turno de tarde, y del 12,08 % en el conjunto del día.",
+        "En Cercanías, Rodalies, Avant y Media Distancia se canceló el 22,27 % de las circulaciones previstas. En alta velocidad e Intercity se suprimió el 14,5 % de los trenes de servicios mínimos.",
+        "A las 10:30, Renfe había suprimido el 97,6 % de los trenes de servicios mínimos en Cercanías Madrid, donde el Ministerio exigía el 75 % en hora punta y el 50 % el resto del día. En Rodalies, la cifra era del 40 % a esa hora. Las cifras proceden de momentos distintos del día y son parciales.",
+        "La huelga la convocaron los sindicatos ferroviarios para exigir más seguridad tras los accidentes de este año; Transportes había fijado mínimos de hasta el 75 % en Cercanías y el 72 % en alta velocidad."
+      ],
+      "why": "El incumplimiento o no de los servicios mínimos y el seguimiento real marcan la fuerza de los sindicatos en el pulso sobre seguridad ferroviaria, en plena campaña electoral.",
+      "views": [
+        { "label": "Postura de los sindicatos", "text": "Sostienen que la huelga responde a la falta de auditorías de seguridad y de plantilla tras tres accidentes este año, y que las medidas ofrecidas son insuficientes." },
+        { "label": "Postura del Ministerio y Renfe", "text": "Destacan que ofrecieron reuniones y medidas de seguridad por escrito, y que el seguimiento del 12,08 % y los mínimos fijados garantizan una parte del servicio." }
+      ],
+      "sources": [
+        { "name": "Euronews", "url": "https://es.euronews.com/2026/11/17/la-huelga-de-renfe-suprime-el-976-de-los-servicios-minimos-de-cercanias-en-madrid-y-causa-" },
+        { "name": "Demócrata", "url": "https://www.democrata.es/economia/transportes-fija-servicios-minimos-del-72-en-ave-y-del-75-en-cercanias-por-la-huelga-del-17-en-renfe/" }
+      ]
+    },
+    {
+      "id": "c4",
+      "section": "Política",
+      "label": "Política · Europa",
+      "title": "Sánchez rechaza el plan de cinco países europeos de abrir centros de retorno de migrantes en Ruanda",
+      "dek": "Alemania, Dinamarca, Grecia, Países Bajos y Austria prevén abrir un centro de expulsión fuera de la UE en 2027; la ONU cuestiona el modelo.",
+      "read_minutes": 2,
+      "what": [
+        "Según Euronews, los cinco países pactaron un centro en Ruanda que permitiría trasladar allí a personas sin residencia legal, incluidos solicitantes de asilo con la petición rechazada. La apertura está prevista para 2027.",
+        "En una entrevista con Informativos Telecinco el lunes 16, Sánchez dijo: «No le veo ni futuro ni humanidad a esa solución». Defiende una política basada en cooperación internacional, control de fronteras y respeto a los derechos humanos.",
+        "El alto comisionado de la ONU para los derechos humanos sostuvo que externalizar las obligaciones migratorias a países lejanos no es una solución.",
+        "El artículo no detalla la capacidad del centro, su coste ni el número de personas afectadas."
+      ],
+      "why": "La política de retornos es uno de los asuntos que divide a los gobiernos europeos y entra en la campaña española.",
+      "views": [
+        { "label": "Postura de Sánchez y la ONU", "text": "Sostienen que trasladar a personas a terceros países lejanos no resuelve la migración y plantea problemas de derechos humanos; defienden cooperación y control de fronteras." },
+        { "label": "Postura de los cinco países promotores", "text": "Defienden que los centros fuera de la UE permitirían ejecutar los retornos de quienes no tienen derecho a permanecer, algo que consideran difícil con los instrumentos actuales." }
+      ],
+      "sources": [
+        { "name": "Euronews · Sánchez rechaza el plan", "url": "https://es.euronews.com/2026/11/17/pedro-sanchez-rechaza-plan-deportacion-inmigrantes-ruanda" },
+        { "name": "Euronews · La ONU cuestiona el proyecto", "url": "https://es.euronews.com/2026/11/17/onu-cuestiona-proyecto-paises-europeos-centro-retorno-ruanda" },
+        { "name": "Demócrata", "url": "https://www.democrata.es/union-europea/cinco-paises-ue-preparan-centros-en-terceros-paises-deportar-migrantes-2027/" }
+      ]
+    },
+    {
+      "id": "c5",
+      "section": "Finanzas",
+      "label": "Finanzas · España",
+      "title": "La deuda pública vuelve a superar el 100 % del PIB en septiembre, hasta el 100,3 %",
+      "dek": "Según el Banco de España, el total asciende a 1,767 billones de euros, un 1 % más que en agosto, aunque 2,7 puntos de PIB menos que un año antes.",
+      "read_minutes": 1,
+      "what": [
+        "La deuda de las Administraciones Públicas fue de 1.767.154 millones de euros, el 100,3 % del PIB, frente al 99,7 % de agosto y el 103 % de septiembre de 2025.",
+        "La Administración central subió 19.301 millones, hasta 1.616.942 millones; las comunidades autónomas bajaron 2.268 millones, hasta 346.618 millones.",
+        "Los ayuntamientos y otras entidades locales sumaron 21.304 millones y la Seguridad Social 136.176 millones, según Euronews."
+      ],
+      "why": "El peso de la deuda condiciona el margen fiscal del próximo Gobierno y el coste de financiación del Estado, que se refleja en los tipos de las subastas del Tesoro.",
+      "views": [
+        { "label": "Lectura centrada en el nivel", "text": "Subraya que la deuda está en máximos absolutos en euros y que el ratio vuelve a rebasar el 100 %, lo que limita el margen ante nuevas subidas de tipos." },
+        { "label": "Lectura centrada en la evolución", "text": "Subraya que el ratio es 2,7 puntos inferior al de hace un año gracias al crecimiento del PIB, y que el aumento mensual es moderado." }
+      ],
+      "sources": [
+        { "name": "Banco de España", "url": "https://www.bde.es/wbe/es/noticias-eventos/actualidad-banco-espana/deuda-aapp-septiembre26.html" },
+        { "name": "Euronews", "url": "https://es.euronews.com/2026/11/17/deuda-publica-espana-record-septiembre-2026-177-billones-1003-pib" }
+      ]
+    }
+  ]
+}
