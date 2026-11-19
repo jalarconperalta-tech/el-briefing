@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-11-19",
+      "stories": 5,
+      "opportunities": 0,
+      "headlines": [
+        "Trump, Xi y Putin se reúnen hoy en Shenzhen en una cumbre trilateral sin Ucrania ni la UE",
+        "Bruselas propone un préstamo de 45.000 millones para Ucrania en 2027 con deuda común y devolución ligada a las reparaciones rusas",
+        "Sánchez y Feijóo se enfrentan esta noche en el cara a cara televisado del 29-N"
+      ]
+    },
+    {
       "date": "2026-11-18",
       "stories": 5,
       "opportunities": 0,

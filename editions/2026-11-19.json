@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-19",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "summary_30s": [
+    "Trump, Xi y Putin celebran hoy en Shenzhen su primera cumbre a tres, con la guerra de Ucrania sobre la mesa pero sin Kiev ni la UE presentes.",
+    "La Comisión Europea propone un préstamo de 45.000 millones para Ucrania en 2027, financiado con deuda común y con devolución ligada a las reparaciones rusas; cuatro Estados ya se desmarcan.",
+    "Esta noche, a las 22:00, Sánchez y Feijóo se miran cara a cara en televisión, y el Congreso ha convalidado el decreto de seguridad ferroviaria con el único voto en contra de Vox.",
+    "El BCE compara el auge de la IA con la burbuja puntocom y avisa del endeudamiento récord de las tecnológicas."
+  ],
+  "opportunities": [],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Mundo",
+      "label": "Mundo · Global",
+      "title": "Trump, Xi y Putin se reúnen hoy en Shenzhen en una cumbre trilateral sin Ucrania ni la UE",
+      "dek": "Es la primera reunión a tres de las potencias; Trump asegura que un acuerdo sobre Ucrania «está muy cerca», mientras Kiev y varias capitales europeas temen quedar al margen.",
+      "read_minutes": 2,
+      "what": [
+        "Trump llegó el miércoles a Shenzhen, en el marco de la cumbre de APEC, y Xi lo recibió con alfombra roja y un abrazo. La reunión trilateral con Xi y Putin está prevista para este jueves 19.",
+        "Xi y Putin ya conversaron el miércoles, en su quinto encuentro del año. Pekín solo adelantó que tratarían la paz mundial y la estabilidad estratégica entre grandes potencias.",
+        "Trump dijo que quiere abordar el fin de la guerra de Ucrania. Washington había señalado primero que el asunto no estaría en la agenda y después lo incluyó. También figuran el control de armas nucleares, tras expirar en febrero el tratado bilateral entre EE. UU. y Rusia, y la guerra de Irán.",
+        "En APEC, Xi anunció rebajas arancelarias y más acceso a su mercado. Putin sostuvo que las sanciones occidentales han fracasado y pidió «diálogo en lugar de ultimátums». Ni la UE ni Ucrania participan en la reunión."
+      ],
+      "why": "Las decisiones de tres potencias sobre Ucrania, aranceles y armamento nuclear pueden afectar a la seguridad europea y a los mercados, y se toman sin presencia de Kiev ni de Bruselas.",
+      "views": [
+        {
+          "label": "Postura de Washington y Moscú",
+          "text": "Trump sostiene que la diplomacia personal puede acercar un acuerdo de paz; Putin defiende el diálogo directo y sostiene que las sanciones no funcionan."
+        },
+        {
+          "label": "Postura de Kiev y de capitales europeas",
+          "text": "Sostienen que el futuro de Ucrania no debe decidirse sin ella y temen un reparto del mundo en esferas de influencia."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Euronews · Trump llega a China",
+          "url": "https://es.euronews.com/2026/11/18/trump-llega-a-china-para-su-cumbre-trilateral-con-xi-jinping-y-putin-sobre-ucrania"
+        },
+        {
+          "name": "Euronews · Xi y Putin conversan antes de la cumbre",
+          "url": "https://es.euronews.com/2026/11/18/xi-jinping-putin-mantienen-conversaciones-shenzhen-antes-cumbre-trilateral-trump"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Política",
+      "label": "Política · Europa",
+      "title": "Bruselas propone un préstamo de 45.000 millones para Ucrania en 2027 con deuda común y devolución ligada a las reparaciones rusas",
+      "dek": "La Comisión cubriría dos tercios del déficit previsto de 70.000 millones; Hungría, Eslovaquia, Chequia y Bulgaria no participarán y los líderes lo debatirán la próxima semana.",
+      "read_minutes": 2,
+      "what": [
+        "Von der Leyen presentó este miércoles un préstamo de 45.000 millones de euros, financiado con emisión conjunta de deuda de la UE. De ellos, 25.000 millones irían a compras militares y 20.000 millones a apoyo presupuestario, y se desembolsarían a lo largo de 2027.",
+        "Ucrania solo tendría que devolver el dinero cuando Rusia pague reparaciones de guerra. Si Moscú se niega, Bruselas podría recurrir a los activos rusos inmovilizados, valorados en unos 210.000 millones.",
+        "Cuatro países (Hungría, Eslovaquia, Chequia y Bulgaria) quedan fuera acogiéndose a una cláusula de exclusión pactada el año pasado. El canciller alemán, Merz, respalda la propuesta y condiciona a ella el próximo presupuesto de la UE; el primer ministro eslovaco, Fico, calificó esa postura de «chantaje».",
+        "Con los tipos más altos, la UE asumirá miles de millones anuales en intereses. Los líderes tratarán la propuesta y el presupuesto en la cumbre de la próxima semana."
+      ],
+      "why": "Define cuánto apoyo financiero recibirá Kiev en 2027 y cuánto pagarán los presupuestos europeos, además de reabrir el debate sobre la deuda común.",
+      "views": [
+        {
+          "label": "Postura de la Comisión y de Alemania",
+          "text": "Sostienen que financiar a Ucrania con deuda común es necesario y que el coste de un Estado ucraniano fallido sería mayor que el de los intereses."
+        },
+        {
+          "label": "Postura de los Estados que se desmarcan",
+          "text": "Sostienen que no quieren participar en la financiación y rechazan que se condicione el presupuesto europeo a esta propuesta."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Euronews · Von der Leyen plantea el préstamo",
+          "url": "https://es.euronews.com/2026/11/18/von-der-leyen-plantea-prestamo-45000-millones-ucrania-respaldado-deuda-comun"
+        },
+        {
+          "name": "Euronews · Préstamo ligado a reparaciones",
+          "url": "https://es.euronews.com/2026/11/18/la-comision-europea-propone-un-prestamo-de-45000-millones-a-ucrania-ligado-a-reparaciones"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "Sánchez y Feijóo se enfrentan esta noche en el cara a cara televisado del 29-N",
+      "dek": "El debate empieza a las 22:00, lo modera María Casado y será emitido por seis canales; Feijóo abrirá por sorteo y Sánchez tendrá el último turno.",
+      "read_minutes": 1,
+      "what": [
+        "El cara a cara entre el presidente del Gobierno y el líder del PP se celebra este jueves 19, a las 22:00, y lo organiza la Academia de Televisión. La 1, Antena 3, Telecinco, laSexta, Cuatro y La Séptima preparan una cobertura conjunta.",
+        "El orden de intervención se decidió por sorteo: Feijóo abre y Sánchez cierra. Es el primer cara a cara entre ambos desde hace tres años.",
+        "Tras semanas de negociación sobre el formato, PSOE y PP no coincidieron en el canal; el PSOE aceptó el cara a cara en una televisión privada y pidió que el debate a cuatro se celebrara en RTVE.",
+        "Según los medios, la campaña gira en torno a economía, vivienda y casos de corrupción. Las elecciones son el 29 de noviembre."
+      ],
+      "why": "Es el principal acto televisivo de la campaña, a diez días de las elecciones, y puede condicionar el voto de indecisos.",
+      "views": [
+        {
+          "label": "Postura del PSOE",
+          "text": "Defiende un formato con un debate a cuatro en la televisión pública y presenta el cara a cara como una ocasión de contrastar proyectos."
+        },
+        {
+          "label": "Postura del PP",
+          "text": "Defiende un cara a cara directo entre los dos candidatos y lo presenta como una ocasión de contrastar proyectos."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Demócrata · Cuándo y dónde ver el debate",
+          "url": "https://www.democrata.es/actualidad/debate-sanchez-feijoo-hora-donde-ver-19-noviembre/"
+        },
+        {
+          "name": "Demócrata · Fecha y moderadora",
+          "url": "https://www.democrata.es/elecciones-generales-espana/sanchez-feijoo-celebraran-su-cara-cara-electoral-19-noviembre-con-maria-casado-como-moderadora/"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "El Congreso convalida el decreto de seguridad ferroviaria con el único voto en contra de Vox",
+      "dek": "El texto limita a seis horas la jornada continua de conducción, refuerza a la agencia de seguridad y protege a quien detenga un tren por riesgo; Transportes anuncia una auditoría de las vías.",
+      "read_minutes": 2,
+      "what": [
+        "La Diputación Permanente del Congreso convalidó el miércoles el Real Decreto-ley 34/2026 de seguridad ferroviaria, el plan de choque tras los accidentes de Urda y Adamuz. Solo votaron en contra los seis diputados de Vox. También se aprobó un decreto de ayudas a las víctimas.",
+        "Limita a seis horas seguidas el trabajo y la conducción del personal de Adif y los maquinistas, da más control a la Agencia de Seguridad Ferroviaria y protege sin sanción a los maquinistas que paren un tren ante un posible peligro.",
+        "Las ayudas son de 72.121 euros por víctima mortal y de entre 2.404 y 84.142 euros por lesiones, según su gravedad.",
+        "Los sindicatos denuncian presiones para evitar retrasos y falta de personal. El Gobierno negocia con ellos la desconvocatoria de su huelga sectorial y prevé una auditoría de expertos sobre el estado de las vías."
+      ],
+      "why": "Fija normas laborales y de seguridad para todo el sector ferroviario tras varios accidentes y llega en plena campaña, con huelgas en curso.",
+      "views": [
+        {
+          "label": "Postura del Gobierno",
+          "text": "Sostiene que el decreto da una respuesta rápida, refuerza la seguridad y compensa a las víctimas, y que la auditoría completará las medidas."
+        },
+        {
+          "label": "Postura de la oposición",
+          "text": "El PP apoyó el texto pero lo vincula a presuntos casos de corrupción en Transportes; el PNV sostiene que debió aprobarse en 2020 y Vox votó en contra."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Euronews · El Congreso aprueba el plan de choque",
+          "url": "https://es.euronews.com/2026/11/18/el-congreso-aprueba-un-plan-de-choque-de-minimos-para-el-personal-ferroviario-espanol"
+        },
+        {
+          "name": "Euronews · Huelga de Renfe del martes",
+          "url": "https://es.euronews.com/2026/11/17/la-huelga-de-renfe-suprime-el-976-de-los-servicios-minimos-de-cercanias-en-madrid-y-causa-"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "section": "Finanzas",
+      "label": "Finanzas · Europa",
+      "title": "El BCE compara el auge de la IA con la burbuja puntocom y avisa del endeudamiento récord de las tecnológicas",
+      "dek": "En su informe de estabilidad financiera, el banco central evita hablar de burbuja, pero advierte de que las valoraciones dependen de beneficios muy exigentes y de que las salidas a bolsa trasladan riesgos al minorista.",
+      "read_minutes": 2,
+      "what": [
+        "El BCE publicó este miércoles su informe semestral de estabilidad financiera. Compara el auge de la IA con la burbuja puntocom y con las hipotecas subprime, aunque no afirma que haya burbuja.",
+        "Señala que el gasto en IA ya supera el efectivo que generan las grandes tecnológicas estadounidenses, que se endeudan a ritmo récord y cada vez más en euros. Sus compromisos fuera de balance superan los 4 billones de dólares.",
+        "Las salidas a bolsa en EE. UU. han captado unos 212.000 millones de dólares este año, frente a unos 44.000 millones en 2025, y el BCE avisa de «riesgos no cuantificados» para inversores minoristas.",
+        "Los bancos de la eurozona están bien posicionados, con morosidad del 2,2 %. Las entidades no bancarias son más vulnerables: entre el 16 % y el 26 % de su renta variable es de tecnológicas estadounidenses. También advierte de que la consolidación fiscal «llega con retraso» y de que la deuda pública podría revalorarse."
+      ],
+      "why": "Un ajuste brusco en las valoraciones tecnológicas afectaría a fondos, seguros y carteras de ahorro, y la fragilidad fiscal puede encarecer la financiación pública.",
+      "views": [
+        {
+          "label": "Lectura de cautela",
+          "text": "Subraya que el endeudamiento récord y la concentración en pocas empresas hacen posible una corrección brusca, como en episodios anteriores."
+        },
+        {
+          "label": "Lectura de resistencia",
+          "text": "Subraya que el sistema bancario tiene solvencia y morosidad en mínimos, y que el propio BCE no califica la situación de burbuja."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Euronews · Las señales de alarma del BCE",
+          "url": "https://es.euronews.com/2026/11/18/el-bce-alerta-el-auge-de-la-ia-recuerda-a-la-burbuja-puntocom-y-las-tecnologicas-se-endeud"
+        },
+        {
+          "name": "Euronews · Previsiones de la Comisión Europea",
+          "url": "https://es.euronews.com/2026/11/17/la-economia-de-la-ue-resiste-mejor-de-lo-previsto-pero-la-energia-mantiene-la-inflacion-al"
+        }
+      ]
+    }
+  ]
+}
