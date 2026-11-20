@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-11-20",
+      "stories": 5,
+      "opportunities": 2,
+      "headlines": [
+        "La cumbre de Trump, Xi y Putin en Shenzhen termina con una declaración de paz que no menciona Ucrania",
+        "Trump cuestiona ante los aliados europeos su ayuda a Ucrania en una llamada sorpresa tras la cumbre",
+        "Sánchez y Feijóo se enfrentan en un cara a cara sin vencedor claro, con la corrupción y la vivienda como ejes"
+      ]
+    },
+    {
       "date": "2026-11-19",
       "stories": 5,
       "opportunities": 0,

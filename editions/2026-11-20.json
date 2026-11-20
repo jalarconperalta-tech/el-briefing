@@ -1,0 +1,228 @@
+{
+  "date": "2026-11-20",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "summary_30s": [
+    "La cumbre de Trump, Xi y Putin en Shenzhen acabó con una declaración de paz que no cita Ucrania, y Trump cuestionó después ante los aliados europeos su ayuda a Kiev.",
+    "Sánchez y Feijóo protagonizaron un cara a cara igualado, con corrupción y vivienda como temas centrales, a nueve días de las elecciones.",
+    "Anthropic debutó en el Nasdaq con la mayor OPV de la historia y la deuda pública española marcó un récord del 100,3 % del PIB.",
+    "Para ti: subastas de Letras del Tesoro en diciembre y novedades del aval ICO para primera vivienda."
+  ],
+  "opportunities": [
+    {
+      "id": "o1",
+      "kind": "Inversión",
+      "deadline": "Subastas: 1 y 9 dic",
+      "title": "Próximas subastas de Letras del Tesoro: 6 y 12 meses el 1 de diciembre; 3 y 9 meses el 9",
+      "fit": "Encaja con un perfil que prioriza ahorrar a corto plazo con riesgo bajo para un objetivo de compra en un par de años.",
+      "detail": "El calendario del Banco de España fija las subastas de diciembre, con emisión el 4 y el 11. En noviembre, la rentabilidad a 3 meses repuntó al 2,665 % según un medio especializado; el resultado oficial se publica el día de cada subasta.",
+      "action": "Revisar el calendario y comparar la rentabilidad de cada plazo con la de depósitos y cuentas remuneradas antes de pedir la compra en tu entidad.",
+      "note": "Información, no asesoramiento financiero",
+      "sources": [
+        {
+          "name": "Banco de España · Calendario de subastas de Letras 2026",
+          "url": "https://www.bde.es/f/webbe/INF/MenuVertical/MercadoDeDeudaPublica/ProximasSubastas/Ficheros/Calendario_Letras_Web_2026.pdf"
+        },
+        {
+          "name": "Banco de España · Próximas subastas",
+          "url": "https://www.bde.es/wbe/es/punto-informacion/contenidos/mercado-primario-de-deuda/proximas-subasta/"
+        }
+      ]
+    },
+    {
+      "id": "o2",
+      "kind": "Ayuda",
+      "deadline": "Tendencia",
+      "title": "Línea de avales ICO para la primera vivienda de jóvenes: ampliada en junio de 2026",
+      "fit": "Útil para un perfil joven que prevé comprar su primera vivienda con hipoteca.",
+      "detail": "El ICO gestiona la línea de avales para la adquisición de primera vivienda de jóvenes y familias con menores a cargo, y su web recoge una ampliación anunciada el 24 de junio de 2026. Los requisitos y límites de ingresos se consultan en la página específica del ICO.",
+      "action": "Consultar en la web del ICO las condiciones vigentes y preguntar en bancos adheridos cómo combinan el aval con su hipoteca.",
+      "sources": [
+        {
+          "name": "ICO · Línea de avales primera vivienda",
+          "url": "https://www.ico.es/web/ico/linea-de-avales-para-la-adquisicion-de-primera-vivienda"
+        }
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Mundo",
+      "label": "Mundo · Global",
+      "title": "La cumbre de Trump, Xi y Putin en Shenzhen termina con una declaración de paz que no menciona Ucrania",
+      "dek": "La reunión duró una hora y veinte minutos y no hubo comparecencia conjunta; Europa teme que se decidan asuntos que le afectan sin ella.",
+      "read_minutes": 2,
+      "what": [
+        "Los tres líderes firmaron una declaración escrita sobre reforma de la ONU, suministro de productos petrolíferos y reducción de riesgos nucleares. El texto no cita Ucrania, Irán ni Corea del Norte.",
+        "Trump dijo, tras verse con Xi, que EE. UU. y China quieren ayudar a poner fin a la guerra, y abandonó el lugar poco después. Xi calificó el encuentro de «positivo, constructivo y fructífero» y pidió prohibir las armas nucleares.",
+        "Putin habló de un «capítulo importante» de la diplomacia y dijo que Kiev y Europa aún no están listos para hacer concesiones. El portavoz del Kremlin, Peskov, precisó que Ucrania no fue el tema central.",
+        "El ministro francés de Exteriores, Jean-Noël Barrot, sostuvo que los tres dirigentes discrepan en todo. Zelenski insistió en que lo que atañe a Ucrania debe decidirse con Ucrania."
+      ],
+      "why": "Es la primera cumbre a tres de las potencias y su resultado marca si habrá avances sobre Ucrania y el control de armas nucleares, que afectan a la seguridad europea.",
+      "views": [
+        {
+          "label": "Postura de Washington, Pekín y Moscú",
+          "text": "Presentan el diálogo directo entre grandes potencias como la vía para rebajar tensiones y avanzar hacia la paz, y consideran útil el encuentro."
+        },
+        {
+          "label": "Postura de Kiev y de capitales europeas",
+          "text": "Sostienen que ninguna decisión sobre Ucrania ni sobre Europa debe tomarse sin ellas y recuerdan que el texto firmado no aborda la guerra."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Euronews · Declaración de paz sin mención a Ucrania",
+          "url": "https://www.euronews.com/2026/11/19/us-and-china-want-to-help-end-ukraine-war-trump-says-ahead-of-trilateral-with-russia"
+        },
+        {
+          "name": "Euronews · Zelenski ante la cumbre",
+          "url": "https://es.euronews.com/2026/11/19/zelenski-ucrania-conversaciones-trump-putin-xi-china-berlin"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Política",
+      "label": "Política · Europa",
+      "title": "Trump cuestiona ante los aliados europeos su ayuda a Ucrania en una llamada sorpresa tras la cumbre",
+      "dek": "Más de treinta líderes europeos, Zelenski y los enviados Kushner y Witkoff se reunían en Berlín mientras Trump se mostraba escéptico ante nuevos apoyos.",
+      "read_minutes": 2,
+      "what": [
+        "Según Politico, citado por Euronews, Trump llamó desde el Air Force One a la reunión de aliados de Ucrania en Berlín, horas después de la cumbre de Shenzhen.",
+        "Preguntó por qué Europa sigue gastando miles de millones en apoyo militar a Kiev y dijo que Moscú está dispuesto a negociar. Tres funcionarios señalaron su escepticismo ante que la Coalición de Voluntarios, de 34 países, aporte más ayuda.",
+        "Alemania, Francia y Reino Unido copatrocinaron las conversaciones. Zelenski esperaba recibir información de los enviados estadounidenses sobre lo hablado con Xi y Putin.",
+        "Euronews recoge que Polonia insiste en que no habrá acuerdo de paz sin Europa y que varios líderes rechazan un pacto de tipo «Yalta 2.0». Trump ha rechazado nuevas sanciones contra Rusia."
+      ],
+      "why": "Condiciona la financiación europea de Ucrania, que Bruselas propone cubrir con un préstamo de 45.000 millones, y la relación entre Washington y sus aliados.",
+      "views": [
+        {
+          "label": "Postura de Trump",
+          "text": "Sostiene que el gasto en la guerra se desperdicia, que la guerra debe terminar y que Moscú está dispuesto a negociar un acuerdo."
+        },
+        {
+          "label": "Postura de los aliados europeos",
+          "text": "Sostienen que mantener la ayuda es necesario y que cualquier acuerdo de paz debe contar con Ucrania y con Europa."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Euronews · Llamada sorpresa de Trump",
+          "url": "https://www.euronews.com/2026/11/19/trump-questions-europes-billions-in-ukraine-aid-during-surprise-call"
+        },
+        {
+          "name": "Euronews · Zelenski espera información de EE. UU.",
+          "url": "https://www.euronews.com/2026/11/19/zelenskyy-says-he-expects-debrief-from-us-envoys-on-trumps-talks-with-xi-and-putin"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "Sánchez y Feijóo se enfrentan en un cara a cara sin vencedor claro, con la corrupción y la vivienda como ejes",
+      "dek": "El debate del 29-N, moderado por María Casado, incluyó también trenes, migración y economía; ambos se saludaron con tono cordial al final.",
+      "read_minutes": 2,
+      "what": [
+        "Feijóo abrió con acusaciones de corrupción contra el PSOE, negó tener casos propios y dijo que no indultaría a condenados. Sánchez defendió que su Gobierno es de los más limpios, pidió tolerancia cero y acusó al PP de corrupción.",
+        "En vivienda, Sánchez admitió que falta suelo residencial, pero advirtió de una burbuja si se construye sin regular. Feijóo propuso un fondo estatal para inquilinos, ventajas en el IRPF para jóvenes y bajar el IVA de la vivienda del 10 % al 4 %.",
+        "Sobre los accidentes ferroviarios, Feijóo reclamó gestión y una disculpa; Sánchez dijo que pedía perdón a las víctimas y recordó otros accidentes de gobiernos del PP. En migración, Sánchez habló de una caída del 18 % de la llegada irregular y Feijóo propuso un visado por puntos.",
+        "Sánchez retó a Feijóo a comprometerse con subir el salario mínimo al 60 % del salario medio y preguntó cómo financiaría el gasto militar de la OTAN. Feijóo reprochó la falta de presupuestos. Las elecciones son el 29 de noviembre."
+      ],
+      "why": "Es el principal acto televisivo de la campaña, a nueve días de las elecciones, y recoge las propuestas de ambos en vivienda, economía y regeneración política.",
+      "views": [
+        {
+          "label": "Postura de Sánchez",
+          "text": "Defiende los resultados económicos y de empleo, la limpieza de su Gobierno y la necesidad de regular el suelo y el mercado de vivienda; pidió movilizar el voto."
+        },
+        {
+          "label": "Postura de Feijóo",
+          "text": "Defiende un cambio de gestión, bajar impuestos a los jóvenes y a la vivienda y endurecer la política migratoria; reivindicó su perfil de gestor."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Euronews · Resumen del debate del 29N",
+          "url": "https://es.euronews.com/2026/11/19/debate-del-29n-sanchez-reivindica-al-psoe-como-el-partido-mas-limpio-de-la-democracia-en-u"
+        },
+        {
+          "name": "Euronews · Cara a cara: hora, canales y temas",
+          "url": "https://es.euronews.com/2026/11/19/primer-cara-a-cara-sanchez-feijoo-hora-empieza-donde-verlo-temas-canales"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "section": "Finanzas",
+      "label": "Finanzas · Mundo",
+      "title": "Anthropic debuta en el Nasdaq con la mayor salida a bolsa de la historia mientras Nvidia encadena su peor racha desde 2008",
+      "dek": "Las acciones abrieron un 34 % por encima del precio de salida; Nvidia suma siete semanas de caídas y un cambio de consejero delegado.",
+      "read_minutes": 2,
+      "what": [
+        "Anthropic fijó el precio en 83 dólares, por encima del rango previsto de 70 a 78, y cotiza con el símbolo ANT. Abrió a 111,50 dólares. Según Euronews, la oferta pública recaudó unos 81.300 millones de dólares, 107.300 millones con la colocación privada.",
+        "La compañía declara ingresos de 16.960 millones en el tercer trimestre de 2026 y una pérdida neta de 104.000 millones en nueve meses, atribuida casi toda a revalorizaciones contables.",
+        "Nvidia cayó un 2,9 % el miércoles y acumula siete semanas seguidas a la baja, la racha más larga desde 2008, con un descenso de cerca del 35 % desde principios de octubre. Jensen Huang dejó la dirección ejecutiva el 12 de noviembre.",
+        "Washington exige licencias para exportar chips avanzados a Singapur, Malasia, Tailandia, Indonesia y Brasil. Un analista citado señala que los inversores llevan años «comprando la caída»."
+      ],
+      "why": "Es una prueba para las valoraciones del sector de la IA, sobre las que el BCE advirtió esta semana, y puede afectar a fondos y carteras con peso tecnológico.",
+      "views": [
+        {
+          "label": "Lectura optimista",
+          "text": "Subraya la demanda, con una oferta sobresuscrita más de seis veces, el fuerte crecimiento de ingresos y el beneficio operativo del último trimestre."
+        },
+        {
+          "label": "Lectura de cautela",
+          "text": "Subraya las pérdidas contables, la caída de Nvidia y de activos de riesgo y la posibilidad de un despliegue de infraestructura más lento por el coste de financiación."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Euronews · Récord de OPV y racha de Nvidia",
+          "url": "https://www.euronews.com/2026/11/19/anthropics-record-ipo-lands-as-nvidia-suffers-its-worst-run-since-2008"
+        },
+        {
+          "name": "Euronews · Debut en el Nasdaq",
+          "url": "https://es.euronews.com/2026/11/19/anthropic-debuta-en-nasdaq-sus-acciones-suben-34-tras-la-mayor-opv-y-apunta-a-2-billones"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "section": "Finanzas",
+      "label": "Finanzas · España",
+      "title": "La deuda pública española marca un récord del 100,3 % del PIB y la compraventa de viviendas cae un 13,4 %",
+      "dek": "Bruselas eleva al 2,6 % el crecimiento previsto para 2026 pero también la inflación, hasta el 3,9 %.",
+      "read_minutes": 2,
+      "what": [
+        "Según el Banco de España, la deuda de las administraciones alcanzó en septiembre 1,77 billones de euros, el 100,3 % del PIB, un máximo.",
+        "La Comisión Europea proyecta que la deuda baje al 99,2 % del PIB, por debajo del 100 % por primera vez desde 2019, y advierte de que el fin de los fondos Next Generation y un mercado laboral menos dinámico frenarán la economía en 2027 y 2028.",
+        "El INE registró 54.548 compraventas de viviendas en septiembre, un 13,4 % menos que un año antes, la mayor caída del periodo."
+      ],
+      "why": "Muestra la tensión entre un crecimiento por encima de lo previsto, la inflación alta y un mercado de vivienda que se enfría, en plena campaña electoral.",
+      "views": [
+        {
+          "label": "Lectura favorable",
+          "text": "Destaca que el crecimiento previsto para España se revisa al alza y que la deuda podría bajar del 100 % del PIB."
+        },
+        {
+          "label": "Lectura de cautela",
+          "text": "Destaca el nivel récord de deuda, la inflación del 3,9 % y el retroceso de las operaciones de compraventa."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Euronews · Deuda pública récord",
+          "url": "https://es.euronews.com/2026/11/17/deuda-publica-espana-record-septiembre-2026-177-billones-1003-pib"
+        },
+        {
+          "name": "Euronews · Previsiones de la UE para España",
+          "url": "https://es.euronews.com/2026/11/17/ue-eleva-2-coma-6-por-ciento-crecimiento-previsto-para-espana-2026-dispara-inflacion-a"
+        },
+        {
+          "name": "Euronews · Caída de la compraventa",
+          "url": "https://es.euronews.com/2026/11/17/la-compraventa-de-viviendas-cae-un-134-en-septiembre-y-bruselas-eleva-al-26-el-crecimiento"
+        }
+      ]
+    }
+  ]
+}
