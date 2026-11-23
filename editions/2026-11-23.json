@@ -1,0 +1,119 @@
+{
+  "date": "2026-11-23",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": true,
+  "summary_30s": [
+    "Resumen del fin de semana: Rusia mantuvo la presión sobre Ucrania, con un ataque con drones en la región de Kiev que deja unas 15 personas desaparecidas, y Zelenski pide acelerar la entrega de interceptores antibalísticos.",
+    "Las bolsas cerraron la semana con fuertes pérdidas por el temor a una burbuja de la IA: el Ibex 35 cayó por debajo de los 19.000 puntos y Nvidia acumula un descenso cercano al 40 % desde máximos.",
+    "A seis días de las elecciones del 29-N, las últimas encuestas publicables acortan la distancia entre PP y PSOE, pero PP y Vox suman mayoría absoluta en todas las proyecciones."
+  ],
+  "opportunities": [],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Mundo",
+      "label": "Mundo · Ucrania",
+      "title": "Un ataque ruso con drones en la región de Kiev deja unos 15 desaparecidos tras una semana de bombardeos masivos",
+      "dek": "Zelenski cifra en unos 2.700 los drones lanzados en siete días y pide acelerar la entrega de interceptores antibalísticos.",
+      "read_minutes": 2,
+      "what": [
+        "El domingo, un ataque con drones destruyó parte de un edificio de cinco plantas en Dymer, al norte de Kiev. Según la policía ucraniana hay unas quince personas desaparecidas, entre ellas dos menores; se han recuperado dos cuerpos y al menos cuatro personas resultaron heridas.",
+        "Los equipos de rescate siguen buscando entre los escombros y se ha montado un centro de mando con servicios sociales y psicólogos.",
+        "Entre la noche del jueves y la madrugada del viernes Rusia lanzó más de 400 drones y más de 110 misiles, en uno de los mayores ataques de la guerra según Zelenski. Murieron al menos siete personas en Kiev y resultaron dañados puentes sobre el Dniéper.",
+        "Zelenski sumó para toda la semana unos 2.700 drones, 1.460 bombas aéreas y 165 misiles sobre 20 regiones, y pidió a Washington autorizar transferencias ya pagadas a través de la iniciativa PURL de la OTAN. Ucrania, por su parte, atacó una instalación de la Guardia Nacional rusa en Krasnodar, con cinco heridos."
+      ],
+      "why": "Los bombardeos sobre infraestructuras civiles llegan tras la cumbre de Shenzhen sin avances sobre Ucrania y presionan el debate europeo sobre defensa antiaérea y financiación militar.",
+      "views": [
+        {
+          "label": "Postura de Kiev",
+          "text": "Presenta los ataques como una escalada deliberada contra la población civil y reclama más defensa antiaérea y la entrega inmediata de material ya comprado."
+        },
+        {
+          "label": "Postura de Moscú",
+          "text": "Sostiene que sus ataques se dirigen a instalaciones militares, energéticas y de transporte y los vincula con los ataques ucranianos contra el puente de Crimea y territorio ruso."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Euronews · Desaparecidos en la región de Kiev",
+          "url": "https://www.euronews.com/2026/11/22/14-people-missing-after-russian-drone-strike-on-kyiv-region"
+        },
+        {
+          "name": "Euronews · Rusia ataca dos puentes de Kiev (17 nov)",
+          "url": "https://es.euronews.com/2026/11/17/rusia-ataca-dos-puentes-kiev-ucrania-negociaciones-paz"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Finanzas",
+      "label": "Finanzas · Mundo",
+      "title": "Las bolsas europeas se hunden por el temor a una burbuja de la IA: el Ibex 35 cae por debajo de los 19.000 puntos",
+      "dek": "El Dax pierde más del 7 % semanal y Nvidia acumula un descenso cercano al 40 % desde máximos, pese a unos resultados sólidos.",
+      "read_minutes": 2,
+      "what": [
+        "Según Merca2, el Ibex 35 cayó por debajo de los 19.000 puntos y perdió más del 5,5 % en la semana. El Dax cedió más del 7 %, París y Milán más del 5 % y el Kospi surcoreano cerca del 8 % en cinco sesiones.",
+        "Una semana antes, Benzinga situaba el Ibex en 20.020 puntos tras cerrar con una subida del 3,4 %.",
+        "Nvidia habría perdido unos 2,23 billones de dólares de capitalización desde sus máximos, aunque facturó 115.800 millones en el tercer trimestre, el doble que un año antes. La compañía tiene como consejera delegada interina a Colette Kress tras la salida de Jensen Huang.",
+        "Anthropic, que debutó el jueves en el Nasdaq con una colocación de 107.300 millones de dólares, cerró su primera sesión con una subida del 17 %, pero el viernes abrió con caídas superiores al 14 %.",
+        "El mismo medio recoge que Deutsche AM interpreta las caídas como una normalización y no como el fin del ciclo, y apunta a la concentración del índice MSCI World, con EE. UU. en torno al 72 %."
+      ],
+      "why": "Afecta a carteras y fondos globales con peso tecnológico y a las expectativas de financiación de las empresas ligadas a la inversión en centros de datos.",
+      "views": [
+        {
+          "label": "Lectura de corrección",
+          "text": "Señala que los resultados de Nvidia son sólidos y que el ajuste es una normalización de valoraciones, no el final del ciclo de inversión en IA."
+        },
+        {
+          "label": "Lectura de burbuja",
+          "text": "Señala que el mercado compró IA sin discutir el precio, que la incertidumbre en la dirección de Nvidia pesa y que la concentración del índice amplifica las caídas."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Merca2 · Burbuja de la IA y bolsas",
+          "url": "https://www.merca2.es/2026/11/20/burbuja-inteligencia-artificial-bolsas-2513405/"
+        },
+        {
+          "name": "Benzinga · El Ibex 35 ronda los 20.000 puntos",
+          "url": "https://es.benzinga.com/news/spain/indices/ibex-35-20000-nvidia-anthropic-161126/"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "Las últimas encuestas del 29-N reducen la distancia entre PP y PSOE, pero PP y Vox suman mayoría absoluta",
+      "dek": "Las proyecciones dan a PP y Vox entre 185 y 194 escaños; Frente Amplio y Podemos retroceden con fuerza.",
+      "read_minutes": 2,
+      "what": [
+        "Los sondeos publicados esta semana, los últimos permitidos antes del veto de cinco días, sitúan al PP entre el 31,5 % y el 31,9 % de los votos. El PSOE se movería entre el 28 % y el 31,6 %, según el sondeo.",
+        "GAD3 (ABC) da 131 escaños al PP, 110 al PSOE y 63 a Vox; Ipsos (La Vanguardia) da 127, 119 y 63. En ambas proyecciones PP y Vox superan los 176 escaños de la mayoría absoluta.",
+        "Frente Amplio quedaría con unos 6 o 7 escaños, frente a los 27 de Sumar en 2023, y Podemos rondaría el 1 % de los votos.",
+        "Un promedio de encuestas de Demócrata proyecta 128 escaños para el PP, 116 para el PSOE y 63 para Vox, con una participación del 75 %."
+      ],
+      "why": "Las encuestas son el último dato de referencia antes del 29 de noviembre y apuntan a que la distribución de escaños entre bloques, más que el primer puesto, definirá el Gobierno.",
+      "views": [
+        {
+          "label": "Lectura centrada en el PP",
+          "text": "Destaca que el PP encabeza todos los sondeos y que, sumado a Vox, supera la mayoría absoluta en todas las proyecciones publicadas."
+        },
+        {
+          "label": "Lectura centrada en el PSOE",
+          "text": "Destaca que el PSOE recorta distancia respecto al PP, que en alguna encuesta la diferencia es de décimas y que la caída de la izquierda a su izquierda condiciona el reparto."
+        }
+      ],
+      "sources": [
+        {
+          "name": "ElNacional.cat · Sánchez se acerca a Feijóo en votos",
+          "url": "https://www.elnacional.cat/es/politica/sanchez-se-acerca-feijoo-en-votos-pero-derecha-mantiene-mayoria-gobernar-segun-encuestas_1729292_102.html"
+        },
+        {
+          "name": "Demócrata · Encuesta de encuestas del 29N",
+          "url": "https://democrata.es/elecciones-generales-espana/encuesta-encuestas-proyeccion-definitiva-29n-gana-feijoo"
+        }
+      ]
+    }
+  ]
+}

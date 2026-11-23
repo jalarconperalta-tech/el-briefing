@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-11-23",
+      "stories": 3,
+      "opportunities": 0,
+      "headlines": [
+        "Un ataque ruso con drones en la región de Kiev deja unos 15 desaparecidos tras una semana de bombardeos masivos",
+        "Las bolsas europeas se hunden por el temor a una burbuja de la IA: el Ibex 35 cae por debajo de los 19.000 puntos",
+        "Las últimas encuestas del 29-N reducen la distancia entre PP y PSOE, pero PP y Vox suman mayoría absoluta"
+      ]
+    },
+    {
       "date": "2026-11-20",
       "stories": 5,
       "opportunities": 2,
