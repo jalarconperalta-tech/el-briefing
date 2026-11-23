@@ -1,0 +1,920 @@
+{
+  "$comment": "Configuración de búsqueda y selección de El Briefing. La lee la tarea de cada mañana junto con EDITORIAL.md. Es pública: no contiene datos personales. Pesos de 0 a 10.",
+  "actualizado": "2026-11-23",
+  "volumen": {
+    "noticias_objetivo": 10,
+    "noticias_min": 8,
+    "noticias_max": 12,
+    "lectura_total_min": 7,
+    "oportunidades_max": 4
+  },
+  "ventana": {
+    "horas": 24,
+    "horas_lunes": 72,
+    "dias_temas_alta_si_no_hay_nada": 7
+  },
+  "seleccion": {
+    "formula": "puntuacion = 0.60 * peso_tema + 0.25 * peso_enfoque + 0.15 * peso_ambito",
+    "coeficientes": {
+      "tema": 0.6,
+      "enfoque": 0.25,
+      "ambito": 0.15
+    },
+    "reglas": {
+      "alta": "Siempre presentes: cubrir el cupo mínimo de cada tema si hay noticia real con fuentes. Si en la ventana normal no hay nada, buscar hasta 7 días atrás algo no publicado en las 3 ediciones anteriores; si sigue sin haber nada, se omite (sin relleno).",
+      "media": "Entran solo si su puntuación es igual o mayor que umbral_media.",
+      "baja": "Solo si es una noticia muy grande (abre al menos 3 de las fuentes de la lista o afecta directamente a España) y como mucho 1 entre todos los temas de prioridad baja.",
+      "excluir": "Nunca. Una noticia internacional o de empresa solo entra si se reencuadra en un tema permitido por su efecto directo (por ejemplo, el petróleo en Mercados o una empresa que contrata en Oportunidades)."
+    },
+    "umbral_media": 6,
+    "orden": "De mayor a menor puntuación, con Política España arriba cuando haya empate. Las 3 primeras son los titulares del índice."
+  },
+  "temas": [
+    {
+      "id": "politica_espana",
+      "nombre": "Política España",
+      "peso": 10,
+      "prioridad": "alta",
+      "cupo": [
+        2,
+        3
+      ],
+      "section": "Política",
+      "palabras_clave": [
+        "elecciones",
+        "29N",
+        "29-N",
+        "generales",
+        "campaña",
+        "encuesta",
+        "CIS",
+        "pactos",
+        "investidura",
+        "Congreso",
+        "Senado",
+        "Gobierno",
+        "Consejo de Ministros",
+        "Sánchez",
+        "Feijóo",
+        "Abascal",
+        "Yolanda Díaz",
+        "PSOE",
+        "PP",
+        "Vox",
+        "Sumar",
+        "Podemos",
+        "Junts",
+        "ERC",
+        "PNV",
+        "Bildu"
+      ]
+    },
+    {
+      "id": "vivienda",
+      "nombre": "Vivienda",
+      "peso": 9.5,
+      "prioridad": "alta",
+      "cupo": [
+        1,
+        2
+      ],
+      "section": "Finanzas",
+      "palabras_clave": [
+        "vivienda",
+        "alquiler",
+        "hipoteca",
+        "hipotecas",
+        "Euríbor",
+        "aval ICO",
+        "primera vivienda",
+        "compraventa",
+        "precio de la vivienda",
+        "vivienda protegida",
+        "VPO",
+        "ley de vivienda",
+        "bono alquiler",
+        "inmobiliario",
+        "Sareb",
+        "zonas tensionadas"
+      ]
+    },
+    {
+      "id": "fiscalidad",
+      "nombre": "Fiscalidad",
+      "peso": 9,
+      "prioridad": "alta",
+      "cupo": [
+        1,
+        2
+      ],
+      "section": "Finanzas",
+      "palabras_clave": [
+        "IRPF",
+        "Hacienda",
+        "Agencia Tributaria",
+        "impuesto",
+        "impuestos",
+        "deducción",
+        "deducciones",
+        "declaración de la renta",
+        "IVA",
+        "Impuesto de Sociedades",
+        "tributación",
+        "retenciones",
+        "plan de pensiones",
+        "fiscal",
+        "fiscalidad"
+      ]
+    },
+    {
+      "id": "oportunidades",
+      "nombre": "Oportunidades",
+      "peso": 8.5,
+      "prioridad": "alta",
+      "cupo": [
+        1,
+        4
+      ],
+      "section": "Radar",
+      "nota": "Van sobre todo al Radar de oportunidades (campo opportunities). También puede salir como noticia si es grande (por ejemplo, un cambio en las ayudas a la vivienda).",
+      "palabras_clave": [
+        "ayudas",
+        "subvención",
+        "subvenciones",
+        "convocatoria",
+        "beca",
+        "becas",
+        "oposiciones",
+        "plazas",
+        "contratación",
+        "perfiles",
+        "formación gratuita",
+        "Kit Digital",
+        "ENISA",
+        "CDTI",
+        "Letras del Tesoro",
+        "subasta del Tesoro"
+      ]
+    },
+    {
+      "id": "italia",
+      "nombre": "Italia",
+      "peso": 8,
+      "prioridad": "alta",
+      "cupo": [
+        1,
+        1
+      ],
+      "section": "Mundo",
+      "palabras_clave": [
+        "Italia",
+        "Italy",
+        "Italian",
+        "Meloni",
+        "Mattarella",
+        "Roma",
+        "Rome",
+        "Milán",
+        "Milan",
+        "BTP",
+        "Banca d'Italia",
+        "Bank of Italy",
+        "Eni",
+        "Enel",
+        "Istat"
+      ]
+    },
+    {
+      "id": "economia_bce",
+      "nombre": "Economía y BCE",
+      "peso": 6.5,
+      "prioridad": "media",
+      "cupo": [
+        0,
+        2
+      ],
+      "section": "Finanzas",
+      "palabras_clave": [
+        "BCE",
+        "ECB",
+        "Lagarde",
+        "tipos de interés",
+        "inflación",
+        "IPC",
+        "PIB",
+        "paro",
+        "EPA",
+        "afiliación",
+        "Banco de España",
+        "salario mínimo",
+        "SMI",
+        "pensiones",
+        "prima de riesgo",
+        "deuda pública",
+        "presupuestos",
+        "Comisión Europea",
+        "fondos europeos"
+      ]
+    },
+    {
+      "id": "aragon",
+      "nombre": "Aragón y Zaragoza",
+      "peso": 6,
+      "prioridad": "media",
+      "cupo": [
+        0,
+        1
+      ],
+      "section": "Política o Finanzas según el contenido",
+      "palabras_clave": [
+        "Aragón",
+        "aragonés",
+        "aragonesa",
+        "Zaragoza",
+        "Huesca",
+        "Teruel",
+        "Azcón",
+        "Cortes de Aragón",
+        "Gobierno de Aragón",
+        "BOA"
+      ]
+    },
+    {
+      "id": "mercados",
+      "nombre": "Mercados",
+      "peso": 5.7,
+      "prioridad": "media",
+      "cupo": [
+        0,
+        1
+      ],
+      "section": "Finanzas",
+      "palabras_clave": [
+        "Ibex",
+        "bolsa",
+        "bolsas",
+        "Wall Street",
+        "Nasdaq",
+        "S&P 500",
+        "Brent",
+        "petróleo",
+        "bono",
+        "euro",
+        "dólar",
+        "oro",
+        "fondos indexados"
+      ]
+    },
+    {
+      "id": "ia_tecnologia",
+      "nombre": "IA y tecnología",
+      "peso": 4.6,
+      "prioridad": "baja",
+      "cupo": [
+        0,
+        1
+      ],
+      "section": "Finanzas",
+      "palabras_clave": [
+        "inteligencia artificial",
+        "IA",
+        "OpenAI",
+        "Anthropic",
+        "Nvidia",
+        "chips",
+        "AI Act",
+        "ley de IA"
+      ]
+    },
+    {
+      "id": "energia",
+      "nombre": "Energía",
+      "peso": 4,
+      "prioridad": "baja",
+      "cupo": [
+        0,
+        1
+      ],
+      "section": "Finanzas",
+      "palabras_clave": [
+        "renovables",
+        "electricidad",
+        "precio de la luz",
+        "gas",
+        "apagón",
+        "solar",
+        "eólica",
+        "hidrógeno",
+        "Red Eléctrica"
+      ]
+    },
+    {
+      "id": "internacional",
+      "nombre": "Internacional",
+      "peso": 2.8,
+      "prioridad": "excluir",
+      "palabras_clave": [
+        "Ucrania",
+        "Ukraine",
+        "Rusia",
+        "Russia",
+        "Putin",
+        "Zelenski",
+        "Gaza",
+        "Israel",
+        "Irán",
+        "Trump",
+        "Casa Blanca",
+        "China",
+        "OTAN",
+        "Venezuela",
+        "Brasil",
+        "Argentina",
+        "México"
+      ]
+    },
+    {
+      "id": "empresas",
+      "nombre": "Empresas",
+      "peso": 1.5,
+      "prioridad": "excluir",
+      "palabras_clave": [
+        "ERE",
+        "despidos",
+        "recortes de empleo",
+        "resultados trimestrales",
+        "beneficio neto",
+        "consejero delegado",
+        "fusión",
+        "adquisición",
+        "OPA"
+      ]
+    },
+    {
+      "id": "cultura_sociedad",
+      "nombre": "Cultura y sociedad",
+      "peso": 1,
+      "prioridad": "excluir",
+      "palabras_clave": [
+        "premio",
+        "festival",
+        "concierto",
+        "película",
+        "cine",
+        "serie",
+        "exposición",
+        "subasta de arte",
+        "Van Gogh",
+        "papa",
+        "Vaticano",
+        "famosos",
+        "Rosalía",
+        "sucesos",
+        "sucesos",
+        "asesinan",
+        "asesinado",
+        "muerte",
+        "muere",
+        "incendio",
+        "accidente",
+        "accidentes",
+        "heridos",
+        "detenido",
+        "detenidos",
+        "tiroteo",
+        "dies",
+        "killed",
+        "jeweler",
+        "fashion",
+        "film"
+      ]
+    },
+    {
+      "id": "deportes",
+      "nombre": "Deportes",
+      "peso": 1,
+      "prioridad": "excluir",
+      "palabras_clave": [
+        "fútbol",
+        "selección",
+        "Liga",
+        "Champions",
+        "Nations League",
+        "Real Madrid",
+        "Barça",
+        "Atlético",
+        "tenis",
+        "Fórmula 1",
+        "baloncesto",
+        "NBA",
+        "rugby",
+        "tennis",
+        "Sinner",
+        "football",
+        "soccer",
+        "Serie A",
+        "hat trick",
+        "match",
+        "rematch",
+        "Inter Milan",
+        "Juventus",
+        "Ferrari",
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "ciencia_salud",
+      "nombre": "Ciencia y salud",
+      "peso": 1,
+      "prioridad": "excluir",
+      "palabras_clave": [
+        "farmacia",
+        "farmacias",
+        "tratamiento",
+        "medicamento",
+        "menopausia",
+        "cáncer",
+        "vacuna",
+        "hospital",
+        "científicos",
+        "estudio",
+        "NASA"
+      ]
+    }
+  ],
+  "enfoques": {
+    "$comment": "Se usan al elegir y al redactar: cada noticia se cuenta desde el enfoque con más nota que le encaje.",
+    "oportunidad_accionable": {
+      "peso": 7.8,
+      "descripcion": "Algo que el lector puede hacer: pedir una ayuda, mover una deducción, presentarse a algo, con plazo."
+    },
+    "impacto_bolsillo": {
+      "peso": 6.8,
+      "descripcion": "Cómo cambia lo que paga, cobra o ahorra: hipoteca, alquiler, impuestos, sueldo, ahorro."
+    },
+    "analisis_contexto": {
+      "peso": 5.5,
+      "descripcion": "Qué hay detrás, qué escenarios se abren (por ejemplo, pactos tras unas elecciones)."
+    },
+    "hechos_datos": {
+      "peso": 4.7,
+      "descripcion": "Dato o hecho sin más recorrido."
+    },
+    "curiosidad": {
+      "peso": 1.5,
+      "descripcion": "Llamativo pero sin consecuencias. Evitar."
+    }
+  },
+  "ambitos": {
+    "aragon": {
+      "peso": 7
+    },
+    "italia": {
+      "peso": 6.7
+    },
+    "espana": {
+      "peso": 6.4
+    },
+    "global": {
+      "peso": 4
+    },
+    "europa": {
+      "peso": 3.6
+    }
+  },
+  "filtros": {
+    "descartar_urls_con": [
+      "/opinion/",
+      "/opinión/",
+      "/tribuna/",
+      "/editorial",
+      "/columna",
+      "/blogs/",
+      "/firmas/",
+      "/cartas-al-director/",
+      "/humor/",
+      "/horoscopo/",
+      "/deportes/",
+      "/gente/",
+      "/cultura/",
+      "/television/",
+      "/salud/",
+      "/ciencia/"
+    ],
+    "descartar_titulos_con": [
+      "Opinión",
+      "Editorial",
+      "Tribuna",
+      "Columna",
+      "Análisis de opinión",
+      "en directo",
+      "minuto a minuto",
+      "horóscopo",
+      "lotería"
+    ],
+    "nota_titulos_opinion": "Un titular con valoraciones o la frase de alguien entre comillas sin atribuir no se presenta como noticia: o se reescribe atribuido («X afirma que…») o se descarta.",
+    "nunca_como_fuente": [
+      "news.google.com"
+    ],
+    "nota_google_news": "Los feeds de Google News solo sirven para descubrir titulares de agencias sin RSS propio. En sources va siempre la URL original del artículo, que hay que encontrar (WebSearch del titular) y abrir.",
+    "medios_google_news_admitidos": [
+      "EFE",
+      "Reuters",
+      "AP News",
+      "Associated Press",
+      "Europa Press",
+      "El País",
+      "EL PAÍS",
+      "Cinco Días",
+      "Expansión",
+      "El Economista",
+      "elEconomista",
+      "El Mundo",
+      "ABC",
+      "elDiario.es",
+      "El Confidencial",
+      "Heraldo de Aragón",
+      "Aragón Hoy",
+      "Gobierno de Aragón",
+      "Agencia Tributaria",
+      "INE",
+      "Banco de España",
+      "Comisión Europea",
+      "European Commission",
+      "La Moncloa",
+      "RTVE"
+    ],
+    "nota_medios_google_news": "De los feeds de Google News solo se aceptan titulares de estos medios u organismos; el resto se ignora."
+  },
+  "fuentes": [
+    {
+      "id": "efe",
+      "nombre": "EFE",
+      "tipo": "agencia",
+      "prioridad": 1,
+      "temas": [
+        "politica_espana",
+        "vivienda",
+        "fiscalidad",
+        "economia_bce",
+        "italia"
+      ],
+      "feed": "https://news.google.com/rss/search?q=site:efe.com+when:1d&hl=es&gl=ES&ceid=ES:es",
+      "nota": "El RSS propio de efe.com devuelve error 500: se usan sus titulares vía Google News."
+    },
+    {
+      "id": "europapress_nacional",
+      "nombre": "Europa Press",
+      "tipo": "agencia",
+      "prioridad": 1,
+      "temas": [
+        "politica_espana"
+      ],
+      "feed": "https://www.europapress.es/rss/rss.aspx?ch=00066"
+    },
+    {
+      "id": "europapress_economia",
+      "nombre": "Europa Press",
+      "tipo": "agencia",
+      "prioridad": 1,
+      "temas": [
+        "vivienda",
+        "fiscalidad",
+        "economia_bce",
+        "mercados"
+      ],
+      "feed": "https://www.europapress.es/rss/rss.aspx?ch=00136"
+    },
+    {
+      "id": "europapress_aragon",
+      "nombre": "Europa Press Aragón",
+      "tipo": "agencia",
+      "prioridad": 1,
+      "temas": [
+        "aragon",
+        "oportunidades"
+      ],
+      "feed": "https://www.europapress.es/rss/rss.aspx?ch=00280"
+    },
+    {
+      "id": "reuters",
+      "nombre": "Reuters",
+      "tipo": "agencia",
+      "prioridad": 1,
+      "temas": [
+        "politica_espana",
+        "italia",
+        "economia_bce",
+        "mercados"
+      ],
+      "feed": "https://news.google.com/rss/search?q=site:reuters.com+(Spain+OR+Spanish+OR+Italy+OR+ECB)+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "nota": "Reuters no tiene RSS público gratuito: titulares vía Google News."
+    },
+    {
+      "id": "ap",
+      "nombre": "AP",
+      "tipo": "agencia",
+      "prioridad": 1,
+      "temas": [
+        "politica_espana",
+        "italia"
+      ],
+      "feed": "https://news.google.com/rss/search?q=site:apnews.com+(Spain+OR+Italy)+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "nota": "AP no tiene RSS público gratuito: titulares vía Google News."
+    },
+    {
+      "id": "ansa",
+      "nombre": "ANSA (inglés)",
+      "tipo": "agencia",
+      "prioridad": 1,
+      "temas": [
+        "italia"
+      ],
+      "feed": "https://www.ansa.it/english/news/english_nr_rss.xml",
+      "nota": "Edición en inglés de ANSA: la edición no se escribe ni cita en italiano."
+    },
+    {
+      "id": "boe_disposiciones",
+      "nombre": "BOE · Disposiciones generales",
+      "tipo": "oficial",
+      "prioridad": 1,
+      "temas": [
+        "fiscalidad",
+        "vivienda",
+        "oportunidades"
+      ],
+      "feed": "https://www.boe.es/rss/boe.php?s=1"
+    },
+    {
+      "id": "boe_oposiciones",
+      "nombre": "BOE · Oposiciones y concursos",
+      "tipo": "oficial",
+      "prioridad": 1,
+      "temas": [
+        "oportunidades"
+      ],
+      "feed": "https://www.boe.es/rss/boe.php?s=2B"
+    },
+    {
+      "id": "boe_otras",
+      "nombre": "BOE · Otras disposiciones (ayudas y convocatorias)",
+      "tipo": "oficial",
+      "prioridad": 1,
+      "temas": [
+        "oportunidades"
+      ],
+      "feed": "https://www.boe.es/rss/boe.php?s=3"
+    },
+    {
+      "id": "bce",
+      "nombre": "BCE",
+      "tipo": "oficial",
+      "prioridad": 1,
+      "temas": [
+        "economia_bce"
+      ],
+      "feed": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "bde",
+      "nombre": "Banco de España",
+      "tipo": "oficial",
+      "prioridad": 1,
+      "temas": [
+        "economia_bce",
+        "vivienda"
+      ],
+      "feed": "https://www.bde.es/wbe/es/inicio/rss/rss-noticias/"
+    },
+    {
+      "id": "ine",
+      "nombre": "INE",
+      "tipo": "oficial",
+      "prioridad": 1,
+      "temas": [
+        "economia_bce",
+        "vivienda"
+      ],
+      "web": "https://www.ine.es/daco/daco41/calen.htm",
+      "feed": "https://news.google.com/rss/search?q=INE+(IPC+OR+paro+OR+EPA+OR+vivienda+OR+hipotecas+OR+PIB)+when:2d&hl=es&gl=ES&ceid=ES:es",
+      "nota": "El INE no tiene un RSS que funcione: calendario oficial en la web y titulares vía Google News. El dato se cita siempre de ine.es."
+    },
+    {
+      "id": "aeat",
+      "nombre": "Agencia Tributaria",
+      "tipo": "oficial",
+      "prioridad": 1,
+      "temas": [
+        "fiscalidad"
+      ],
+      "web": "https://sede.agenciatributaria.gob.es/Sede/todas-noticias.html",
+      "feed": "https://news.google.com/rss/search?q=(%22Agencia+Tributaria%22+OR+Hacienda)+(IRPF+OR+renta+OR+deducci%C3%B3n+OR+impuesto)+when:2d&hl=es&gl=ES&ceid=ES:es",
+      "nota": "Sin RSS público que funcione: noticias de la sede y titulares vía Google News. Para normas, el BOE."
+    },
+    {
+      "id": "comision_europea",
+      "nombre": "Comisión Europea",
+      "tipo": "oficial",
+      "prioridad": 2,
+      "temas": [
+        "economia_bce",
+        "oportunidades"
+      ],
+      "web": "https://ec.europa.eu/commission/presscorner/home/es",
+      "feed": "https://news.google.com/rss/search?q=%22Comisi%C3%B3n+Europea%22+Espa%C3%B1a+when:1d&hl=es&gl=ES&ceid=ES:es",
+      "nota": "El RSS de Presscorner no responde como feed: titulares vía Google News y comunicados en Presscorner."
+    },
+    {
+      "id": "boa",
+      "nombre": "BOA (Boletín Oficial de Aragón)",
+      "tipo": "oficial",
+      "prioridad": 2,
+      "temas": [
+        "oportunidades",
+        "aragon"
+      ],
+      "web": "https://www.boa.aragon.es/",
+      "feed": "https://news.google.com/rss/search?q=(site:aragonhoy.es+OR+%22Bolet%C3%ADn+Oficial+de+Arag%C3%B3n%22)+(ayudas+OR+convocatoria+OR+vivienda+OR+becas)+when:7d&hl=es&gl=ES&ceid=ES:es",
+      "nota": "La web del BOA no respondió en la comprobación: si no abre, usar Aragón Hoy (noticias oficiales del Gobierno de Aragón) y Europa Press Aragón, y enlazar el BOA solo si se ha podido abrir."
+    },
+    {
+      "id": "oficiales_oportunidades",
+      "nombre": "DOUE y portal de financiación UE, ICO, Tesoro Público, CNMV, SEPE, ENISA, CDTI",
+      "tipo": "oficial",
+      "prioridad": 1,
+      "temas": [
+        "oportunidades"
+      ],
+      "nota": "Sin feed: se consultan con WebSearch y WebFetch para confirmar plazos y condiciones de las oportunidades."
+    },
+    {
+      "id": "expansion_economia",
+      "nombre": "Expansión",
+      "tipo": "economia",
+      "prioridad": 2,
+      "temas": [
+        "economia_bce",
+        "fiscalidad"
+      ],
+      "feed": "https://e00-expansion.uecdn.es/rss/economia.xml"
+    },
+    {
+      "id": "expansion_inmobiliario",
+      "nombre": "Expansión · Inmobiliario",
+      "tipo": "economia",
+      "prioridad": 2,
+      "temas": [
+        "vivienda"
+      ],
+      "feed": "https://e00-expansion.uecdn.es/rss/inmobiliario.xml"
+    },
+    {
+      "id": "expansion_mercados",
+      "nombre": "Expansión · Mercados",
+      "tipo": "economia",
+      "prioridad": 2,
+      "temas": [
+        "mercados"
+      ],
+      "feed": "https://e00-expansion.uecdn.es/rss/mercados.xml"
+    },
+    {
+      "id": "expansion_juridico",
+      "nombre": "Expansión · Jurídico",
+      "tipo": "economia",
+      "prioridad": 2,
+      "temas": [
+        "fiscalidad"
+      ],
+      "feed": "https://e00-expansion.uecdn.es/rss/juridico.xml"
+    },
+    {
+      "id": "cincodias",
+      "nombre": "Cinco Días",
+      "tipo": "economia",
+      "prioridad": 2,
+      "temas": [
+        "economia_bce",
+        "fiscalidad",
+        "vivienda",
+        "mercados"
+      ],
+      "feed": "https://feeds.elpais.com/mrss-s/pages/ep/site/cincodias.elpais.com/portada"
+    },
+    {
+      "id": "eleconomista",
+      "nombre": "elEconomista",
+      "tipo": "economia",
+      "prioridad": 2,
+      "temas": [
+        "vivienda",
+        "fiscalidad",
+        "economia_bce"
+      ],
+      "feed": "https://news.google.com/rss/search?q=site:eleconomista.es+(vivienda+OR+hipoteca+OR+IRPF+OR+Hacienda+OR+BCE)+when:1d&hl=es&gl=ES&ceid=ES:es",
+      "nota": "Su RSS propio bloquea las descargas automáticas (403): titulares vía Google News."
+    },
+    {
+      "id": "heraldo_zaragoza",
+      "nombre": "Heraldo de Aragón · Zaragoza",
+      "tipo": "regional",
+      "prioridad": 2,
+      "temas": [
+        "aragon",
+        "vivienda"
+      ],
+      "feed": "https://www.heraldo.es/rss/aragon/zaragoza/"
+    },
+    {
+      "id": "heraldo_economia",
+      "nombre": "Heraldo de Aragón · Economía",
+      "tipo": "regional",
+      "prioridad": 2,
+      "temas": [
+        "aragon",
+        "oportunidades"
+      ],
+      "feed": "https://www.heraldo.es/rss/economia/"
+    },
+    {
+      "id": "elpais",
+      "nombre": "El País",
+      "tipo": "diario",
+      "prioridad": 3,
+      "linea": "centroizquierda",
+      "temas": [
+        "politica_espana",
+        "vivienda"
+      ],
+      "feed": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada"
+    },
+    {
+      "id": "eldiario",
+      "nombre": "elDiario.es",
+      "tipo": "diario",
+      "prioridad": 3,
+      "linea": "izquierda",
+      "temas": [
+        "politica_espana",
+        "vivienda"
+      ],
+      "feed": "https://www.eldiario.es/rss/"
+    },
+    {
+      "id": "elmundo",
+      "nombre": "El Mundo",
+      "tipo": "diario",
+      "prioridad": 3,
+      "linea": "centroderecha",
+      "temas": [
+        "politica_espana"
+      ],
+      "feed": "https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml"
+    },
+    {
+      "id": "abc",
+      "nombre": "ABC",
+      "tipo": "diario",
+      "prioridad": 3,
+      "linea": "derecha",
+      "temas": [
+        "politica_espana"
+      ],
+      "feed": "https://www.abc.es/rss/2.0/espana/"
+    },
+    {
+      "id": "elconfidencial",
+      "nombre": "El Confidencial",
+      "tipo": "diario",
+      "prioridad": 3,
+      "linea": "liberal",
+      "temas": [
+        "politica_espana",
+        "economia_bce"
+      ],
+      "feed": "https://rss.elconfidencial.com/espana/"
+    }
+  ],
+  "fuentes_retiradas": [
+    {
+      "nombre": "Politico Europe",
+      "motivo": "Europa e internacional, temas de prioridad baja o excluidos."
+    },
+    {
+      "nombre": "Euronews",
+      "motivo": "Internacional, tema excluido."
+    },
+    {
+      "nombre": "BBC",
+      "motivo": "Internacional, tema excluido."
+    },
+    {
+      "nombre": "Financial Times",
+      "motivo": "De pago; los mercados ya los cubren agencias, Expansión y Cinco Días."
+    },
+    {
+      "nombre": "Bloomberg",
+      "motivo": "De pago; los mercados ya los cubren agencias, Expansión y Cinco Días."
+    }
+  ]
+}
