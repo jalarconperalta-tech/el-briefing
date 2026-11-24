@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-24",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "summary_30s": [
+    "El debate a ocho de RTVE dejó dos bloques: PP y Vox cargaron contra el Gobierno, y la izquierda apretó al PSOE en vivienda y fiscalidad.",
+    "Una nueva encuesta de Ateneo del Dato sitúa al PP en el 32,1 % y al PSOE en el 30,8 %, con PP y Vox por encima del 49 % de los votos.",
+    "El Consejo de Ministros aprueba hoy ampliar a diez días el permiso por fallecimiento de familiares, mientras el Euríbor se mantiene en torno al 3,37 %."
+  ],
+  "opportunities": [],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "El debate a ocho de RTVE escenifica los dos bloques de cara al 29-N: PP y Vox frente a una izquierda que también aprieta al PSOE",
+      "dek": "Vivienda, corrupción, trenes, inmigración y pactos centraron el último cara a cara televisado antes de las elecciones.",
+      "read_minutes": 2,
+      "what": [
+        "Participaron Ester Muñoz (PP), Patxi López (PSOE), Pepa Millán (Vox), Emilio Delgado (Frente Amplio), Gabriel Rufián (ERC), Oskar Matute (EH Bildu), Maribel Vaquero (PNV) y Miriam Nogueras (Junts).",
+        "PP y Vox no se cruzaron propuestas entre sí y dirigieron sus críticas al Gobierno por vivienda, accidentes ferroviarios y corrupción; Vox añadió la inmigración.",
+        "El PSOE defendió la gestión de Sánchez y presentó a PP y Vox como un mismo proyecto. Frente Amplio, ERC y Bildu le reprocharon poca ambición en vivienda y fiscalidad.",
+        "PNV descartó acercarse al PP si depende de Vox, y Junts evitó hablar de alianzas para centrarse en competencias y financiación para Cataluña."
+      ],
+      "why": "Es el último gran debate antes de la votación y muestra con qué aliados cuenta cada bloque para formar mayoría. Qué significa para ti: las posiciones sobre vivienda y fiscalidad determinarán qué medidas de acceso a la compra y de impuestos se debaten en la próxima legislatura.",
+      "views": [
+        {
+          "label": "Lectura desde el bloque PP-Vox",
+          "text": "Sostiene que ocho años de Gobierno socialista y de sus socios han dejado problemas en vivienda, transporte y corrupción, y que el cambio exige una mayoría alternativa."
+        },
+        {
+          "label": "Lectura desde el bloque PSOE y socios",
+          "text": "Sostiene que PP y Vox forman un mismo proyecto y que la izquierda debe sumar fuerzas, con los socios del Gobierno reclamando más ambición en vivienda y fiscalidad."
+        }
+      ],
+      "sources": [
+        {
+          "name": "elDiario.es · El debate a ocho confirma los bloques",
+          "url": "https://www.eldiario.es/politica/debate-ocho-confirma-bloques-apoyaran-29n-pp-vox-frente-psoe-exigido-izquierda_1_13687691.html"
+        },
+        {
+          "name": "ABC · PP y Vox denuncian la gestión",
+          "url": "https://www.abc.es/espana/pp-vox-denuncian-gestion-ocho-anos-gobierno-20261123234708-nt.html"
+        },
+        {
+          "name": "El País · La izquierda combate unida a P",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/la-izquierda-combate-unida-a-pp-y-vox-en-un-debate-a-ocho-que-escenifica-la-division-entre-bloques.html"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "Una encuesta de Ateneo del Dato da al PP el 32,1 % y al PSOE el 30,8 % a cinco días del 29-N",
+      "dek": "PP y Vox sumarían el 49,7 % de los votos frente al 37,5 % de PSOE, Frente Amplio y Podemos.",
+      "read_minutes": 1,
+      "what": [
+        "El sondeo, realizado del 18 al 20 de noviembre con 2.000 entrevistas online y un margen de error del 2,2 %, sitúa a Vox en el 17,6 % y a Frente Amplio en el 6 %.",
+        "El PSOE sube 2,2 puntos respecto a la medición anterior, el PP sube 0,6 y Vox baja un punto. Podemos cae al 0,7 %.",
+        "La encuesta no estima escaños. Expansión plantea qué haría falta para que el PSOE complete la remontada en los días que quedan."
+      ],
+      "why": "Es de las últimas mediciones antes del veto a publicar sondeos y refleja un recorte de distancia entre los dos grandes partidos, aunque la suma de las derechas sigue por delante.",
+      "views": [
+        {
+          "label": "Lectura centrada en el PP",
+          "text": "Destaca que el PP lidera el sondeo y que, con Vox, supera el 49 % de los votos y está en condiciones de formar Gobierno."
+        },
+        {
+          "label": "Lectura centrada en el PSOE",
+          "text": "Destaca que el PSOE es quien más sube, con 2,2 puntos, y que la diferencia con el PP se queda en 1,3 puntos."
+        }
+      ],
+      "sources": [
+        {
+          "name": "elDiario.es · Última encuesta antes del 29N",
+          "url": "https://www.eldiario.es/politica/pp-gana-minima-psoe-derecha-supera-izquierda-ultima-encuesta-29n_1_13684963.html"
+        },
+        {
+          "name": "Expansión · Lo posible y lo probable de la",
+          "url": "https://www.expansion.com/economia/politica/2026/11/24/posible-probable-remontada-psoe-cinco-dias-elecciones.html"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Política",
+      "label": "Política · Laboral",
+      "title": "El Gobierno aprueba hoy ampliar a diez días el permiso por fallecimiento de familiares mediante real decreto-ley",
+      "dek": "El permiso pasa de dos días a diez laborables para cónyuge, pareja e hijos y familiares de primer grado.",
+      "read_minutes": 1,
+      "what": [
+        "Para cónyuge, pareja, hijos y familiares de primer grado por consanguinidad, serán diez días laborables disfrutables en las cuatro semanas siguientes al fallecimiento.",
+        "Para otros familiares habrá tres días, más dos si hay desplazamiento. Se crea un día de permiso para acompañar a un allegado en una eutanasia y una reducción de jornada por cuidados paliativos.",
+        "La medida se acordó hace un año entre Trabajo y los sindicatos. Al ir por decreto-ley entra en vigor al publicarse, pero el Congreso debe convalidarla."
+      ],
+      "why": "Cambia un derecho laboral básico y traslada un coste a las empresas, en un momento en que la composición del Congreso puede variar tras el 29-N. Qué significa para ti: si tienes contrato, el permiso se aplicaría desde la publicación del decreto, salvo que tu convenio ya mejore estos días.",
+      "views": [
+        {
+          "label": "Posición del Gobierno",
+          "text": "Defiende que nadie debería volver a trabajar a los pocos días de enterrar a un familiar directo y presenta la medida como un avance en conciliación."
+        },
+        {
+          "label": "Posición empresarial",
+          "text": "Cepyme afirmó en su momento que las pymes no pueden asumir la ampliación y la CEOE la calificó de ocurrencia, por el coste que recae en las empresas."
+        }
+      ],
+      "sources": [
+        {
+          "name": "elDiario.es · El Gobierno ampliará a diez dí",
+          "url": "https://www.eldiario.es/economia/gobierno-ampliara-diez-dias-permiso-fallecimiento-familiares_1_13687311.html"
+        },
+        {
+          "name": "Xataka · El permiso por fallecimiento a",
+          "url": "https://www.xataka.com/legislacion-y-derechos/ministerio-trabajo-quiere-que-permiso-fallecimiento-se-amplie-a-10-dias-obstaculo-congreso"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "section": "Finanzas",
+      "label": "Vivienda · Hipotecas",
+      "title": "El Euríbor se mantiene en el 3,37 % y las hipotecas variables siguen con cuotas más altas que hace un año",
+      "dek": "El índice diario roza el máximo anual, mientras el mercado descuenta otra subida de tipos del BCE.",
+      "read_minutes": 1,
+      "what": [
+        "Expansión sitúa el Euríbor diario en el 3,370 % el 23 de noviembre, una ligera rebaja respecto a la jornada previa. Rankia lo situaba en el 3,351 % el 19 de noviembre, con un máximo anual del 3,379 % en septiembre.",
+        "La media de octubre fue del 3,239 %, el primer descenso mensual desde junio, según hipotecas.me; el dato oficial de noviembre se publicará en diciembre.",
+        "Los analistas citados esperan que el BCE vuelva a subir tipos en su reunión del 17 de diciembre."
+      ],
+      "why": "El Euríbor determina la revisión de las hipotecas variables y el precio de las nuevas hipotecas, y condiciona cuánto puede financiar un comprador. Qué significa para ti: con una compra prevista a medio plazo, conviene comparar hipotecas fijas y mixtas y simular la cuota con un Euríbor por encima del 3 %.",
+      "views": [
+        {
+          "label": "Lectura de estabilización",
+          "text": "Apunta a que el Euríbor lleva semanas en una banda estrecha cerca del 3,3 % y que la media de octubre rompió la racha de subidas."
+        },
+        {
+          "label": "Lectura de riesgo al alza",
+          "text": "Apunta a que la expectativa de otra subida del BCE en diciembre puede empujar el índice por encima del máximo anual."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Expansión · El Euríbor hoy se sitúa en 3,370 %",
+          "url": "https://www.expansion.com/mercados/euribor/2026/11/23/euribor-hoy-situa-hoy-3-370-marca-ligera-rebaja-hipotecas.html"
+        },
+        {
+          "name": "Rankia · Euríbor hoy 19 de noviembre de 2026",
+          "url": "https://www.rankia.com/blog/mejores-hipotecas/7557440-euribor-hoy-19-noviembre-2026"
+        },
+        {
+          "name": "hipotecas.me · El Euríbor se frena en octubre",
+          "url": "https://www.hipotecas.me/noticias/euribor-octubre-2026-se-frena-revision-hipoteca-noviembre"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "section": "Mundo",
+      "label": "Italia · Fiscalidad",
+      "title": "Italia estudia suavizar el exit tax del 26 % sobre plusvalías latentes de quienes trasladan su residencia fiscal",
+      "dek": "El Gobierno de Meloni trabaja en cambios al artículo 17 de los presupuestos de 2027, que se votan en diciembre.",
+      "read_minutes": 1,
+      "what": [
+        "El proyecto grava con un 26 % las plusvalías latentes de quienes tengan al menos 800.000 euros en inversiones financieras y trasladen su residencia fiscal fuera de Italia.",
+        "El ministro de Economía, Giancarlo Giorgetti, dijo el 13 de noviembre que se preparan cambios. Una enmienda eximiría del pago inicial a las inversiones mantenidas mediante sociedades fiduciarias italianas.",
+        "Asesores patrimoniales advierten de que podría restar atractivo a Italia para fortunas móviles. El texto aún debe votarse en el Parlamento antes de fin de año."
+      ],
+      "why": "Muestra hacia dónde se mueve la fiscalidad italiana del capital y la residencia, un factor para quien valora trasladarse a Italia a medio plazo. Qué significa para ti: afecta solo a patrimonios financieros elevados, pero conviene seguir las enmiendas si se planea residir en Italia.",
+      "views": [
+        {
+          "label": "Posición del Gobierno",
+          "text": "Defiende un gravamen sobre las plusvalías acumuladas de quienes se marchan y estudia limarlo con exenciones y pagos aplazados."
+        },
+        {
+          "label": "Posición de los asesores",
+          "text": "Sostienen que genera inseguridad jurídica y puede desincentivar la llegada de patrimonios al país."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Wealth Briefing · Exit tax italiano",
+          "url": "https://www.wealthbriefing.com/html/printarticle.php?id=209259"
+        },
+        {
+          "name": "Il Sole 24 Ore (inglés) · La tasa a los superricos que d",
+          "url": "https://en.ilsole24ore.com/art/manovra-entra-anche-tassa-super-ricchi-che-lasciano-l-italia-ecco-chi-paga-e-quanto-AJAOrP0B"
+        }
+      ]
+    }
+  ]
+}

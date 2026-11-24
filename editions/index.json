@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-11-24",
+      "stories": 5,
+      "opportunities": 0,
+      "headlines": [
+        "El debate a ocho de RTVE escenifica los dos bloques de cara al 29-N: PP y Vox frente a una izquierda que también aprieta al PSOE",
+        "Una encuesta de Ateneo del Dato da al PP el 32,1 % y al PSOE el 30,8 % a cinco días del 29-N",
+        "El Gobierno aprueba hoy ampliar a diez días el permiso por fallecimiento de familiares mediante real decreto-ley"
+      ]
+    },
+    {
       "date": "2026-11-23",
       "stories": 3,
       "opportunities": 0,
