@@ -10,6 +10,8 @@
 //   --json     salida en JSON
 
 import { readFile } from 'node:fs/promises';
+import { execFile } from 'node:child_process';
+import { promisify } from 'node:util';
 
 const cfg = JSON.parse(await readFile(new URL('../config/briefing.json', import.meta.url), 'utf8'));
 const args = process.argv.slice(2);
@@ -20,7 +22,8 @@ const esLunes = new Date().toLocaleString('en-US', { timeZone: 'Europe/Madrid', 
 const horas = Number(val('--horas')) || (esLunes ? cfg.ventana.horas_lunes : cfg.ventana.horas);
 const desde = Date.now() - horas * 3600e3;
 
-const UA = 'Mozilla/5.0 (compatible; ElBriefing/1.0; +https://jalarconperalta-tech.github.io/el-briefing/)';
+const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36';
+const execFileP = promisify(execFile);
 const temas = cfg.temas;
 const temaPorId = Object.fromEntries(temas.map((t) => [t.id, t]));
 const { coeficientes: K } = cfg.seleccion;
@@ -44,10 +47,29 @@ const tag = (xml, names) => {
   return '';
 };
 
+// Algunos medios bloquean desde servidores las peticiones que no parecen de un
+// navegador: se usa un User-Agent de navegador y, si aun así falla, se reintenta
+// con curl (otra huella de conexión que esos medios sí suelen aceptar).
+async function descargar(url) {
+  const headers = { 'User-Agent': UA, Accept: 'application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8', 'Accept-Language': 'es-ES,es;q=0.9,en;q=0.8' };
+  let motivo;
+  try {
+    const res = await fetch(url, { headers, signal: AbortSignal.timeout(20000) });
+    if (res.ok) return Buffer.from(await res.arrayBuffer());
+    motivo = `HTTP ${res.status}`;
+  } catch (e) { motivo = e.message; }
+  try {
+    const { stdout } = await execFileP('curl', ['-sSL', '--fail', '--compressed', '--max-time', '25', '-A', UA,
+      '-H', `Accept: ${headers.Accept}`, '-H', `Accept-Language: ${headers['Accept-Language']}`, url],
+    { encoding: 'buffer', maxBuffer: 20 * 1024 * 1024 });
+    return stdout;
+  } catch (e) {
+    throw new Error(`${motivo}; curl: ${String(e.stderr || e.message).trim().split('\n').pop()}`);
+  }
+}
+
 async function leerFeed(f) {
-  const res = await fetch(f.feed, { headers: { 'User-Agent': UA, Accept: 'application/rss+xml, application/xml, text/xml, */*' }, signal: AbortSignal.timeout(20000) });
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  const buf = Buffer.from(await res.arrayBuffer());
+  const buf = await descargar(f.feed);
   const head = buf.subarray(0, 300).toString('latin1');
   const enc = /encoding=["']iso-8859-1["']/i.test(head) ? 'latin1' : 'utf8';
   const xml = buf.toString(enc);
@@ -61,7 +83,10 @@ async function leerFeed(f) {
     const google = /news\.google\.com/.test(f.feed);
     if (google && medio && titulo.endsWith(` - ${medio}`)) titulo = titulo.slice(0, -(medio.length + 3));
     const fecha = Date.parse(tag(b, ['pubDate', 'published', 'updated', 'dc:date'])) || null;
-    return { fuente: f.id, medio: medio || f.nombre, titulo, url: decodeEntities(link), fecha, google };
+    // Resumen del propio feed: da los hechos aunque luego el artículo no se pueda abrir.
+    let resumen = google ? '' : tag(b, ['description', 'summary', 'content:encoded', 'content']);
+    if (resumen.length > 350) resumen = `${resumen.slice(0, 350)}…`;
+    return { fuente: f.id, medio: medio || f.nombre, titulo, url: decodeEntities(link), fecha, google, resumen };
   });
 }
 
@@ -166,7 +191,7 @@ if (flag('--json')) {
     console.log(`\n## ${t.nombre} · peso ${t.peso} · prioridad ${t.prioridad} · cupo ${t.cupo.join('-')} · ${lista.length ? '' : 'SIN CANDIDATAS'}`);
     for (const n of lista) {
       const aviso = n.google ? ' [Google News: buscar URL original]' : '';
-      console.log(`- ${n.puntuacion} | ${n.ambito} | ${n.enfoque} | ${n.medio} | ${fecha(n.fecha)} | ${n.titulo.length > 200 ? n.titulo.slice(0, 200) + '…' : n.titulo}\n  ${n.google ? '(enlace de Google News, no usar como fuente)' : n.url}${aviso}`);
+      console.log(`- ${n.puntuacion} | ${n.ambito} | ${n.enfoque} | ${n.medio} | ${fecha(n.fecha)} | ${n.titulo.length > 200 ? n.titulo.slice(0, 200) + '…' : n.titulo}\n  ${n.google ? '(enlace de Google News, no usar como fuente)' : n.url}${aviso}${n.resumen ? `\n  Resumen del feed: ${n.resumen}` : ''}`);
     }
   }
   if (flag('--todos')) {
