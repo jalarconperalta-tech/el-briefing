@@ -1,0 +1,305 @@
+{
+  "date": "2026-11-25",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "summary_30s": [
+    "El Gobierno ha aprobado 18 decretos-leyes desde la convocatoria electoral y planea convalidarlos en la Diputación Permanente antes del 23 de diciembre.",
+    "Hacienda rebaja el IRPF a 2,6 millones de autónomos y crea un IVA anual para quienes facturen menos de 85.000 euros, mientras el impuesto a la banca se prorroga y se destina a vivienda.",
+    "El Euríbor roza su máximo anual (3,376 %) y Bruselas avisa a España de un posible procedimiento por déficit excesivo en 2027."
+  ],
+  "opportunities": [],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "El Gobierno ha aprobado 18 decretos-leyes desde la convocatoria electoral y llevará su convalidación a la Diputación Permanente",
+      "dek": "El último Consejo de Ministros antes del 29-N añade la prórroga del impuesto a la banca, más permisos y ayudas al transporte.",
+      "read_minutes": 2,
+      "what": [
+        "Según ABC, desde el 6 de octubre se han aprobado 18 decretos-leyes que elevan el gasto público en más de 30.000 millones de euros.",
+        "El martes se sumaron cuatro: permiso por fallecimiento de diez días laborables, prórroga del impuesto a la banca, ayudas al transporte y medidas sobre servicios financieros.",
+        "Expansión informa de que el Ejecutivo prevé convalidarlos en la Diputación Permanente, que ejerce de Pleno hasta el 23 de diciembre, cuando se constituyen las nuevas Cortes."
+      ],
+      "why": "Estos decretos entran en vigor de inmediato, pero necesitan convalidación en 30 días, y el órgano que los vote puede condicionar su continuidad. Qué significa para ti: afectan a impuestos, permisos laborales, transporte y vivienda, así que su futuro depende de quién gobierne y de cómo vote el Congreso.",
+      "views": [
+        {
+          "label": "Posición del Gobierno",
+          "text": "La portavoz, Elma Saiz, afirma que aprobar decretos-leyes en este periodo es «perfectamente democrático y perfectamente legal» y que responde a necesidades sociales."
+        },
+        {
+          "label": "Posición de la oposición",
+          "text": "Considera que el uso de decretos-leyes en campaña es abusivo y busca captar votos, y que la convalidación debería esperar al nuevo Pleno."
+        }
+      ],
+      "sources": [
+        {
+          "name": "ABC · Sánchez supera los 30.000 millones en 18 decretos l...",
+          "url": "https://www.abc.es/espana/sanchez-supera-30000-millones-euros-decretos-leyes-20261125023029-nt.html"
+        },
+        {
+          "name": "Expansión · El Gobierno consuma su acelerón legislativo",
+          "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/24/gobierno-consuma-aceleron-legislativo-29-n-impuesto-banca-permisos-fallecimiento-nacimiento.html"
+        },
+        {
+          "name": "El País · Remodelación del impuesto a la banca",
+          "url": "https://elpais.com/economia/2026-11-24/el-gobierno-remodela-el-impuesto-a-la-banca-para-obligar-a-repartir-los-1400-millones-de-recaudacion-en-la-conferencia-sectorial-de-vivienda.html"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Finanzas",
+      "label": "Fiscalidad · Autónomos",
+      "title": "Hacienda rebaja el IRPF a 2,6 millones de autónomos y permite declarar el IVA una sola vez al año por debajo de 85.000 euros",
+      "dek": "El paquete amplía deducciones, reduce pagos fraccionados y aplaza Verifactu.",
+      "read_minutes": 1,
+      "what": [
+        "La deducción por gastos de difícil justificación sube del 5 % al 10 % y su límite de 2.000 a 3.000 euros para 1,6 millones de autónomos; en módulos, la reducción pasa también al 10 % (15 % en agricultura). Ahorro total previsto: 465 millones.",
+        "Se crea un régimen voluntario de IVA con una declaración anual para quienes facturen menos de 85.000 euros, con pagos a cuenta en abril, julio y octubre. Afectaría a 1,1 millones de autónomos.",
+        "El pago fraccionado del IRPF baja del 20 % al 19 % para facturación inferior a 250.000 euros, y se prorrogan los límites de módulos y se retrasa Verifactu."
+      ],
+      "why": "Reduce la carga administrativa y adelanta liquidez a los autónomos, pero es un decreto-ley pendiente de convalidación. Qué significa para ti: útil como tema de divulgación fiscal y para quien tenga o prevea una actividad por cuenta propia; conviene esperar a su convalidación antes de planificar.",
+      "views": [
+        {
+          "label": "Posición del Gobierno",
+          "text": "Hacienda presenta el paquete como una simplificación de obligaciones y un alivio ante el aumento de costes de los autónomos."
+        },
+        {
+          "label": "Posición de las asociaciones",
+          "text": "La federación ATA reclamaba la medida desde hace años y critica que se apruebe cinco días antes de las elecciones."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Europa Press · El Gobierno rebaja el IRPF a 2,6 millones...",
+          "url": "https://www.europapress.es/economia/fiscal-00347/noticia-gobierno-rebaja-irpf-26-millones-autonomos-simplifica-declaracion-iva-20261124130743.html"
+        },
+        {
+          "name": "Expansión · Sánchez busca el voto de los autónomos",
+          "url": "https://www.expansion.com/fiscal/2026/11/24/declaraciones-iva-deducciones-pagos-fraccionados-sanchez-busca-voto-autonomos-amplio-paquete-medidas.html"
+        },
+        {
+          "name": "elDiario.es · Los autónomos declararán el IVA una vez al año",
+          "url": "https://www.eldiario.es/economia/gobierno-aprueba-autonomos-declaren-iva-vez-ano-si-facturan-85-000-euros_1_13688917.html"
+        },
+        {
+          "name": "El País · Hacienda rebaja el IRPF de los autónomos",
+          "url": "https://elpais.com/economia/2026-11-24/hacienda-rebaja-el-irpf-de-los-autonomos-y-elimina-los-pagos-trimestrales-del-iva-para-los-pequenos-negocios.html"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Finanzas",
+      "label": "Vivienda · Financiación",
+      "title": "El impuesto a la banca se prorroga un año y su recaudación, unos 1.400 millones, se destinará a vivienda",
+      "dek": "El reparto se hará en la Conferencia Sectorial de Vivienda con las comunidades autónomas.",
+      "read_minutes": 1,
+      "what": [
+        "El decreto-ley prorroga en 2027 el gravamen y vincula la recaudación prevista, unos 1.400 millones, a políticas de vivienda.",
+        "El ministro de Hacienda indicó que el criterio de reparto será el acordado entre el Ministerio de Vivienda y las comunidades en la Conferencia Sectorial.",
+        "Expansión señala que esto puede reabrir el choque con las regiones, y el decreto necesita convalidación parlamentaria."
+      ],
+      "why": "Determina de dónde saldrá parte de la financiación de planes de vivienda y cuánto llegará a cada comunidad. Qué significa para ti: el volumen y reparto de estos fondos influirá en las ayudas y la oferta de vivienda asequible en los próximos años.",
+      "views": [
+        {
+          "label": "Posición del Gobierno",
+          "text": "Defiende que la recaudación del impuesto se dedique íntegramente a políticas de vivienda."
+        },
+        {
+          "label": "Posición del sector bancario",
+          "text": "Rechaza la prórroga y sostiene que el impuesto perjudicará el crédito a familias y empresas."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Expansión · El Gobierno consuma su acelerón legislativo",
+          "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/24/gobierno-consuma-aceleron-legislativo-29-n-impuesto-banca-permisos-fallecimiento-nacimiento.html"
+        },
+        {
+          "name": "El País · El Gobierno remodela el impuesto a la banca",
+          "url": "https://elpais.com/economia/2026-11-24/el-gobierno-remodela-el-impuesto-a-la-banca-para-obligar-a-repartir-los-1400-millones-de-recaudacion-en-la-conferencia-sectorial-de-vivienda.html"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "section": "Finanzas",
+      "label": "Vivienda · Hipotecas",
+      "title": "El Euríbor sube al 3,376 % a tres milésimas de su máximo anual y la media de noviembre ya es del 3,308 %",
+      "dek": "Una hipoteca variable de 150.000 euros que se revise ahora pagaría unos 89 euros más al mes.",
+      "read_minutes": 1,
+      "what": [
+        "Expansión sitúa el Euríbor diario en el 3,376 % este martes frente al 3,370 % del lunes; el máximo de 2026 es el 3,379 % del 25 de septiembre.",
+        "La media provisional de noviembre, 3,308 %, supera en 0,069 puntos a la de octubre y en 1,091 a la de noviembre de 2025.",
+        "El Banco de España publicará el dato oficial en los primeros días hábiles de diciembre; el mercado espera la reunión del BCE de ese mes."
+      ],
+      "why": "Las revisiones usan la media mensual, no el dato diario. En el ejemplo de Expansión, la cuota pasaría de 728 a 817 euros con revisión anual. Qué significa para ti: conviene simular la cuota de una futura hipoteca con un Euríbor por encima del 3 % y comparar tipo fijo, mixto y variable.",
+      "views": [
+        {
+          "label": "Lectura de estabilidad",
+          "text": "Apunta a que el índice se mueve en una banda estrecha cerca del 3,3 % desde hace semanas."
+        },
+        {
+          "label": "Lectura de riesgo al alza",
+          "text": "Apunta a que un BCE más duro y la inflación elevada dejan poco margen de bajada y podrían marcar un nuevo máximo anual."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Expansión · El Euríbor se queda a tres milésimas de su má...",
+          "url": "https://www.expansion.com/mercados/euribor/2026/11/24/euribor-hoy-el-euribor-se-queda-a-tres-milesimas-de-su-maximo-del-ano-y-la-hipoteca-que-se-revisa-en-diciembre-ya-sube-casi-90-euros-al-mes.html"
+        },
+        {
+          "name": "Expansión · El Euríbor hoy se sitúa en 3,370 %",
+          "url": "https://www.expansion.com/mercados/euribor/2026/11/23/euribor-hoy-situa-hoy-3-370-marca-ligera-rebaja-hipotecas.html"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "section": "Finanzas",
+      "label": "Economía · Europa",
+      "title": "Bruselas avisa a España de que podría abrirle un procedimiento por déficit excesivo en 2027 si no contiene el gasto",
+      "dek": "La Comisión estima un desvío del 0,9 % del PIB en 2026 frente a un umbral del 0,6 %.",
+      "read_minutes": 1,
+      "what": [
+        "El exceso equivale a unos 5.100 millones de euros y se explica por las ayudas anticrisis y el aumento del empleo público, según fuentes comunitarias citadas por Europa Press.",
+        "El expediente se debería a que la deuda supera el 60 % del PIB, no al déficit, que sigue por debajo del 3 %.",
+        "La Comisión elaborará un informe en primavera; la decisión final corresponde a los Estados miembros, previsiblemente en julio."
+      ],
+      "why": "Condiciona la política presupuestaria del próximo Gobierno, con Presupuestos prorrogados desde 2023 y subidas salariales a funcionarios aún sin incluir en las previsiones. Qué significa para ti: un ajuste de gasto o ingresos puede afectar a impuestos y ayudas en 2027.",
+      "views": [
+        {
+          "label": "Lectura de la Comisión",
+          "text": "Considera la desviación sustancial y pide medidas, sea con más ingresos o con contención del gasto."
+        },
+        {
+          "label": "Matices señalados",
+          "text": "Las mismas fuentes recuerdan el carácter temporal del desfase y que el Gobierno podría corregirlo antes de la evaluación."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Europa Press · Bruselas avisa a España de que se expone a...",
+          "url": "https://www.europapress.es/economia/noticia-bruselas-avisa-espana-expone-expediente-superar-limites-gasto-2026-20261124160636.html"
+        },
+        {
+          "name": "El País · Bruselas advierte a España de que se arriesga a...",
+          "url": "https://elpais.com/economia/2026-11-24/bruselas-advierte-a-espana-de-que-se-arriesga-a-un-expediente-de-la-ue-si-no-contiene-el-gasto-publico.html"
+        },
+        {
+          "name": "elDiario.es · La Comisión Europea advierte a España",
+          "url": "https://www.eldiario.es/economia/comision-europea-advierte-espana-riesgo-deficit-excesivo-2026-2027_1_13688720.html"
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "section": "Mundo",
+      "label": "Italia · Economía",
+      "title": "Bruselas contempla cerrar en primavera de 2027 el procedimiento de déficit excesivo contra Italia",
+      "dek": "La salida depende de que el déficit de 2026 sea inferior al 3 % y de que el exceso previsto después se deba a cláusulas de defensa y energía.",
+      "read_minutes": 1,
+      "what": [
+        "Las previsiones de otoño sitúan el déficit italiano en el 2,9 % del PIB en 2026, el 3,5 % en 2027 y el 3,2 % en 2028.",
+        "El comisario Dombrovskis dijo que, si los datos de 2026 lo confirman y el exceso se explica por las cláusulas de defensa y resiliencia energética, el procedimiento podría cerrarse en primavera.",
+        "Según Agenzia Nova, el procedimiento está hoy suspendido, no cerrado."
+      ],
+      "why": "Afecta a los márgenes de gasto y a la percepción de riesgo de la deuda italiana, y por tanto al clima económico del país. Qué significa para ti: para quien valore trabajar en Italia, un entorno fiscal más estable favorece la inversión en energía e infraestructuras.",
+      "views": [
+        {
+          "label": "Lectura de la Comisión",
+          "text": "Prevé que Italia corrija el déficit en 2026 y admite flexibilidad por defensa y seguridad energética."
+        },
+        {
+          "label": "Matiz sobre las previsiones",
+          "text": "El déficit previsto supera el 3 % en 2027 y 2028, y el cierre queda condicionado a los datos definitivos."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Agenzia Nova · Dombrovskis: Italia podría salir del proce...",
+          "url": "https://www.agenzianova.com/en/news/dombrovskis-italia-potrebbe-uscire-dalla-procedura-per-deficit-gia-nella-primavera-del-2027/"
+        },
+        {
+          "name": "Le Petit Journal Milan · Déficit italien à 2,9 % en 2026",
+          "url": "https://lepetitjournal.com/milan/actualites/deficit-italien-2026-ue-envisage-sortie-procedure-deficit-excessif-459144"
+        }
+      ]
+    },
+    {
+      "id": "c7",
+      "section": "Política",
+      "label": "Aragón · Transporte",
+      "title": "El Gobierno mantiene las ayudas al transporte público, pero el Ayuntamiento de Zaragoza debe decidir si prorroga el 40 % de descuento",
+      "dek": "El Consejo de Ministros destina 1.213 millones al transporte público urbano.",
+      "read_minutes": 1,
+      "what": [
+        "El Consejo de Ministros aprobó el martes mantener la subvención al transporte público y el abono único para jóvenes, con un coste de 1.213 millones.",
+        "En Zaragoza hay hoy bonificaciones del 40 % en los viajes con abono de autobús y tranvía.",
+        "La decisión de aplicarlas en 2027 corresponde al Ayuntamiento, según Heraldo de Aragón."
+      ],
+      "why": "Determina el precio del abono en 2027 para quien se mueve a diario en autobús o tranvía. Qué significa para ti: conviene estar atento a la decisión municipal sobre el descuento.",
+      "views": [
+        {
+          "label": "Posición del Gobierno",
+          "text": "Presenta el mantenimiento de los descuentos como un apoyo a la movilidad y al bolsillo de los usuarios."
+        },
+        {
+          "label": "Posición municipal",
+          "text": "Corresponde al Ayuntamiento confirmar si aplica las bonificaciones el próximo año."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Heraldo de Aragón · ¿Mantendrá Zaragoza la rebaja del 40 %?",
+          "url": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/11/24/mantendra-zaragoza-rebaja-40-precio-autobus-tranvia-2027-2071386.html"
+        },
+        {
+          "name": "Expansión · El Gobierno consuma su acelerón legislativo",
+          "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/24/gobierno-consuma-aceleron-legislativo-29-n-impuesto-banca-permisos-fallecimiento-nacimiento.html"
+        }
+      ]
+    },
+    {
+      "id": "c8",
+      "section": "Finanzas",
+      "label": "Mercados · Bolsa",
+      "title": "Anthropic cae por debajo del precio de salida a bolsa cuatro días después de su debut",
+      "dek": "La acción cerró el martes en 81,91 dólares frente a los 83 de la colocación.",
+      "read_minutes": 1,
+      "what": [
+        "Según Cinco Días, la empresa debutó el jueves con la mayor salida a bolsa registrada y llegó a marcar 111,5 dólares, un 30 % sobre el precio de colocación.",
+        "El martes llegó a caer un 13,5 % durante la sesión; Heraldo informa de un cierre con descenso del 6,54 %.",
+        "La operación, con la ampliación posterior, movió unos 120.000 millones de dólares, en un Nasdaq que bajó hasta un 18 % desde octubre."
+      ],
+      "why": "Es un termómetro del apetito por la inteligencia artificial y puede influir en las tecnológicas y fondos con exposición a ellas. Qué significa para ti: ilustra la volatilidad de las salidas a bolsa; información, no asesoramiento financiero.",
+      "views": [
+        {
+          "label": "Lectura de demanda",
+          "text": "Recuerda que la oferta recibió más de cinco veces demanda y que la compañía recaudó una cifra récord."
+        },
+        {
+          "label": "Lectura de riesgo",
+          "text": "Señala que quienes compraron en la colocación ya pierden dinero y que la caída pilló al mercado a contrapié."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Cinco Días · Anthropic pierde el precio de la salida a Bolsa",
+          "url": "https://cincodias.elpais.com/economia/2026-11-24/anthropic-pierde-el-precio-de-salida-a-bolsa-antes-de-su-cuarto-dia-de-cotizacion-en-wall-street.html"
+        },
+        {
+          "name": "Europa Press · Anthropic cae por debajo de su precio de s...",
+          "url": "https://www.europapress.es/economia/noticia-anthropic-cae-debajo-precio-salida-83-dolares-operaciones-previas-apertura-20261124142810.html"
+        },
+        {
+          "name": "Heraldo de Aragón · Anthropic cierra con una caída del 6,...",
+          "url": "https://www.heraldo.es/noticias/economia/2026/11/24/anthropic-cierra-bolsa-caida-precio-salida-acciones-2071570.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-11-25",
+      "stories": 8,
+      "opportunities": 0,
+      "headlines": [
+        "El Gobierno ha aprobado 18 decretos-leyes desde la convocatoria electoral y llevará su convalidación a la Diputación Permanente",
+        "Hacienda rebaja el IRPF a 2,6 millones de autónomos y permite declarar el IVA una sola vez al año por debajo de 85.000 euros",
+        "El impuesto a la banca se prorroga un año y su recaudación, unos 1.400 millones, se destinará a vivienda"
+      ]
+    },
+    {
       "date": "2026-11-24",
       "stories": 5,
       "opportunities": 0,
