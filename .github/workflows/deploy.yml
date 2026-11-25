@@ -4,6 +4,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      avisar:
+        description: "Enviar también el aviso de la última edición"
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -19,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment2.outputs.page_url || steps.deployment3.outputs.page_url }}
     steps:
       - uses: actions/checkout@v5
         with:
@@ -39,24 +44,53 @@ jobs:
         with:
           path: .
 
+      # GitHub tarda unos segundos en registrar el paquete recién subido; si se
+      # despliega al instante, a veces responde "No artifacts named github-pages".
+      - name: Esperar a que GitHub registre el paquete
+        run: sleep 20
+
       - name: Desplegar en GitHub Pages
         id: deployment
+        continue-on-error: true
+        uses: actions/deploy-pages@v5
+
+      - name: Reintentar el despliegue (1)
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 45
+      - name: Desplegar en GitHub Pages (reintento 1)
+        id: deployment2
+        if: steps.deployment.outcome == 'failure'
+        continue-on-error: true
+        uses: actions/deploy-pages@v5
+
+      - name: Reintentar el despliegue (2)
+        if: steps.deployment.outcome == 'failure' && steps.deployment2.outcome == 'failure'
+        run: sleep 90
+      - name: Desplegar en GitHub Pages (reintento 2)
+        id: deployment3
+        if: steps.deployment.outcome == 'failure' && steps.deployment2.outcome == 'failure'
         uses: actions/deploy-pages@v5
 
       - name: Avisar con ntfy si hay edición nueva
-        if: github.event_name == 'push'
+        if: github.event_name == 'push' || inputs.avisar
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           BEFORE: ${{ github.event.before }}
-          PAGE_URL: ${{ steps.deployment.outputs.page_url }}
+          FORZAR: ${{ inputs.avisar }}
+          PAGE_URL: ${{ steps.deployment.outputs.page_url || steps.deployment2.outputs.page_url || steps.deployment3.outputs.page_url }}
         run: |
           if [ -z "$NTFY_TOPIC" ]; then echo "Sin secreto NTFY_TOPIC: no se avisa."; exit 0; fi
-          if [ -z "$BEFORE" ] || ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
-            ADDED=$(git diff-tree --root --no-commit-id --name-only --diff-filter=A -r "$GITHUB_SHA")
+          if [ "$FORZAR" = "true" ]; then
+            # Lanzado a mano: avisa de la edición más reciente.
+            FILE=$(ls editions/ | grep -E '^[0-9]{4}-[0-9]{2}-[0-9]{2}\.json$' | sort | tail -n 1 | sed 's#^#editions/#')
           else
-            ADDED=$(git diff --name-only --diff-filter=A "$BEFORE" "$GITHUB_SHA")
+            if [ -z "$BEFORE" ] || ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+              ADDED=$(git diff-tree --root --no-commit-id --name-only --diff-filter=A -r "$GITHUB_SHA")
+            else
+              ADDED=$(git diff --name-only --diff-filter=A "$BEFORE" "$GITHUB_SHA")
+            fi
+            FILE=$(printf '%s\n' "$ADDED" | grep -E '^editions/[0-9]{4}-[0-9]{2}-[0-9]{2}\.json$' | sort | tail -n 1 || true)
           fi
-          FILE=$(printf '%s\n' "$ADDED" | grep -E '^editions/[0-9]{4}-[0-9]{2}-[0-9]{2}\.json$' | sort | tail -n 1 || true)
           if [ -z "$FILE" ]; then echo "No hay edición nueva: no se avisa."; exit 0; fi
           if [ "$(node -p "require('./$FILE').sample === true")" = "true" ]; then echo "Edición de muestra: no se avisa."; exit 0; fi
           # JSON en UTF-8: las tildes llegan bien (en cabeceras HTTP se rompen).
