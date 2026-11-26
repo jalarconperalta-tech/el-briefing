@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-11-26",
+      "stories": 7,
+      "opportunities": 0,
+      "headlines": [
+        "Las encuestas de la última semana dan mayoría absoluta a PP y Vox, con el PSOE al alza y el CIS como excepción",
+        "Sánchez promete una hucha de las pensiones de 50.000 millones en 2030 y Feijóo defiende revalorizar con el IPC",
+        "Quienes cobren el salario mínimo en 2027 no sufrirán retenciones de IRPF, con el SMI en 18.004 euros anuales"
+      ]
+    },
+    {
       "date": "2026-11-25",
       "stories": 8,
       "opportunities": 0,

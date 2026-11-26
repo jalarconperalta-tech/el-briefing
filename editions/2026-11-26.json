@@ -1,0 +1,279 @@
+{
+  "date": "2026-11-26",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "summary_30s": [
+    "Las últimas encuestas dan mayoría absoluta a PP y Vox, con el PSOE al alza y el CIS como excepción, a tres días del 29-N.",
+    "Sánchez y Feijóo chocan por las pensiones, mientras Madrid recurrirá el decreto de vivienda y el SMI quedará sin retenciones de IRPF en 2027 si se convalida.",
+    "Las hipotecas marcan su mejor septiembre desde 2010 con el Euríbor en el 3,35 %, e Italia suaviza su presupuesto para la banca."
+  ],
+  "opportunities": [],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "Las encuestas de la última semana dan mayoría absoluta a PP y Vox, con el PSOE al alza y el CIS como excepción",
+      "dek": "El modelo de El País ve probable un gobierno de PP y Vox, pero no garantizado.",
+      "read_minutes": 2,
+      "what": [
+        "Según los sondeos publicados entre el 20 y el 24 de noviembre, PP y Vox sumarían entre 187 y 203 escaños; la mayoría absoluta está en 176.",
+        "El 40dB para El País y la SER sitúa a PP, Vox y UPN en 187 escaños y al PSOE en el 30,9 %; Sigma Dos para El Mundo da 190 a PP y Vox.",
+        "El CIS es la excepción: mantiene al PSOE casi diez puntos por delante. El modelo de El País estima que la derecha se queda corta una de cada seis veces."
+      ],
+      "why": "A tres días de la votación, la distancia entre bloques decide si el próximo Gobierno depende de pactos con partidos territoriales. Qué significa para ti: el resultado condiciona vivienda, impuestos y pensiones en 2027, incluidos los decretos aprobados en campaña.",
+      "views": [
+        {
+          "label": "Lectura del bloque PP-Vox",
+          "text": "Los sondeos privados coinciden en una mayoría absoluta de ambos partidos con un margen de 11 a 27 escaños sobre los 176 necesarios."
+        },
+        {
+          "label": "Lectura del bloque de Gobierno",
+          "text": "El PSOE muestra tendencia al alza y el CIS lo sitúa en cabeza; el margen de error y el voto aún por decidir mantienen abierto el resultado."
+        }
+      ],
+      "sources": [
+        {
+          "name": "El País · ¿Quién va a ganar las elecciones? La…",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/quien-va-a-ganar-las-elecciones-la-probabilidad-de-cada-mayoria-segun-las-encuestas.html"
+        },
+        {
+          "name": "Qué.es · Las encuestas del 29N dan la victoria a Feijóo…",
+          "url": "https://www.que.es/2026/11/24/encuestas-29n-feijoo-mayoria-pp-vox/"
+        },
+        {
+          "name": "Infobae · Las últimas encuestas del 29-N",
+          "url": "https://www.infobae.com/espana/2026/11/23/las-ultimas-encuestas-del-29-n-la-mayoria-absoluta-de-pp-y-vox-no-peligra-pese-a-las-23-provincias-donde-el-ultimo-diputado-se-decantaria-por-menos-de-10000-votos/"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Política",
+      "label": "Política · Pensiones",
+      "title": "Sánchez promete una hucha de las pensiones de 50.000 millones en 2030 y Feijóo defiende revalorizar con el IPC",
+      "dek": "Las pensiones centran el cierre de campaña, con cifras distintas sobre el sistema.",
+      "read_minutes": 1,
+      "what": [
+        "Sánchez afirma que existen garantías para sostener el sistema y que su objetivo es llevar el Fondo de Reserva a 50.000 millones en 2030.",
+        "En el debate del 19 de noviembre retó a Feijóo a una reforma constitucional que garantice la subida con el IPC.",
+        "Feijóo respondió que Sánchez no tiene votos para aprobar los Presupuestos, señaló un déficit de la Seguridad Social de unos 100.000 millones y defendió la revalorización con el IPC."
+      ],
+      "why": "Ambos candidatos dicen defender la actualización con el IPC; la discrepancia está en la sostenibilidad del sistema y en cómo se presentan las cifras. Qué significa para ti: la cuantía de las pensiones y la presión sobre cotizaciones e impuestos en las próximas décadas dependen de este debate.",
+      "views": [
+        {
+          "label": "Posición de Sánchez",
+          "text": "Defiende la salud del sistema, propone blindar la subida con el IPC en la Constitución y fija la meta de la hucha en 50.000 millones."
+        },
+        {
+          "label": "Posición de Feijóo",
+          "text": "Cuestiona que pueda reformar la Constitución sin apoyos, advierte del déficit de la Seguridad Social y reclama la revalorización con el IPC."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Europa Press · Sánchez garantiza la sostenibilidad de…",
+          "url": "https://www.europapress.es/economia/laboral-00346/noticia-sanchez-garantiza-sostenibilidad-pensiones-promete-llevar-hucha-50000-millones-2030-20261125101016.html"
+        },
+        {
+          "name": "Telecinco · Sánchez reta a Feijóo a una reforma…",
+          "url": "https://www.telecinco.es/noticias/espana/20261119/sanchez-reta-feijoo-reforma-constitucional-garantizar-subida-pensiones-ipc-miedo_18_020764140.html"
+        },
+        {
+          "name": "Libre Mercado · Sánchez naufraga ante Feijóo en el…",
+          "url": "https://www.libertaddigital.com/libremercado/2026-11-20/sanchez-naufraga-ante-feijoo-en-el-debate-economico-vivienda-impuestos-y-pensiones-7494936/"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Finanzas",
+      "label": "Fiscalidad · IRPF",
+      "title": "Quienes cobren el salario mínimo en 2027 no sufrirán retenciones de IRPF, con el SMI en 18.004 euros anuales",
+      "dek": "El decreto-ley eleva la deducción por rendimientos del trabajo y la reduce de forma gradual hasta unos 23.000 euros.",
+      "read_minutes": 1,
+      "what": [
+        "El SMI de 2027 sube un 5,3 %, hasta 1.286 euros al mes en 14 pagas (18.004 euros brutos al año).",
+        "El Real Decreto-ley 38/2026 amplía la deducción para rentas iguales o inferiores al SMI y se aplica de forma decreciente hasta cerca de 23.172 euros; el reglamento se ajusta para que no se practique retención.",
+        "El decreto-ley debe ser convalidado por el Congreso. Expansión estima que el SMI y los nuevos permisos costarán 4.000 millones a las empresas."
+      ],
+      "why": "Mayor sueldo neto desde enero para las rentas más bajas, con un coste que asumen Hacienda y las empresas. Qué significa para ti: es un tema útil para divulgación fiscal; el cambio depende de la convalidación tras las elecciones.",
+      "views": [
+        {
+          "label": "Posición del Gobierno",
+          "text": "Presenta la medida como un modo de que la subida del SMI llegue íntegra a la nómina de los trabajadores con menos ingresos."
+        },
+        {
+          "label": "Posición empresarial",
+          "text": "Los cálculos del sector apuntan a un sobrecoste de unos 4.000 millones por el SMI y los nuevos permisos, con la necesidad de cubrir bajas."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Heraldo de Aragón · El Gobierno cambia el IRPF: el SMI…",
+          "url": "https://www.heraldo.es/noticias/economia/2026/11/25/es-oficial-gobierno-cambia-irpf-desde-1-enero-2027-los-trabajadores-que-cobren-salario-minimo-ya-no-tendran-retenciones-este-impuesto-su-nomina-2071667.html"
+        },
+        {
+          "name": "La Moncloa · Consejo de Ministros: el Gobierno eleva el…",
+          "url": "https://www.lamoncloa.gob.es/consejodeministros/resumenes/paginas/2026/171126-rueda-prensa-consejo-ministros.aspx"
+        },
+        {
+          "name": "Expansión · El SMI y los nuevos permisos costarán 4.000…",
+          "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/26/smi-nuevos-permisos-costaran-4-000-millones-empresas.html"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "section": "Finanzas",
+      "label": "Vivienda · Hipotecas",
+      "title": "Las hipotecas sobre vivienda marcan su mejor septiembre desde 2010 mientras el Euríbor mantiene noviembre como el mes más caro del año",
+      "dek": "El INE cifra 46.469 préstamos y un tipo medio del 3,05 %.",
+      "read_minutes": 1,
+      "what": [
+        "Según el INE, las hipotecas sobre viviendas subieron un 2,3 % interanual en septiembre, hasta 46.469; el importe medio fue de 178.352 euros y el 62,5 % se firmó a tipo fijo.",
+        "El Euríbor a 12 meses bajó el 25 de noviembre al 3,351 % tras rozar su máximo anual; la media provisional del mes ronda el 3,31 %, más de un punto por encima de hace un año.",
+        "Expansión calcula que revisar una hipoteca variable ahora supone unos 90 euros más al mes."
+      ],
+      "why": "El mercado hipotecario sigue activo, pero con tipos por encima del 3 % que elevan el esfuerzo de compra y la cuota de las variables. Qué significa para ti: antes de comprar o revisar una hipoteca conviene comparar fijo y variable con el Euríbor actual y los avales disponibles.",
+      "views": [
+        {
+          "label": "Lectura de actividad",
+          "text": "El dato de septiembre refleja dinamismo: la mayor cifra para ese mes desde 2010 y un tipo medio ligeramente a la baja."
+        },
+        {
+          "label": "Lectura de coste",
+          "text": "El Euríbor en torno al 3,3 % encarece las cuotas variables y mantiene el esfuerzo de acceso a la vivienda elevado."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Europa Press · Las hipotecas sobre viviendas marcan…",
+          "url": "https://www.europapress.es/economia/finanzas-00340/noticia-hipotecas-viviendas-marcan-record-16-anos-mes-septiembre-subir-23-20261125090101.html"
+        },
+        {
+          "name": "idealista · La firma de hipotecas marca su mejor…",
+          "url": "https://www.idealista.com/news/finanzas/hipotecas/2026/11/25/926073-la-firma-de-hipotecas-marca-su-mejor-septiembre-desde-2010-y-crece-casi-un-5-este-ano"
+        },
+        {
+          "name": "Expansión · El Euríbor hoy baja al 3,351%, pero…",
+          "url": "https://www.expansion.com/mercados/euribor/2026/11/25/euribor-hoy-da-respiro-baja-3-351-noviembre-mes-caro-ano-hipoteca.html"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "section": "Finanzas",
+      "label": "Vivienda · Regulación",
+      "title": "Madrid recurrirá ante el Constitucional el decreto de vivienda que prorroga alquileres y extiende el escudo antidesahucios",
+      "dek": "La Diputación Permanente lo convalidó el 12 de noviembre por 35 votos a favor y 34 en contra.",
+      "read_minutes": 1,
+      "what": [
+        "El decreto permite pedir una prórroga de dos años a los alquileres que venzan antes del 31 de diciembre de 2028 y extiende el escudo antidesahucios hasta 2030.",
+        "Limita la actualización de rentas: congelación hasta el 31 de diciembre de 2027 si ya superan el índice de referencia y máximo del 2 % si están por debajo.",
+        "La Comunidad de Madrid sostiene que invade competencias autonómicas y vulnera la seguridad jurídica, y espera que un Gobierno del PP derogue la ley de vivienda."
+      ],
+      "why": "El decreto está en vigor, pero el recurso y el resultado electoral pueden cambiar su alcance. Qué significa para ti: afecta a quien alquila o piensa comprar para alquilar; conviene seguir su convalidación y la posible derogación.",
+      "views": [
+        {
+          "label": "Posición de la Comunidad de Madrid",
+          "text": "Alega que el decreto invade competencias, afecta a la propiedad privada y a la libertad de empresa y perjudica a propietarios e inquilinos."
+        },
+        {
+          "label": "Posición de quienes lo convalidaron",
+          "text": "La Diputación Permanente aprobó el decreto por la mínima y rechazó la prórroga automática; los apoyos lo defienden como protección frente a desahucios y subidas de renta."
+        }
+      ],
+      "sources": [
+        {
+          "name": "elDiario.es · El Gobierno de Ayuso recurre el decreto de…",
+          "url": "https://www.eldiario.es/madrid/gobierno-ayuso-recurre-decreto-vivienda-recoge-medidas-prorroga-alquileres-escudo-antidesahucios_1_13692131.html"
+        },
+        {
+          "name": "idealista · La Diputación Permanente convalida el…",
+          "url": "https://www.idealista.com/news/inmobiliario/vivienda/2026/11/12/923779-la-diputacion-permanente-convalida-el-decreto-de-vivienda-y-rechaza-el-de"
+        },
+        {
+          "name": "elDiario.es · El Gobierno saca adelante el decreto que…",
+          "url": "https://www.eldiario.es/politica/gobierno-sortea-rechazo-pp-vox-junts-logra-prohibir-desahucios-2031-horas-iniciarse-campana_1_13657109.html"
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "section": "Mundo",
+      "label": "Italia · Fiscalidad",
+      "title": "Italia renuncia a repartir en diez años unos 20.000 millones de créditos fiscales de reformas en poder de los bancos",
+      "dek": "El Gobierno de Meloni suaviza el presupuesto de 2027 tras las advertencias de Intesa Sanpaolo y del Banco de Italia.",
+      "read_minutes": 1,
+      "what": [
+        "Según Reuters, el Ejecutivo prevé retirar la medida que escalonaba unos 20.000 millones en créditos fiscales de reformas del Superbonus.",
+        "Intesa Sanpaolo y el Banco de Italia habían advertido de que limitar su uso recortaría los beneficios bancarios de 2026.",
+        "El presupuesto sigue subiendo el IRES de los bancos del 27,5 % al 30,5 % y la patronal ABI sostiene que choca con la Constitución."
+      ],
+      "why": "El giro alivia a la banca italiana, pero obliga al Tesoro a buscar otras vías para cumplir con la reducción de deuda, que alcanzaría un máximo del 138,5 % del PIB. Qué significa para ti: es una pista sobre la fiscalidad y la salud del sector financiero en Italia, útil para seguir ese mercado.",
+      "views": [
+        {
+          "label": "Posición de la banca",
+          "text": "Intesa Sanpaolo y el Banco de Italia alertan del impacto en resultados y la ABI considera inconstitucionales las subidas de impuestos."
+        },
+        {
+          "label": "Posición del Gobierno",
+          "text": "Busca mantener los objetivos de deuda y financiar el gasto con una aportación de unos 6.000 millones del sector financiero."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters (WKZO) · In olive branch to banks, Italy plans…",
+          "url": "https://wkzo.com/2026/11/25/in-olive-branch-to-banks-italy-plans-to-drop-curbs-on-home-renovation-tax-credits/"
+        },
+        {
+          "name": "Global Banking & Finance · Italy to Drop Curbs on Home…",
+          "url": "https://www.globalbankingandfinance.com/olive-branch-banks-italy-plans-drop-curbs-home-renovation/"
+        },
+        {
+          "name": "Il Foglio (inglés) · Giorgetti's construction fiasco…",
+          "url": "https://www.ilfoglio.it/en/politics/2026/11/14/news/magutt-giorgettis-construction-fiasco-involving-banks-and-the-superbonus--413733"
+        }
+      ]
+    },
+    {
+      "id": "c7",
+      "section": "Finanzas",
+      "label": "Oportunidades · Ayudas",
+      "title": "El Plan Auto+ agota las ayudas de 4.500 euros para particulares y su continuidad queda pendiente de las elecciones",
+      "dek": "La ventanilla sigue abierta hasta el 31 de diciembre solo como lista de espera.",
+      "read_minutes": 1,
+      "what": [
+        "Motor16 informa de 358,52 millones solicitados frente a 350 presupuestados para particulares.",
+        "eldiario.es indica que el Ministerio de Industria no prevé ampliar la partida de forma inmediata.",
+        "Las fuentes difieren en la fecha exacta de agotamiento; la línea de autónomos y empresas muestra una situación distinta."
+      ],
+      "why": "Quien planeaba comprar un eléctrico con subvención ya no puede contar con ella, y el futuro del programa depende del próximo Gobierno. Qué significa para ti: conviene consultar los incentivos fiscales y la sede oficial antes de comprar.",
+      "views": [
+        {
+          "label": "Lectura del sector",
+          "text": "Las asociaciones del motor piden ampliar la dotación para sostener las ventas de eléctricos."
+        },
+        {
+          "label": "Lectura del Ministerio",
+          "text": "Industria no contempla una partida extra y deja la continuidad del plan para después de los comicios."
+        }
+      ],
+      "sources": [
+        {
+          "name": "elDiario.es · El Plan Auto+ agota las ayudas a los…",
+          "url": "https://www.eldiario.es/motor/sector_y_mercado/plan-auto-agota-ayudas-coches-electricos-perspectiva-ampliacion_1_13679815.html"
+        },
+        {
+          "name": "Motor16 · El Plan Auto+ agota sus fondos",
+          "url": "https://www.motor16.com/noticias/plan-auto-agota-ayudas-coche-electrico/"
+        },
+        {
+          "name": "Qué.es · Las ayudas al coche eléctrico se agotan a…",
+          "url": "https://www.que.es/2026/11/20/ayudas-coche-electrico-agotan-diciembre/"
+        }
+      ]
+    }
+  ]
+}
