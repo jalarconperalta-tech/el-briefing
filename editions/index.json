@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "date": "2026-11-27",
+      "stories": 8,
+      "opportunities": 2,
+      "headlines": [
+        "El debate a cuatro cierra la campaña con choques entre PP y Vox y PSOE y Frente Amplio sobre impuestos, vivienda y trenes",
+        "Vivienda en el debate: Feijóo promete un millón de viviendas y Sánchez defiende su ley, mientras Colau propone expropiar a fondos",
+        "La Diputación Permanente convalida que el SMI de 2027 no pague IRPF y la subida del 4,5 % a los funcionarios"
+      ]
+    },
+    {
       "date": "2026-11-26",
       "stories": 7,
       "opportunities": 0,

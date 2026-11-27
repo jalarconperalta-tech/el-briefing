@@ -1,0 +1,350 @@
+{
+  "date": "2026-11-27",
+  "edition_time": "06:15",
+  "is_monday_weekend_recap": false,
+  "summary_30s": [
+    "El debate a cuatro del jueves cerró la campaña con choques sobre impuestos, vivienda y trenes a dos días del 29-N.",
+    "La Diputación Permanente convalidó la subida del 4,5 % a los funcionarios y la deducción que deja sin IRPF al SMI de 2027, mientras el decreto de autónomos con IVA anual espera su turno tras las elecciones.",
+    "Los líderes de la eurozona eligieron a Hernández de Cos para presidir el BCE desde febrero de 2027, y las compraventas de vivienda caen un 16,7 % con precios al alza.",
+    "Para ti: sube la Letra a 9 meses cerca del 2,9 % antes de la subasta de diciembre y el aval ICO para primera vivienda sigue vigente en 2027."
+  ],
+  "opportunities": [
+    {
+      "id": "o1",
+      "kind": "Inversión",
+      "deadline": "Subasta: 9 dic",
+      "title": "Letras del Tesoro a 3 y 9 meses: el tipo marginal a 9 meses ronda el 2,95 % antes de la subasta de diciembre",
+      "fit": "Encaja con quien prioriza ahorro a corto plazo con riesgo bajo, por ejemplo para una entrada de vivienda en pocos años.",
+      "detail": "En la subasta del 10 de noviembre el Tesoro adjudicó 1.602 millones: el tipo marginal fue del 2,665 % a 3 meses y del 2,946 % a 9 meses, con demanda de unas tres veces lo adjudicado. La siguiente subasta de 3 y 9 meses está prevista el 9 de diciembre y la de 6 y 12 meses, en la primera semana de diciembre.",
+      "action": "Consultar el calendario del Tesoro y comparar el tipo de la Letra con depósitos y cuentas remuneradas antes de decidir; las Letras se pueden pedir en el Banco de España o a través de un banco.",
+      "sources": [
+        {
+          "name": "Raisin · Rentabilidad Letras 3 y 9 meses, noviembre 2026",
+          "url": "https://www.raisin.com/es-es/noticias/rentabilidad-letras-3-9-meses-noviembre-2026/"
+        },
+        {
+          "name": "Banco de España · Calendario de subastas de Letras 2026",
+          "url": "https://www.bde.es/f/webbe/INF/MenuVertical/MercadoDeDeudaPublica/ProximasSubastas/Ficheros/Calendario_Letras_Web_2026.pdf"
+        }
+      ],
+      "note": "Información, no asesoramiento financiero."
+    },
+    {
+      "id": "o2",
+      "kind": "Ayuda",
+      "deadline": "Plazo: 2027",
+      "title": "El aval ICO para la compra de la primera vivienda de menores de 36 años se prorroga hasta 2027",
+      "fit": "Útil para quien planea comprar su primera vivienda con hipoteca y cumple los requisitos de edad e ingresos.",
+      "detail": "Una resolución publicada en el BOE el 2 de julio de 2026 recoge la prórroga del convenio entre el Ministerio de Vivienda y el ICO. Según la prensa especializada, el aval cubre hasta el 20 % del préstamo (el 25 % en viviendas con buena calificación energética) y hay límites de ingresos y de precio según la comunidad. La fecha exacta de cierre debe comprobarse en el texto oficial.",
+      "action": "Confirmar con el banco que la operación entra en el aval, revisar los límites de precio e ingresos de la comunidad y la fecha final en el BOE y en la web del ICO.",
+      "sources": [
+        {
+          "name": "BOE · Resolución de 23 de junio de 2026 (BOE-A-2026-14404)",
+          "url": "https://www.boe.es/boe/dias/2026/07/02/pdfs/BOE-A-2026-14404.pdf"
+        },
+        {
+          "name": "Diario de Avisos · El BOE prorroga los avales ICO hasta 2027",
+          "url": "https://diariodeavisos.elespanol.com/2026/07/boe-prorroga-avales-ico-comprar-primera-vivienda-2027/"
+        },
+        {
+          "name": "Roams · Aval ICO hipoteca joven 2026 y prórroga a 2027",
+          "url": "https://roams.es/actualidad/finanzas/aval-ico-hipoteca-joven-2026-10453-operaciones-prorroga-2027-pausa-conviene-entender/"
+        }
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "id": "c1",
+      "section": "Política",
+      "label": "Política · España",
+      "title": "El debate a cuatro cierra la campaña con choques entre PP y Vox y PSOE y Frente Amplio sobre impuestos, vivienda y trenes",
+      "dek": "Sánchez, Feijóo, Abascal y Colau se vieron por primera vez en un mismo plató, a tres días del 29-N.",
+      "read_minutes": 1,
+      "what": [
+        "Feijóo anunció una auditoría de las cuentas públicas y recortar asesores y altos cargos; Sánchez defendió que Banco de España, Eurostat y Comisión Europea ya revisan las cuentas.",
+        "Colau propuso un impuesto a los ricos que recaude 10.000 millones y cuestionó los recortes de gasto de Vox, que según ella ascienden a 112.000 millones.",
+        "En trenes, Feijóo propuso una auditoría del corredor ferroviario y Abascal pidió apartar de Adif y Renfe a cargos colocados por motivos políticos."
+      ],
+      "why": "Es el último gran cara a cara antes de votar y resume el reparto de propuestas fiscales, de vivienda y de infraestructuras entre los dos bloques. Qué significa para ti: el resultado condicionará impuestos y vivienda en 2027; la cifra de Colau sobre Vox es una atribución suya que el medio no verifica.",
+      "views": [
+        {
+          "label": "Bloque PP-Vox",
+          "text": "Feijóo y Abascal plantean auditar y recortar gasto político o de estructura, bajar impuestos y reformar la gestión ferroviaria con perfiles técnicos o sin cargos políticos."
+        },
+        {
+          "label": "Bloque PSOE-Frente Amplio",
+          "text": "Sánchez y Colau defienden las cuentas públicas actuales, advierten de recortes en pensiones y servicios si gobierna la derecha y proponen más impuestos a las rentas altas."
+        }
+      ],
+      "sources": [
+        {
+          "name": "elDiario.es · Debate electoral a cuatro del 26 de noviembre",
+          "url": "https://www.eldiario.es/politica/ultima-hora-ultimo-debate-electoral-sanchez-feijoo-colau-abascal_6_13696999.html"
+        },
+        {
+          "name": "COPE · Así te contamos el debate a cuatro",
+          "url": "https://www.cope.es/programas/la-linterna/al-minuto/contamos-debate-cuatro-sanchez-feijoo-abascal-colau-elecciones-generales-29n-20261126_3483264.html"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "section": "Finanzas",
+      "label": "Vivienda · Política",
+      "title": "Vivienda en el debate: Feijóo promete un millón de viviendas y Sánchez defiende su ley, mientras Colau propone expropiar a fondos",
+      "dek": "Las propuestas llegan con precios disparados, poca oferta y compraventas a la baja.",
+      "read_minutes": 1,
+      "what": [
+        "Feijóo prometió construir un millón de viviendas, licencias en 90 días, cambios en las leyes de suelo y de propiedad horizontal y una rebaja fiscal del 60 % para jóvenes.",
+        "Sánchez defendió su ley de vivienda, que según él amplió la oferta de alquiler en 476.000 pisos, y pidió una mayoría progresista para desbloquear su regulación.",
+        "Colau propuso bajar alquileres y expropiar viviendas de fondos para alquiler social; eldiario.es señala que la cifra de 400.000 viviendas retiradas del alquiler citada por Feijóo no es correcta."
+      ],
+      "why": "La vivienda es uno de los principales problemas de la campaña y la oferta y los precios dependerán de qué bloque gobierne. Qué significa para ti: si compras o alquilas, conviene seguir qué medidas de aval, fiscalidad y alquiler sobreviven tras el 29-N.",
+      "views": [
+        {
+          "label": "Propuesta del PP",
+          "text": "Más oferta con suelo y licencias más rápidas y menos impuestos para jóvenes, con la tesis de que la regulación actual reduce el alquiler disponible."
+        },
+        {
+          "label": "Propuesta del PSOE",
+          "text": "Mantener y reforzar la regulación del alquiler, con el argumento de que la ley de vivienda ya ha aumentado la oferta y protege a los inquilinos."
+        }
+      ],
+      "sources": [
+        {
+          "name": "COPE · Así te contamos el debate a cuatro",
+          "url": "https://www.cope.es/programas/la-linterna/al-minuto/contamos-debate-cuatro-sanchez-feijoo-abascal-colau-elecciones-generales-29n-20261126_3483264.html"
+        },
+        {
+          "name": "elDiario.es · Debate electoral a cuatro del 26 de noviembre",
+          "url": "https://www.eldiario.es/politica/ultima-hora-ultimo-debate-electoral-sanchez-feijoo-colau-abascal_6_13696999.html"
+        },
+        {
+          "name": "Expansión · Radiografía de la vivienda: precios disparado…",
+          "url": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/11/27/radiografia-vivienda-precios-disparados-poca-oferta-muchas-promesas-politicas.html"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "section": "Finanzas",
+      "label": "Fiscalidad · IRPF",
+      "title": "La Diputación Permanente convalida que el SMI de 2027 no pague IRPF y la subida del 4,5 % a los funcionarios",
+      "dek": "Vox no acudió a la sesión; la deducción llega a 18.004 euros anuales y se aplica desde enero.",
+      "read_minutes": 1,
+      "what": [
+        "El SMI de 2027 queda en 1.286 euros brutos al mes y una deducción en el IRPF evita que tribute; una reforma del reglamento impide retenciones en nómina.",
+        "Hacienda estima que la rebaja costará unos 1.200 millones; el decreto también actualiza las entregas a cuenta a comunidades (185.593 millones) y entes locales (33.773 millones).",
+        "Los salarios públicos suben un 4,5 % en 2027, para unos tres millones de empleados, y se actualizan las indemnizaciones por residencia y la acción social."
+      ],
+      "why": "Con la convalidación, ambas medidas quedan firmes antes de las elecciones. Qué significa para ti: es un tema claro para divulgación fiscal sobre deducciones por rendimientos del trabajo y retenciones.",
+      "views": [
+        {
+          "label": "Lectura del Gobierno",
+          "text": "Presenta la medida como forma de que la subida del SMI llegue íntegra a la nómina y de actualizar los sueldos públicos pactados con los sindicatos."
+        },
+        {
+          "label": "Lectura crítica",
+          "text": "El economista Daniel Lacalle sostiene que el SMI sube 910 euros al año para el trabajador pero el coste salarial aumenta 1.210 euros."
+        }
+      ],
+      "sources": [
+        {
+          "name": "elDiario.es · El Congreso ratifica la subida del 4,5 % y…",
+          "url": "https://www.eldiario.es/economia/congreso-ratifica-subida-sueldo-4-5-funcionarios-salario-minimo-2027-no-pague-irpf_1_13695386.html"
+        },
+        {
+          "name": "Legal Today · Consejo de Ministros aprueba subir un 4,5 %…",
+          "url": "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-consejo-de-ministros-aprueba-subir-un-45-el-sueldo-de-los-funcionarios-y-las-indemnizaciones-por-razon-de-residencia-2026-11-17/"
+        },
+        {
+          "name": "Heraldo de Aragón · Daniel Lacalle critica el incremento…",
+          "url": "https://www.heraldo.es/noticias/economia/2026/11/26/daniel-lacalle-economista-critica-incremento-salario-minimo-smi-sube-coste-salarial-2071096.html"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "section": "Finanzas",
+      "label": "Fiscalidad · Autónomos",
+      "title": "El decreto para autónomos ya está en el BOE: IVA anual opcional, deducción de hasta 3.000 euros y Verifactu aplazado a octubre de 2028",
+      "dek": "Novedad respecto a ayer: el texto publicado concreta las medidas, pero debe convalidarse antes del 23 de diciembre.",
+      "read_minutes": 1,
+      "what": [
+        "Desde 2027, quienes facturen menos de 85.000 euros podrán presentar una sola declaración anual de IVA, con tres pagos a cuenta del 25 % de la cuota del año anterior.",
+        "La deducción por gastos de difícil justificación en estimación directa simplificada pasa del 5 % al 10 % del rendimiento neto, con tope de 3.000 euros en lugar de 2.000.",
+        "El pago fraccionado del IRPF baja del 20 % al 19 % para quien facture menos de 250.000 euros, los módulos se prorrogan en 2027 y Verifactu se retrasa del 1 de julio de 2027 a octubre de 2028."
+      ],
+      "why": "Como las Cortes están disueltas, lo votará la Diputación Permanente y el decreto se vota en bloque con la prórroga del gravamen a la banca; si cae, decaerían también estas medidas. Qué significa para ti: es material directo para análisis fiscal de autónomos, con la convalidación como punto a vigilar.",
+      "views": [
+        {
+          "label": "Lo que ofrece el decreto",
+          "text": "Reduce cargas administrativas y de liquidez de unos 1,1 millones de autónomos con IVA anual, menos pagos fraccionados y más deducción."
+        },
+        {
+          "label": "Lo que queda pendiente",
+          "text": "La convalidación en bloque con otras medidas fiscales y las dudas de gestores sobre cómo se calcularán los pagos a cuenta mantienen abierta su aplicación."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Qué.es · Medidas fiscales para autónomos: IVA anual y pag…",
+          "url": "https://www.que.es/2026/11/26/medidas-fiscales-autonomos-iva-irpf/"
+        },
+        {
+          "name": "Estrella Digital · Hacienda rebaja el IRPF a 2,6 millones…",
+          "url": "https://www.estrelladigital.es/espana/rebaja-irpf-autonomos-iva-anual-convalidacion-diputacion-permanente-29-n/20261124144237453853.html"
+        },
+        {
+          "name": "Club Jurista · IVA anual para autónomos y Verifactu a 2028",
+          "url": "https://clubjurista.com/iva-anual-para-autonomos/"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "section": "Finanzas",
+      "label": "Vivienda · Mercado",
+      "title": "Las compraventas de vivienda caen un 16,7 % en octubre mientras el precio medio sube un 15,6 %, según el Notariado",
+      "dek": "Diez meses de caída de operaciones sin freno en los precios, con el Euríbor en el 3,3 %.",
+      "read_minutes": 1,
+      "what": [
+        "El Consejo General del Notariado registró 54.823 compraventas en octubre, un 16,7 % menos que hace un año, tras diez meses de descensos frente al récord de 2025.",
+        "El precio medio fue de 2.582 euros por metro cuadrado, un 15,6 % más; Madrid capital alcanza 5.705 euros y Barcelona capital, 5.130.",
+        "El Euríbor a 12 meses bajó el 26 de noviembre al 3,328 %, su segunda caída seguida."
+      ],
+      "why": "Menos operaciones con precios más altos indican una oferta escasa y un acceso más caro. Qué significa para ti: con tipos por encima del 3 %, el esfuerzo de compra sigue alto y conviene comparar hipotecas fijas y variables antes de decidir.",
+      "views": [
+        {
+          "label": "Lectura de mercado",
+          "text": "Los precios se mantienen al alza pese a menos ventas porque la oferta es limitada y la demanda sigue pujando por la vivienda disponible."
+        },
+        {
+          "label": "Lectura de financiación",
+          "text": "El nivel del Euríbor y los precios elevados reducen la capacidad de compra y frenan las operaciones, aunque la bajada reciente alivia algo las cuotas variables."
+        }
+      ],
+      "sources": [
+        {
+          "name": "elDiario.es · La vivienda sube de precio un 15 % pese a q…",
+          "url": "https://www.eldiario.es/economia/vivienda-sube-precio-15-pese-ventas-caen-10-meses_1_13694864.html"
+        },
+        {
+          "name": "Expansión · El Euríbor hoy encadena dos bajadas",
+          "url": "https://www.expansion.com/mercados/euribor/2026/11/26/euribor-hoy-encadena-dos-bajadas-hipoteca-libra-asi-cerrara-ano.html"
+        },
+        {
+          "name": "Expansión · Radiografía de la vivienda",
+          "url": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/11/27/radiografia-vivienda-precios-disparados-poca-oferta-muchas-promesas-politicas.html"
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "section": "Finanzas",
+      "label": "Economía y BCE · Europa",
+      "title": "Los líderes del euro eligen por unanimidad a Hernández de Cos para presidir el BCE desde el 7 de febrero de 2027",
+      "dek": "Se impuso al neerlandés Klaas Knot y falta el refrendo del Parlamento Europeo y el dictamen del Consejo de Gobierno.",
+      "read_minutes": 1,
+      "what": [
+        "Los jefes de Estado y de Gobierno de la eurozona le eligieron en Bruselas; relevará a Christine Lagarde, que deja el cargo nueve meses antes del fin de su mandato.",
+        "El nombramiento forma parte de un reparto de cargos: Markus Brunnermeier será economista jefe y Laurence Boone asumirá operaciones de mercado.",
+        "Pendiente: el refrendo del Parlamento Europeo y el dictamen de idoneidad del Consejo de Gobierno del BCE."
+      ],
+      "why": "Será el primer español al frente del BCE y su perfil se sitúa entre los menos partidarios de mantener tipos altos mucho tiempo, aunque es ortodoxo en materia fiscal y laboral. Qué significa para ti: la senda de tipos del BCE marca el Euríbor y por tanto las cuotas de las hipotecas variables.",
+      "views": [
+        {
+          "label": "Lectura de su perfil moderado",
+          "text": "Frente a Knot, considerado más duro, se le sitúa más cerca de tipos que bajen antes, con respaldo de PSOE y PP."
+        },
+        {
+          "label": "Lectura ortodoxa",
+          "text": "Su trayectoria al frente del Banco de España incluye advertencias sobre el empleo ante subidas del SMI y reticencias a nuevos impuestos a la banca y a las energéticas."
+        }
+      ],
+      "sources": [
+        {
+          "name": "elDiario.es · El español Pablo Hernández de Cos, elegido…",
+          "url": "https://www.eldiario.es/economia/lideres-europeos-eligen-espanol-pablo-hernandez-cos-presidente-bce_1_13694914.html"
+        },
+        {
+          "name": "elDiario.es · Hernández de Cos, el nuevo presidente del BCE",
+          "url": "https://www.eldiario.es/economia/hernandez-cos-nuevo-presidente-bce-paloma-tipos-ortodoxo_129_13673552.html"
+        },
+        {
+          "name": "Teleprensa · Los líderes europeos eligen a Hernández de Cos",
+          "url": "https://www.teleprensa.com/nacional-3/economia/lideres-europeos-eligen-hernandez-cos-suceder-lagarde-frente-bce/202611261719482568683.html"
+        }
+      ]
+    },
+    {
+      "id": "c7",
+      "section": "Política",
+      "label": "Política · Empleo",
+      "title": "Entran en vigor los nuevos derechos de transparencia salarial: salario en las ofertas y prohibido preguntar por el sueldo anterior",
+      "dek": "El decreto-ley, convalidado el 26 de noviembre, traspone una exigencia europea y se publicó en el BOE el 18.",
+      "read_minutes": 1,
+      "what": [
+        "Las ofertas de empleo deben indicar el salario inicial y se prohíbe preguntar a los candidatos por su historial retributivo.",
+        "Cualquier trabajador puede pedir por escrito información sobre su salario y los salarios medios por sexo de puestos de igual valor; la empresa responde en dos meses.",
+        "Las empresas de 50 o más personas deben publicar la brecha salarial por sexo y justificarla si llega al 25 %; en las de 100 o más, a partir del 5 % de diferencia."
+      ],
+      "why": "Cambia la información disponible al negociar un sueldo y al comparar puestos. Qué significa para ti: ayuda a contrastar rangos salariales al valorar ofertas y a conocer qué pueden exigir los trabajadores.",
+      "views": [
+        {
+          "label": "Para las plantillas",
+          "text": "Ganan derechos de información sobre criterios retributivos, vacantes y horas complementarias con tres días de preaviso."
+        },
+        {
+          "label": "Para las empresas",
+          "text": "Asumen nuevas obligaciones de registro, publicación y justificación de brechas, con sanciones actualizadas por incumplimiento."
+        }
+      ],
+      "sources": [
+        {
+          "name": "elDiario.es · Nuevos derechos de transparencia en salario…",
+          "url": "https://www.eldiario.es/economia/son-nuevos-derechos-transparencia-salarios-condiciones-laborales-ratificado-congreso_1_13695548.html"
+        },
+        {
+          "name": "elDiario.es · El Congreso ratifica la subida del 4,5 % y…",
+          "url": "https://www.eldiario.es/economia/congreso-ratifica-subida-sueldo-4-5-funcionarios-salario-minimo-2027-no-pague-irpf_1_13695386.html"
+        }
+      ]
+    },
+    {
+      "id": "c8",
+      "section": "Finanzas",
+      "label": "Mercados · EE. UU.",
+      "title": "La Fed se prepara para subir los tipos: las actas de octubre ven probable otra subida antes de fin de año",
+      "dek": "La inflación, y no la corrección bursátil, centra la preocupación de los funcionarios del banco central estadounidense.",
+      "read_minutes": 1,
+      "what": [
+        "Según las actas publicadas el 18 de noviembre, casi todos los miembros ven probable que haga falta subir de nuevo los tipos para contener la inflación.",
+        "En septiembre la Fed subió un cuarto de punto hasta el 3,75 %-4 % y la mayoría consideró adecuada otra subida antes de fin de año.",
+        "Un par de participantes apuntaron que podría valorarse una subida mayor de 25 puntos básicos si los datos de inflación empeoran."
+      ],
+      "why": "Tipos más altos en EE. UU. presionan las valoraciones de la bolsa y el dólar y condicionan al BCE. Qué significa para ti: para quien sigue la bolsa de EE. UU., conviene vigilar la reunión de diciembre y la inflación antes de asumir riesgo.",
+      "views": [
+        {
+          "label": "Partidarios de subir",
+          "text": "Consideran necesario endurecer la política monetaria para contener una inflación que no cede."
+        },
+        {
+          "label": "Partidarios de esperar",
+          "text": "Algunos de los que apoyaron mantener el tipo dijeron que fue una decisión difícil, a la espera de más datos."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Expansión · La Fed se prepara para subir los tipos de int…",
+          "url": "https://www.expansion.com/mercados/2026/11/27/fed-prepara-subir-tipos-interes.html"
+        },
+        {
+          "name": "Bloomberg Línea · Minutas de la Fed advierten de una posi…",
+          "url": "https://www.bloomberglinea.com/mundo/estados-unidos/minutas-de-la-fed-revelan-advertencias-sobre-una-posible-alza-de-tasas/"
+        }
+      ]
+    }
+  ]
+}
